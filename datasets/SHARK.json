@@ -1,0 +1,2402 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 81.0,
+                "width": 152.0,
+                "x": 474.0,
+                "y": 437.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00033.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 69.0,
+                "width": 153.0,
+                "x": 477.0,
+                "y": 442.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00072.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 76.0,
+                "width": 154.0,
+                "x": 473.0,
+                "y": 440.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00096.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 137.0,
+                "width": 76.0,
+                "x": 492.0,
+                "y": 363.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00235.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 190.0,
+                "width": 641.0,
+                "x": 368.0,
+                "y": 565.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00245.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 145.0,
+                "width": 493.0,
+                "x": 227.0,
+                "y": 238.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00247.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 187.0,
+                "width": 634.0,
+                "x": 366.0,
+                "y": 565.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00265.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 302.0,
+                "width": 487.0,
+                "x": 5.0,
+                "y": 495.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00365.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 171.0,
+                "width": 639.0,
+                "x": 364.0,
+                "y": 581.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00391.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 107.0,
+                "width": 49.0,
+                "x": 548.0,
+                "y": 350.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00409.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 269.0,
+                "width": 510.0,
+                "x": 378.0,
+                "y": 143.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00427.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 140.0,
+                "width": 66.0,
+                "x": 495.0,
+                "y": 371.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00478.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 236.0,
+                "width": 488.0,
+                "x": 362.0,
+                "y": 572.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00510.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 79.0,
+                "width": 147.0,
+                "x": 476.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00560.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 111.0,
+                "width": 69.0,
+                "x": 544.0,
+                "y": 371.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00600.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 229.0,
+                "width": 412.0,
+                "x": 369.0,
+                "y": 575.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00685.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 147.0,
+                "width": 60.0,
+                "x": 552.0,
+                "y": 351.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00703.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 69.0,
+                "width": 149.0,
+                "x": 474.0,
+                "y": 443.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00736.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 129.0,
+                "width": 59.0,
+                "x": 171.0,
+                "y": 441.0
+            },
+            {
+                "class": "SHARK",
+                "height": 123.0,
+                "width": 59.0,
+                "x": 127.0,
+                "y": 471.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_00903.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 225.0,
+                "width": 633.0,
+                "x": 364.0,
+                "y": 572.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01061.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 138.0,
+                "width": 54.0,
+                "x": 557.0,
+                "y": 355.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01161.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 132.0,
+                "width": 75.0,
+                "x": 538.0,
+                "y": 358.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01182.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 308.0,
+                "width": 490.0,
+                "x": -1.0,
+                "y": 493.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01298.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 231.0,
+                "width": 452.0,
+                "x": 376.0,
+                "y": 571.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01307.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 85.0,
+                "width": 152.0,
+                "x": 474.0,
+                "y": 438.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01324.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 237.0,
+                "width": 432.0,
+                "x": 370.0,
+                "y": 567.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01342.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 120.0,
+                "width": 86.0,
+                "x": 535.0,
+                "y": 363.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01406.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 122.0,
+                "width": 91.0,
+                "x": 527.0,
+                "y": 369.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01432.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 225.0,
+                "width": 617.0,
+                "x": 370.0,
+                "y": 573.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01524.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 73.0,
+                "width": 146.0,
+                "x": 477.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01546.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 300.0,
+                "width": 486.0,
+                "x": 6.0,
+                "y": 496.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01572.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 129.0,
+                "width": 56.0,
+                "x": 175.0,
+                "y": 448.0
+            },
+            {
+                "class": "SHARK",
+                "height": 133.0,
+                "width": 55.0,
+                "x": 128.0,
+                "y": 462.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01759.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 146.0,
+                "width": 43.0,
+                "x": 577.0,
+                "y": 360.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01780.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 132.0,
+                "width": 37.0,
+                "x": 581.0,
+                "y": 353.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01795.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 88.0,
+                "width": 194.0,
+                "x": 411.0,
+                "y": 437.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01820.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 184.0,
+                "width": 480.0,
+                "x": 239.0,
+                "y": 201.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01881.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 196.0,
+                "width": 483.0,
+                "x": 238.0,
+                "y": 187.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01916.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 125.0,
+                "width": 54.0,
+                "x": 129.0,
+                "y": 468.0
+            },
+            {
+                "class": "SHARK",
+                "height": 131.0,
+                "width": 46.0,
+                "x": 175.0,
+                "y": 442.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01942.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 141.0,
+                "width": 477.0,
+                "x": 238.0,
+                "y": 225.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_01986.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 127.0,
+                "width": 52.0,
+                "x": 132.0,
+                "y": 465.0
+            },
+            {
+                "class": "SHARK",
+                "height": 128.0,
+                "width": 44.0,
+                "x": 178.0,
+                "y": 448.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02080.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 132.0,
+                "width": 49.0,
+                "x": 176.0,
+                "y": 437.0
+            },
+            {
+                "class": "SHARK",
+                "height": 122.0,
+                "width": 58.0,
+                "x": 129.0,
+                "y": 468.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02087.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 140.0,
+                "width": 27.0,
+                "x": 593.0,
+                "y": 350.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02088.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 227.0,
+                "width": 635.0,
+                "x": 371.0,
+                "y": 573.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02094.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 182.0,
+                "width": 630.0,
+                "x": 368.0,
+                "y": 572.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02095.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 296.0,
+                "width": 459.0,
+                "x": 30.0,
+                "y": 498.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02114.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 199.0,
+                "width": 515.0,
+                "x": 395.0,
+                "y": 200.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02169.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 231.0,
+                "width": 488.0,
+                "x": 371.0,
+                "y": 573.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02176.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 118.0,
+                "width": 41.0,
+                "x": 580.0,
+                "y": 353.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02224.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 175.0,
+                "width": 636.0,
+                "x": 365.0,
+                "y": 571.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02259.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 191.0,
+                "width": 405.0,
+                "x": 214.0,
+                "y": 195.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02260.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 99.0,
+                "width": 35.0,
+                "x": 558.0,
+                "y": 380.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02271.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 128.0,
+                "width": 66.0,
+                "x": 559.0,
+                "y": 354.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02288.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 70.0,
+                "width": 151.0,
+                "x": 477.0,
+                "y": 442.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02348.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 136.0,
+                "width": 59.0,
+                "x": 555.0,
+                "y": 351.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02469.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 106.0,
+                "width": 51.0,
+                "x": 559.0,
+                "y": 355.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02478.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 167.0,
+                "width": 479.0,
+                "x": 236.0,
+                "y": 205.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02557.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 227.0,
+                "width": 480.0,
+                "x": 371.0,
+                "y": 572.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02558.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 131.0,
+                "width": 49.0,
+                "x": 175.0,
+                "y": 444.0
+            },
+            {
+                "class": "SHARK",
+                "height": 123.0,
+                "width": 58.0,
+                "x": 130.0,
+                "y": 467.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02624.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 75.0,
+                "width": 144.0,
+                "x": 476.0,
+                "y": 440.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02718.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 130.0,
+                "width": 66.0,
+                "x": 546.0,
+                "y": 358.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02732.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 72.0,
+                "width": 145.0,
+                "x": 475.0,
+                "y": 439.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02744.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 72.0,
+                "width": 152.0,
+                "x": 475.0,
+                "y": 440.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02790.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 74.0,
+                "width": 154.0,
+                "x": 472.0,
+                "y": 439.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02867.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 134.0,
+                "width": 52.0,
+                "x": 174.0,
+                "y": 434.0
+            },
+            {
+                "class": "SHARK",
+                "height": 128.0,
+                "width": 61.0,
+                "x": 129.0,
+                "y": 463.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02944.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 308.0,
+                "width": 481.0,
+                "x": 8.0,
+                "y": 495.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_02987.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 303.0,
+                "width": 484.0,
+                "x": 4.0,
+                "y": 493.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03057.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 210.0,
+                "width": 557.0,
+                "x": 402.0,
+                "y": 168.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03117.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 130.0,
+                "width": 94.0,
+                "x": 517.0,
+                "y": 361.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03131.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 160.0,
+                "width": 476.0,
+                "x": 241.0,
+                "y": 207.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03148.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 127.0,
+                "width": 58.0,
+                "x": 173.0,
+                "y": 436.0
+            },
+            {
+                "class": "SHARK",
+                "height": 128.0,
+                "width": 57.0,
+                "x": 128.0,
+                "y": 465.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03168.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 109.0,
+                "width": 61.0,
+                "x": 563.0,
+                "y": 362.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03170.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 80.0,
+                "width": 146.0,
+                "x": 475.0,
+                "y": 435.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03241.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 309.0,
+                "width": 486.0,
+                "x": 3.0,
+                "y": 494.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03305.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 307.0,
+                "width": 462.0,
+                "x": 25.0,
+                "y": 493.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03351.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 125.0,
+                "width": 50.0,
+                "x": 563.0,
+                "y": 343.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03353.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 172.0,
+                "width": 493.0,
+                "x": 230.0,
+                "y": 207.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03385.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 154.0,
+                "width": 547.0,
+                "x": 408.0,
+                "y": 232.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03507.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 148.0,
+                "width": 482.0,
+                "x": 257.0,
+                "y": 230.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03521.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 230.0,
+                "width": 504.0,
+                "x": 320.0,
+                "y": 145.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03525.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 76.0,
+                "width": 150.0,
+                "x": 478.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03712.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 230.0,
+                "width": 481.0,
+                "x": 367.0,
+                "y": 569.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03770.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 76.0,
+                "width": 156.0,
+                "x": 476.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03791.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 148.0,
+                "width": 484.0,
+                "x": 225.0,
+                "y": 217.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03962.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 149.0,
+                "width": 74.0,
+                "x": 533.0,
+                "y": 349.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03971.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 73.0,
+                "width": 148.0,
+                "x": 475.0,
+                "y": 440.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03976.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 142.0,
+                "width": 67.0,
+                "x": 539.0,
+                "y": 354.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_03983.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 132.0,
+                "width": 64.0,
+                "x": 556.0,
+                "y": 355.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04050.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 144.0,
+                "width": 67.0,
+                "x": 552.0,
+                "y": 364.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04110.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 112.0,
+                "width": 43.0,
+                "x": 558.0,
+                "y": 370.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04131.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 75.0,
+                "width": 144.0,
+                "x": 478.0,
+                "y": 440.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04161.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 231.0,
+                "width": 565.0,
+                "x": 375.0,
+                "y": 571.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04170.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 219.0,
+                "width": 499.0,
+                "x": 279.0,
+                "y": 156.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04177.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 82.0,
+                "width": 152.0,
+                "x": 476.0,
+                "y": 439.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04235.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 124.0,
+                "width": 51.0,
+                "x": 171.0,
+                "y": 443.0
+            },
+            {
+                "class": "SHARK",
+                "height": 131.0,
+                "width": 61.0,
+                "x": 127.0,
+                "y": 461.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04245.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 72.0,
+                "width": 152.0,
+                "x": 473.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04343.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 74.0,
+                "width": 147.0,
+                "x": 480.0,
+                "y": 437.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04359.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 134.0,
+                "width": 60.0,
+                "x": 168.0,
+                "y": 434.0
+            },
+            {
+                "class": "SHARK",
+                "height": 130.0,
+                "width": 58.0,
+                "x": 129.0,
+                "y": 461.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04535.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 77.0,
+                "width": 156.0,
+                "x": 470.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04618.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 221.0,
+                "width": 320.0,
+                "x": 170.0,
+                "y": 577.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04650.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 264.0,
+                "width": 510.0,
+                "x": 345.0,
+                "y": 141.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04682.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 116.0,
+                "width": 79.0,
+                "x": 534.0,
+                "y": 361.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04710.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 76.0,
+                "width": 149.0,
+                "x": 477.0,
+                "y": 438.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04791.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 75.0,
+                "width": 153.0,
+                "x": 476.0,
+                "y": 442.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04819.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 187.0,
+                "width": 634.0,
+                "x": 366.0,
+                "y": 563.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04837.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 80.0,
+                "width": 150.0,
+                "x": 477.0,
+                "y": 438.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04854.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 304.0,
+                "width": 489.0,
+                "x": 4.0,
+                "y": 496.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04855.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 134.0,
+                "width": 50.0,
+                "x": 566.0,
+                "y": 350.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04857.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 232.0,
+                "width": 541.0,
+                "x": 368.0,
+                "y": 574.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_04910.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 177.0,
+                "width": 484.0,
+                "x": 234.0,
+                "y": 202.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05019.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 81.0,
+                "width": 154.0,
+                "x": 475.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05126.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 179.0,
+                "width": 630.0,
+                "x": 365.0,
+                "y": 571.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05231.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 180.0,
+                "width": 623.0,
+                "x": 372.0,
+                "y": 571.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05249.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 71.0,
+                "width": 144.0,
+                "x": 481.0,
+                "y": 443.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05257.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 216.0,
+                "width": 528.0,
+                "x": 372.0,
+                "y": 575.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05300.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 142.0,
+                "width": 61.0,
+                "x": 557.0,
+                "y": 361.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05327.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 76.0,
+                "width": 146.0,
+                "x": 478.0,
+                "y": 439.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05366.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 56.0,
+                "width": 177.0,
+                "x": 446.0,
+                "y": 456.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05391.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 120.0,
+                "width": 78.0,
+                "x": 540.0,
+                "y": 368.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05399.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 223.0,
+                "width": 533.0,
+                "x": 372.0,
+                "y": 579.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05464.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 131.0,
+                "width": 40.0,
+                "x": 579.0,
+                "y": 354.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05504.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 133.0,
+                "width": 49.0,
+                "x": 566.0,
+                "y": 351.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05519.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 221.0,
+                "width": 451.0,
+                "x": 374.0,
+                "y": 577.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05532.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 167.0,
+                "width": 484.0,
+                "x": 235.0,
+                "y": 208.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05579.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 139.0,
+                "width": 51.0,
+                "x": 555.0,
+                "y": 344.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05685.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 227.0,
+                "width": 432.0,
+                "x": 372.0,
+                "y": 576.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05762.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 138.0,
+                "width": 522.0,
+                "x": 264.0,
+                "y": 222.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05872.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 115.0,
+                "width": 22.0,
+                "x": 595.0,
+                "y": 344.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05873.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 173.0,
+                "width": 485.0,
+                "x": 235.0,
+                "y": 203.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05887.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 76.0,
+                "width": 191.0,
+                "x": 402.0,
+                "y": 446.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05900.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 86.0,
+                "width": 34.0,
+                "x": 562.0,
+                "y": 385.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_05942.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 72.0,
+                "width": 149.0,
+                "x": 474.0,
+                "y": 442.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06000.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 87.0,
+                "width": 221.0,
+                "x": 672.0,
+                "y": 179.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06006.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 76.0,
+                "width": 152.0,
+                "x": 474.0,
+                "y": 436.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06013.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LAG",
+                "height": 201.0,
+                "width": 113.0,
+                "x": 2.0,
+                "y": 281.0
+            },
+            {
+                "class": "ALB",
+                "height": 124.0,
+                "width": 270.0,
+                "x": 452.0,
+                "y": 289.0
+            },
+            {
+                "class": "ALB",
+                "height": 140.0,
+                "width": 374.0,
+                "x": 613.0,
+                "y": 207.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06082.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 104.0,
+                "width": 41.0,
+                "x": 567.0,
+                "y": 349.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06118.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 126.0,
+                "width": 61.0,
+                "x": 553.0,
+                "y": 356.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06124.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 199.0,
+                "width": 427.0,
+                "x": 238.0,
+                "y": 162.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06163.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 234.0,
+                "width": 347.0,
+                "x": 147.0,
+                "y": 566.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06220.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 236.0,
+                "width": 454.0,
+                "x": 370.0,
+                "y": 570.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06303.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 136.0,
+                "width": 574.0,
+                "x": 402.0,
+                "y": 232.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06385.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 189.0,
+                "width": 641.0,
+                "x": 373.0,
+                "y": 566.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06410.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 155.0,
+                "width": 555.0,
+                "x": 403.0,
+                "y": 221.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06444.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 139.0,
+                "width": 55.0,
+                "x": 562.0,
+                "y": 350.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06448.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 133.0,
+                "width": 53.0,
+                "x": 559.0,
+                "y": 364.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06467.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 70.0,
+                "width": 148.0,
+                "x": 478.0,
+                "y": 439.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06474.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 129.0,
+                "width": 52.0,
+                "x": 173.0,
+                "y": 440.0
+            },
+            {
+                "class": "SHARK",
+                "height": 127.0,
+                "width": 55.0,
+                "x": 129.0,
+                "y": 463.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06493.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 129.0,
+                "width": 54.0,
+                "x": 129.0,
+                "y": 462.0
+            },
+            {
+                "class": "SHARK",
+                "height": 130.0,
+                "width": 51.0,
+                "x": 174.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06523.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 140.0,
+                "width": 57.0,
+                "x": 555.0,
+                "y": 351.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06537.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 212.0,
+                "width": 542.0,
+                "x": 405.0,
+                "y": 167.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06590.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 129.0,
+                "width": 50.0,
+                "x": 174.0,
+                "y": 445.0
+            },
+            {
+                "class": "SHARK",
+                "height": 128.0,
+                "width": 54.0,
+                "x": 131.0,
+                "y": 463.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06595.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 125.0,
+                "width": 81.0,
+                "x": 537.0,
+                "y": 366.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06677.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 139.0,
+                "width": 42.0,
+                "x": 576.0,
+                "y": 357.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06686.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 182.0,
+                "width": 635.0,
+                "x": 368.0,
+                "y": 571.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06786.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 128.0,
+                "width": 59.0,
+                "x": 554.0,
+                "y": 363.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06821.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 239.0,
+                "width": 345.0,
+                "x": 144.0,
+                "y": 564.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06847.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 232.0,
+                "width": 426.0,
+                "x": 373.0,
+                "y": 572.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06881.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 137.0,
+                "width": 61.0,
+                "x": 167.0,
+                "y": 433.0
+            },
+            {
+                "class": "SHARK",
+                "height": 131.0,
+                "width": 57.0,
+                "x": 128.0,
+                "y": 461.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06903.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 115.0,
+                "width": 59.0,
+                "x": 500.0,
+                "y": 366.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06913.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 73.0,
+                "width": 145.0,
+                "x": 478.0,
+                "y": 439.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_06956.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 240.0,
+                "width": 611.0,
+                "x": 374.0,
+                "y": 573.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07003.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 233.0,
+                "width": 551.0,
+                "x": 370.0,
+                "y": 575.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07022.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 307.0,
+                "width": 486.0,
+                "x": 6.0,
+                "y": 495.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07056.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 71.0,
+                "width": 145.0,
+                "x": 479.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07080.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 118.0,
+                "width": 46.0,
+                "x": 572.0,
+                "y": 348.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07221.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 77.0,
+                "width": 145.0,
+                "x": 476.0,
+                "y": 441.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07282.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 147.0,
+                "width": 44.0,
+                "x": 579.0,
+                "y": 351.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07392.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 211.0,
+                "width": 565.0,
+                "x": 400.0,
+                "y": 172.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07414.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 303.0,
+                "width": 486.0,
+                "x": 6.0,
+                "y": 495.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07473.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 77.0,
+                "width": 151.0,
+                "x": 474.0,
+                "y": 436.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07484.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 209.0,
+                "width": 573.0,
+                "x": 398.0,
+                "y": 174.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07498.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 120.0,
+                "width": 94.0,
+                "x": 521.0,
+                "y": 364.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07533.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 99.0,
+                "width": 29.0,
+                "x": 590.0,
+                "y": 357.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07556.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 306.0,
+                "width": 480.0,
+                "x": 10.0,
+                "y": 496.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07661.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 122.0,
+                "width": 87.0,
+                "x": 529.0,
+                "y": 369.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07841.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 140.0,
+                "width": 55.0,
+                "x": 557.0,
+                "y": 354.0
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07857.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "SHARK",
+                "height": 152.9098133896686,
+                "width": 65.38906493637148,
+                "x": 540.2142749358686,
+                "y": 351.0889794275943
+            }
+        ],
+        "class": "image",
+        "filename": "SHARK/img_07860.jpg"
+    }
+]
