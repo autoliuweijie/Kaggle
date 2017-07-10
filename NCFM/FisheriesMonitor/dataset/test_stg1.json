@@ -1,0 +1,5280 @@
+[
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00005.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "YFT",
+                "height": 269.0,
+                "width": 465.0,
+                "x": 716.0,
+                "y": 243.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00007.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.0,
+                "width": 372.0,
+                "x": 319.0,
+                "y": 128.0
+            },
+            {
+                "class": "rect",
+                "height": 115.0,
+                "width": 309.0,
+                "x": 605.0,
+                "y": 99.0
+            },
+            {
+                "class": "rect",
+                "height": 141.0,
+                "width": 246.0,
+                "x": 928.0,
+                "y": 125.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00009.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 238.0,
+                "width": 391.0,
+                "x": 595.0,
+                "y": 211.0
+            },
+            {
+                "class": "rect",
+                "height": 108.0,
+                "width": 317.0,
+                "x": 696.0,
+                "y": 111.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00018.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 130.0,
+                "width": 92.0,
+                "x": 423.0,
+                "y": 368.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00027.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00030.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 94.0,
+                "width": 97.0,
+                "x": 390.0,
+                "y": 354.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00040.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00046.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 130.0,
+                "width": 90.0,
+                "x": 701.0,
+                "y": 328.0
+            },
+            {
+                "class": "rect",
+                "height": 160.0,
+                "width": 163.0,
+                "x": 508.0,
+                "y": 556.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00053.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LAG",
+                "height": 326.0,
+                "width": 265.0,
+                "x": 799.0,
+                "y": 263.0
+            },
+            {
+                "class": "LAG",
+                "height": 258.0,
+                "width": 365.0,
+                "x": 679.0,
+                "y": 458.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00071.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 337.0,
+                "width": 108.0,
+                "x": 264.0,
+                "y": 132.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00075.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 85.0,
+                "width": 203.0,
+                "x": 397.0,
+                "y": 351.0
+            },
+            {
+                "class": "rect",
+                "height": 155.0,
+                "width": 68.0,
+                "x": 115.0,
+                "y": 493.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00102.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 172.0,
+                "width": 378.0,
+                "x": 317.0,
+                "y": 365.0
+            },
+            {
+                "class": "rect",
+                "height": 108.0,
+                "width": 293.0,
+                "x": 835.0,
+                "y": 484.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00103.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 111.0,
+                "width": 129.0,
+                "x": 225.0,
+                "y": 400.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00109.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00119.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 53.0,
+                "width": 156.0,
+                "x": 369.0,
+                "y": 448.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00120.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217.0,
+                "width": 419.0,
+                "x": 482.0,
+                "y": 257.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00125.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 227.0,
+                "width": 199.0,
+                "x": 549.0,
+                "y": 443.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00128.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 86.0,
+                "width": 137.0,
+                "x": 375.0,
+                "y": 361.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00129.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00133.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 175.0,
+                "width": 104.0,
+                "x": 578.0,
+                "y": 394.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00138.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 240.0,
+                "width": 287.0,
+                "x": 497.0,
+                "y": 425.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00141.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 313.0,
+                "x": 542.0,
+                "y": 507.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00152.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 212.0,
+                "width": 467.0,
+                "x": 115.0,
+                "y": 329.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00161.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00164.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104.0,
+                "width": 214.0,
+                "x": 835.0,
+                "y": 305.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00170.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 268.0,
+                "width": 98.0,
+                "x": 799.0,
+                "y": 264.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00171.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00172.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 272.0,
+                "width": 113.0,
+                "x": 799.0,
+                "y": 264.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00175.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 101.0,
+                "width": 221.0,
+                "x": 90.0,
+                "y": 487.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00180.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00196.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 108.0,
+                "width": 279.0,
+                "x": 210.0,
+                "y": 406.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00212.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 95.0,
+                "width": 71.0,
+                "x": 750.0,
+                "y": 295.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00223.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 155.0,
+                "width": 350.0,
+                "x": 711.0,
+                "y": 275.0
+            },
+            {
+                "class": "rect",
+                "height": 106.0,
+                "width": 287.0,
+                "x": 315.0,
+                "y": 182.0
+            },
+            {
+                "class": "rect",
+                "height": 96.0,
+                "width": 267.0,
+                "x": 324.0,
+                "y": 105.0
+            },
+            {
+                "class": "rect",
+                "height": 121.0,
+                "width": 153.0,
+                "x": 165.0,
+                "y": 231.0
+            }
+        ],
+        "class": "image",
+        "filename": "test_stg1/img_00230.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00232.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00244.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00272.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00280.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00282.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00285.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00289.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00292.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00302.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00311.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00320.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00331.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00358.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00374.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00375.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00376.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00380.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00383.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00398.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00407.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00417.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00432.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00442.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00446.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00469.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00473.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00483.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00484.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00486.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00487.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00493.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00518.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00533.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00538.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00543.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00550.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00551.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00564.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00575.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00582.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00584.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00587.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00590.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00591.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00598.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00599.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00612.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00618.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00620.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00642.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00646.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00648.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00650.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00654.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00664.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00667.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00676.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00697.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00708.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00716.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00717.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00718.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00723.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00724.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00726.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00729.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00730.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00757.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00760.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00763.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00764.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00765.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00772.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00773.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00777.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00780.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00798.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00808.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00816.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00828.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00833.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00837.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00855.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00857.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00858.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00865.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00876.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00889.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00894.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00902.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00914.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00921.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00927.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00943.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00948.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00950.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00959.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00962.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00964.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00966.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00974.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00979.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00982.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00985.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_00999.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01022.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01031.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01035.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01043.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01058.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01059.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01090.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01102.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01103.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01116.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01134.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01142.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01168.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01171.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01177.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01179.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01188.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01198.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01204.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01208.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01211.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01213.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01222.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01224.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01237.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01249.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01253.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01286.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01289.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01325.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01328.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01366.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01371.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01373.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01377.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01379.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01384.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01388.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01392.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01399.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01404.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01405.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01413.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01426.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01431.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01441.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01444.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01490.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01495.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01505.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01511.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01519.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01530.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01537.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01538.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01541.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01543.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01548.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01552.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01561.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01562.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01571.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01593.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01595.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01616.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01618.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01627.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01632.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01633.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01640.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01646.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01647.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01649.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01657.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01669.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01673.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01681.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01684.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01685.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01687.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01688.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01689.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01716.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01717.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01724.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01745.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01771.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01773.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01781.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01782.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01802.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01803.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01824.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01825.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01831.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01834.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01847.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01853.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01856.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01860.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01862.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01874.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01888.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01918.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01930.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01932.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01955.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01963.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01966.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01976.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01983.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01984.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01995.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_01996.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02001.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02006.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02066.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02074.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02076.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02077.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02078.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02082.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02083.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02096.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02119.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02124.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02135.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02146.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02159.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02172.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02180.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02188.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02194.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02209.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02216.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02231.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02235.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02252.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02268.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02270.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02281.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02282.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02285.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02291.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02299.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02305.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02307.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02309.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02318.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02347.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02356.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02367.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02372.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02379.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02384.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02398.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02400.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02406.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02412.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02416.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02422.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02479.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02486.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02487.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02507.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02522.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02540.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02546.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02556.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02560.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02563.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02565.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02573.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02574.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02602.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02607.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02622.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02625.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02636.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02638.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02641.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02646.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02648.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02651.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02656.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02666.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02679.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02687.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02699.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02702.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02703.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02709.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02726.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02733.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02734.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02739.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02749.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02759.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02764.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02766.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02769.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02771.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02789.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02799.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02808.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02811.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02830.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02834.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02837.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02838.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02842.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02857.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02865.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02871.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02876.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02889.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02890.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02899.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02904.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02911.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02916.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02920.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02943.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02949.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02954.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02956.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02964.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02974.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02977.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_02993.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03014.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03043.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03055.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03064.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03069.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03074.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03078.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03080.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03082.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03087.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03116.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03128.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03135.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03140.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03166.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03169.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03181.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03195.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03199.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03210.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03220.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03222.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03223.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03228.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03229.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03231.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03238.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03239.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03252.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03254.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03260.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03261.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03270.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03283.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03290.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03297.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03310.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03312.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03324.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03333.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03342.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03346.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03355.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03361.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03370.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03399.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03410.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03422.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03426.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03439.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03440.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03444.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03445.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03446.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03452.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03454.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03456.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03457.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03471.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03475.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03488.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03490.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03502.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03504.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03520.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03527.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03547.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03548.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03554.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03563.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03581.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03584.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03587.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03588.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03602.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03627.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03628.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03652.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03670.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03674.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03677.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03711.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03715.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03718.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03726.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03739.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03749.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03750.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03760.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03764.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03776.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03801.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03805.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03809.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03825.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03831.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03837.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03847.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03853.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03866.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03867.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03869.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03871.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03886.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03891.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03892.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03896.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03923.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03924.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03928.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03929.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03931.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03935.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03941.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03942.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03943.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03945.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03946.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03952.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03967.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03974.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03992.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03995.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_03996.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04001.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04002.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04003.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04004.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04013.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04015.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04024.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04036.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04037.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04044.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04061.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04069.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04073.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04076.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04101.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04115.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04118.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04126.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04127.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04128.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04129.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04130.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04136.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04138.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04145.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04156.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04181.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04183.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04204.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04221.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04233.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04237.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04240.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04247.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04250.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04257.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04261.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04263.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04266.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04268.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04271.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04272.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04282.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04285.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04306.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04310.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04321.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04323.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04324.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04341.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04369.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04370.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04375.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04382.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04386.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04390.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04405.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04408.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04410.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04415.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04419.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04422.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04423.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04425.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04427.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04432.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04453.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04461.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04476.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04478.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04479.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04482.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04496.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04503.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04507.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04511.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04520.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04532.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04546.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04554.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04559.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04562.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04563.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04585.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04586.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04603.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04624.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04629.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04640.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04642.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04647.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04657.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04661.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04671.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04675.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04696.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04705.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04712.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04719.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04723.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04726.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04740.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04750.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04752.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04757.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04766.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04795.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04811.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04814.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04830.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04835.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04856.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04860.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04870.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04872.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04879.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04885.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04888.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04921.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04949.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04959.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04962.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04975.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04990.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_04991.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05015.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05016.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05021.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05026.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05030.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05038.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05046.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05055.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05059.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05064.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05068.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05074.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05076.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05078.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05084.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05085.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05087.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05095.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05119.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05137.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05139.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05147.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05156.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05185.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05186.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05192.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05196.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05209.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05210.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05211.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05222.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05236.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05241.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05244.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05251.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05253.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05260.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05264.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05268.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05269.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05273.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05276.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05284.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05292.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05293.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05322.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05328.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05336.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05341.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05349.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05359.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05378.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05393.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05410.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05426.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05433.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05434.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05438.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05439.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05440.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05445.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05454.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05459.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05463.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05471.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05475.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05479.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05488.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05489.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05492.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05508.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05516.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05520.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05525.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05539.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05548.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05558.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05563.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05568.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05572.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05580.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05584.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05587.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05595.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05603.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05612.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05613.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05615.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05623.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05640.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05653.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05654.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05657.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05672.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05673.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05682.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05692.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05718.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05719.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05721.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05722.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05724.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05731.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05735.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05740.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05743.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05754.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05755.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05766.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05768.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05775.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05790.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05792.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05794.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05805.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05813.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05817.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05824.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05828.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05835.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05838.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05857.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05864.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05879.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05882.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05896.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05908.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05915.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05916.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05922.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05927.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05940.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05948.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05950.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05953.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05958.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05960.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05963.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05967.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05976.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05979.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05981.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_05989.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06001.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06003.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06010.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06021.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06033.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06037.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06038.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06042.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06059.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06065.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06067.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06076.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06097.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06099.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06101.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06103.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06137.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06144.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06147.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06165.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06174.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06186.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06189.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06203.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06207.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06210.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06211.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06237.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06238.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06259.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06261.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06268.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06272.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06273.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06285.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06294.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06302.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06311.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06318.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06321.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06324.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06332.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06345.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06346.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06349.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06368.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06369.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06371.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06373.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06401.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06412.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06424.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06426.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06440.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06455.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06469.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06475.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06477.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06489.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06496.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06506.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06508.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06510.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06521.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06522.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06525.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06541.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06547.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06549.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06555.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06559.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06564.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06571.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06585.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06608.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06611.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06614.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06616.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06630.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06637.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06642.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06646.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06658.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06662.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06663.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06673.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06681.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06684.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06685.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06690.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06698.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06732.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06734.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06748.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06756.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06780.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06783.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06798.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06800.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06806.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06807.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06808.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06812.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06831.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06832.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06845.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06849.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06851.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06859.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06860.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06870.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06892.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06893.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06899.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06902.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06909.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06914.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06916.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06921.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06922.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06936.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06939.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06946.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06947.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06955.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06959.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06962.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06966.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06975.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06985.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_06986.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07005.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07023.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07043.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07044.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07045.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07050.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07051.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07054.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07060.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07062.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07065.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07068.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07079.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07084.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07086.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07094.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07103.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07110.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07120.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07122.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07137.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07143.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07146.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07147.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07149.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07156.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07157.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07160.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07173.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07179.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07183.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07187.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07188.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07191.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07192.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07199.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07213.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07224.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07231.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07237.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07251.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07270.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07278.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07304.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07314.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07318.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07319.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07330.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07348.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07352.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07354.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07371.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07375.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07409.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07417.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07419.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07420.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07426.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07428.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07434.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07436.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07448.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07460.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07467.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07469.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07474.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07501.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07505.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07508.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07514.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07526.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07528.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07538.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07543.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07553.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07561.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07563.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07574.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07578.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07580.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07583.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07590.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07594.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07616.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07621.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07623.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07628.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07659.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07663.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07678.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07689.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07700.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07717.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07746.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07757.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07792.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07799.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07818.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07833.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07859.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07872.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07893.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07895.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07905.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07906.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07908.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07910.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "test_stg1/img_07921.jpg"
+    }
+]

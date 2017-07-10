@@ -1,0 +1,6 @@
+train
+test_stg1/
+sample_submission_stg1.csv
+fish_regions/
+manual_regions_dataset/
+manual_regions_dataset_balanced/

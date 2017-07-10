@@ -1,0 +1,60 @@
+
+Start Training Model ...
+Epoch 1/64
+13248/13270 [============================>.] - ETA: 2s - loss: 1.4290 - acc: 0.4938Epoch 00000: val_loss improved from inf to 1.01343, saving model to ../models/manual_region_balanced/ipv3_manual_region-00--1.01--0.66.h5
+13270/13270 [==============================] - 1600s - loss: 1.4281 - acc: 0.4940 - val_loss: 1.0134 - val_acc: 0.6564
+Epoch 2/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.7579 - acc: 0.7492Epoch 00001: val_loss improved from 1.01343 to 0.64852, saving model to ../models/manual_region_balanced/ipv3_manual_region-01--0.65--0.79.h5
+13270/13270 [==============================] - 1574s - loss: 0.7577 - acc: 0.7491 - val_loss: 0.6485 - val_acc: 0.7878
+Epoch 3/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.5286 - acc: 0.8277Epoch 00002: val_loss improved from 0.64852 to 0.48698, saving model to ../models/manual_region_balanced/ipv3_manual_region-02--0.49--0.83.h5
+13270/13270 [==============================] - 1573s - loss: 0.5285 - acc: 0.8276 - val_loss: 0.4870 - val_acc: 0.8297
+Epoch 4/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.4147 - acc: 0.8673Epoch 00003: val_loss improved from 0.48698 to 0.38953, saving model to ../models/manual_region_balanced/ipv3_manual_region-03--0.39--0.87.h5
+13270/13270 [==============================] - 1577s - loss: 0.4147 - acc: 0.8672 - val_loss: 0.3895 - val_acc: 0.8671
+Epoch 5/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.3362 - acc: 0.8921Epoch 00004: val_loss improved from 0.38953 to 0.33781, saving model to ../models/manual_region_balanced/ipv3_manual_region-04--0.34--0.88.h5
+13270/13270 [==============================] - 1579s - loss: 0.3359 - acc: 0.8921 - val_loss: 0.3378 - val_acc: 0.8840
+Epoch 6/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.2839 - acc: 0.9101Epoch 00005: val_loss improved from 0.33781 to 0.27961, saving model to ../models/manual_region_balanced/ipv3_manual_region-05--0.28--0.90.h5
+13270/13270 [==============================] - 1579s - loss: 0.2839 - acc: 0.9101 - val_loss: 0.2796 - val_acc: 0.9024
+Epoch 7/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.2384 - acc: 0.9224Epoch 00006: val_loss improved from 0.27961 to 0.27375, saving model to ../models/manual_region_balanced/ipv3_manual_region-06--0.27--0.91.h5
+13270/13270 [==============================] - 1581s - loss: 0.2384 - acc: 0.9224 - val_loss: 0.2737 - val_acc: 0.9072
+Epoch 8/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.2105 - acc: 0.9346Epoch 00007: val_loss improved from 0.27375 to 0.22003, saving model to ../models/manual_region_balanced/ipv3_manual_region-07--0.22--0.93.h5
+13270/13270 [==============================] - 1582s - loss: 0.2105 - acc: 0.9346 - val_loss: 0.2200 - val_acc: 0.9262
+Epoch 9/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.1847 - acc: 0.9418Epoch 00008: val_loss improved from 0.22003 to 0.20673, saving model to ../models/manual_region_balanced/ipv3_manual_region-08--0.21--0.93.h5
+13270/13270 [==============================] - 1582s - loss: 0.1848 - acc: 0.9417 - val_loss: 0.2067 - val_acc: 0.9265
+Epoch 10/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.1599 - acc: 0.9489Epoch 00009: val_loss improved from 0.20673 to 0.17522, saving model to ../models/manual_region_balanced/ipv3_manual_region-09--0.18--0.94.h5
+13270/13270 [==============================] - 1584s - loss: 0.1600 - acc: 0.9489 - val_loss: 0.1752 - val_acc: 0.9403
+Epoch 11/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.1454 - acc: 0.9564Epoch 00010: val_loss improved from 0.17522 to 0.16481, saving model to ../models/manual_region_balanced/ipv3_manual_region-10--0.16--0.94.h5
+13270/13270 [==============================] - 1581s - loss: 0.1455 - acc: 0.9564 - val_loss: 0.1648 - val_acc: 0.9409
+Epoch 12/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.1305 - acc: 0.9579Epoch 00011: val_loss improved from 0.16481 to 0.15045, saving model to ../models/manual_region_balanced/ipv3_manual_region-11--0.15--0.95.h5
+13270/13270 [==============================] - 1583s - loss: 0.1304 - acc: 0.9580 - val_loss: 0.1505 - val_acc: 0.9464
+Epoch 13/64
+
+
+Start Training Model ...
+Epoch 1/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.1119 - acc: 0.9660Epoch 00000: val_loss improved from inf to 0.15547, saving model to ../models/manual_region_balanced/12_ipv3_manual_region-00--0.16--0.95.h5
+13270/13270 [==============================] - 1604s - loss: 0.1119 - acc: 0.9660 - val_loss: 0.1555 - val_acc: 0.9451
+Epoch 2/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.1026 - acc: 0.9688Epoch 00001: val_loss improved from 0.15547 to 0.13357, saving model to ../models/manual_region_balanced/12_ipv3_manual_region-01--0.13--0.96.h5
+13270/13270 [==============================] - 1587s - loss: 0.1026 - acc: 0.9688 - val_loss: 0.1336 - val_acc: 0.9557
+Epoch 3/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.0901 - acc: 0.9747Epoch 00002: val_loss improved from 0.13357 to 0.12332, saving model to ../models/manual_region_balanced/12_ipv3_manual_region-02--0.12--0.96.h5
+13270/13270 [==============================] - 1582s - loss: 0.0901 - acc: 0.9748 - val_loss: 0.1233 - val_acc: 0.9557
+Epoch 4/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.0859 - acc: 0.9755Epoch 00003: val_loss did not improve
+13270/13270 [==============================] - 1573s - loss: 0.0859 - acc: 0.9755 - val_loss: 0.1281 - val_acc: 0.9563
+Epoch 5/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.0750 - acc: 0.9764Epoch 00004: val_loss improved from 0.12332 to 0.11202, saving model to ../models/manual_region_balanced/12_ipv3_manual_region-04--0.11--0.96.h5
+13270/13270 [==============================] - 1574s - loss: 0.0750 - acc: 0.9765 - val_loss: 0.1120 - val_acc: 0.9623
+Epoch 6/64
+13248/13270 [============================>.] - ETA: 2s - loss: 0.0708 - acc: 0.9798Epoch 00005: val_loss improved from 0.11202 to 0.10409, saving model to ../models/manual_region_balanced/12_ipv3_manual_region-05--0.10--0.96.h5
+13270/13270 [==============================] - 1575s - loss: 0.0709 - acc: 0.9797 - val_loss: 0.1041 - val_acc: 0.9623

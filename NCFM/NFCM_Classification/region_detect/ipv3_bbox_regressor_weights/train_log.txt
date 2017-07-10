@@ -1,0 +1,786 @@
+Start Training.
+    Training with validation
+Train on 3777 samples, validate on 1000 samples
+Epoch 1/256
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2382 get requests, put_count=2321 evicted_count=1000 eviction_rate=0.430849 and unsatisfied allocation rate=0.487406
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 100 to 110
+ 352/3777 [=>............................] - ETA: 153s - loss: 56.5142 - mean_absolute_error: 56.5142 - mean_squared_error: 22203.1216I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2397 get requests, put_count=2515 evicted_count=1000 eviction_rate=0.397614 and unsatisfied allocation rate=0.377555
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 256 to 281
+ 800/3777 [=====>........................] - ETA: 91s - loss: 57.1484 - mean_absolute_error: 57.1484 - mean_squared_error: 22679.6820I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 4776 get requests, put_count=4823 evicted_count=1000 eviction_rate=0.20734 and unsatisfied allocation rate=0.211893
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 655 to 720
+3776/3777 [============================>.] - ETA: 0s - loss: 57.5203 - mean_absolute_error: 57.5203 - mean_squared_error: 22820.9412Epoch 00000: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-00--57.53-57.53.h5
+3777/3777 [==============================] - 102s - loss: 57.5271 - mean_absolute_error: 57.5271 - mean_squared_error: 22821.7981 - val_loss: 57.5303 - val_mean_absolute_error: 57.5303 - val_mean_squared_error: 23399.0458
+Epoch 2/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.5148 - mean_absolute_error: 57.5148 - mean_squared_error: 22826.4517Epoch 00001: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-01--57.50-57.47.h5
+3777/3777 [==============================] - 81s - loss: 57.4996 - mean_absolute_error: 57.4996 - mean_squared_error: 22820.4081 - val_loss: 57.4698 - val_mean_absolute_error: 57.4698 - val_mean_squared_error: 23399.9888
+Epoch 3/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.4624 - mean_absolute_error: 57.4624 - mean_squared_error: 22810.1116Epoch 00002: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-02--57.48-57.45.h5
+3777/3777 [==============================] - 81s - loss: 57.4758 - mean_absolute_error: 57.4758 - mean_squared_error: 22817.5495 - val_loss: 57.4478 - val_mean_absolute_error: 57.4478 - val_mean_squared_error: 23398.7705
+Epoch 4/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.4728 - mean_absolute_error: 57.4728 - mean_squared_error: 22820.5102Epoch 00003: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-03--57.46-57.42.h5
+3777/3777 [==============================] - 81s - loss: 57.4576 - mean_absolute_error: 57.4576 - mean_squared_error: 22814.4682 - val_loss: 57.4236 - val_mean_absolute_error: 57.4236 - val_mean_squared_error: 23394.4911
+Epoch 5/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.4356 - mean_absolute_error: 57.4356 - mean_squared_error: 22810.4015Epoch 00004: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-04--57.44-57.39.h5
+3777/3777 [==============================] - 81s - loss: 57.4351 - mean_absolute_error: 57.4351 - mean_squared_error: 22810.5335 - val_loss: 57.3929 - val_mean_absolute_error: 57.3929 - val_mean_squared_error: 23388.6126
+Epoch 6/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.4202 - mean_absolute_error: 57.4202 - mean_squared_error: 22805.8617Epoch 00005: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-05--57.42-57.38.h5
+3777/3777 [==============================] - 81s - loss: 57.4178 - mean_absolute_error: 57.4178 - mean_squared_error: 22803.7230 - val_loss: 57.3793 - val_mean_absolute_error: 57.3793 - val_mean_squared_error: 23380.4879
+Epoch 7/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.3905 - mean_absolute_error: 57.3905 - mean_squared_error: 22792.0427Epoch 00006: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-06--57.39-57.36.h5
+3777/3777 [==============================] - 81s - loss: 57.3910 - mean_absolute_error: 57.3910 - mean_squared_error: 22792.6375 - val_loss: 57.3577 - val_mean_absolute_error: 57.3577 - val_mean_squared_error: 23370.3587
+Epoch 8/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.3524 - mean_absolute_error: 57.3524 - mean_squared_error: 22770.7409Epoch 00007: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-07--57.35-57.32.h5
+3777/3777 [==============================] - 81s - loss: 57.3541 - mean_absolute_error: 57.3541 - mean_squared_error: 22775.3941 - val_loss: 57.3158 - val_mean_absolute_error: 57.3158 - val_mean_squared_error: 23352.3363
+Epoch 9/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.3148 - mean_absolute_error: 57.3148 - mean_squared_error: 22754.3460Epoch 00008: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-08--57.32-57.25.h5
+3777/3777 [==============================] - 81s - loss: 57.3185 - mean_absolute_error: 57.3185 - mean_squared_error: 22754.4846 - val_loss: 57.2482 - val_mean_absolute_error: 57.2482 - val_mean_squared_error: 23297.9071
+Epoch 10/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.2795 - mean_absolute_error: 57.2795 - mean_squared_error: 22724.6715Epoch 00009: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-09--57.28-57.19.h5
+3777/3777 [==============================] - 81s - loss: 57.2821 - mean_absolute_error: 57.2821 - mean_squared_error: 22728.3155 - val_loss: 57.1875 - val_mean_absolute_error: 57.1875 - val_mean_squared_error: 23272.4993
+Epoch 11/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.1608 - mean_absolute_error: 57.1608 - mean_squared_error: 22666.0330Epoch 00010: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-10--57.17-57.08.h5
+3777/3777 [==============================] - 81s - loss: 57.1678 - mean_absolute_error: 57.1678 - mean_squared_error: 22667.5292 - val_loss: 57.0801 - val_mean_absolute_error: 57.0801 - val_mean_squared_error: 23216.6495
+Epoch 12/256
+3776/3777 [============================>.] - ETA: 0s - loss: 57.0191 - mean_absolute_error: 57.0191 - mean_squared_error: 22579.9026Epoch 00011: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-11--57.00-56.90.h5
+3777/3777 [==============================] - 81s - loss: 57.0040 - mean_absolute_error: 57.0040 - mean_squared_error: 22573.9244 - val_loss: 56.8964 - val_mean_absolute_error: 56.8964 - val_mean_squared_error: 23109.7817
+Epoch 13/256
+3776/3777 [============================>.] - ETA: 0s - loss: 56.7698 - mean_absolute_error: 56.7698 - mean_squared_error: 22437.4593Epoch 00012: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-12--56.77-56.63.h5
+3777/3777 [==============================] - 81s - loss: 56.7688 - mean_absolute_error: 56.7688 - mean_squared_error: 22437.7326 - val_loss: 56.6333 - val_mean_absolute_error: 56.6333 - val_mean_squared_error: 22955.3101
+Epoch 14/256
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 3480089 get requests, put_count=3479981 evicted_count=4000 eviction_rate=0.00114943 and unsatisfied allocation rate=0.00121347
+3776/3777 [============================>.] - ETA: 0s - loss: 56.4446 - mean_absolute_error: 56.4446 - mean_squared_error: 22251.0828Epoch 00013: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-13--56.45-56.28.h5
+3777/3777 [==============================] - 81s - loss: 56.4526 - mean_absolute_error: 56.4526 - mean_squared_error: 22253.1160 - val_loss: 56.2757 - val_mean_absolute_error: 56.2757 - val_mean_squared_error: 22742.6310
+Epoch 15/256
+3776/3777 [============================>.] - ETA: 0s - loss: 56.0409 - mean_absolute_error: 56.0409 - mean_squared_error: 22016.0077Epoch 00014: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-14--56.04-55.82.h5
+3777/3777 [==============================] - 81s - loss: 56.0439 - mean_absolute_error: 56.0439 - mean_squared_error: 22019.9628 - val_loss: 55.8246 - val_mean_absolute_error: 55.8246 - val_mean_squared_error: 22487.1782
+Epoch 16/256
+3776/3777 [============================>.] - ETA: 0s - loss: 55.5728 - mean_absolute_error: 55.5727 - mean_squared_error: 21756.3412Epoch 00015: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-15--55.57-55.30.h5
+3777/3777 [==============================] - 81s - loss: 55.5706 - mean_absolute_error: 55.5706 - mean_squared_error: 21754.5076 - val_loss: 55.2989 - val_mean_absolute_error: 55.2989 - val_mean_squared_error: 22186.8082
+Epoch 17/256
+3776/3777 [============================>.] - ETA: 0s - loss: 55.0142 - mean_absolute_error: 55.0142 - mean_squared_error: 21449.0421Epoch 00016: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-16--55.02-54.73.h5
+3777/3777 [==============================] - 81s - loss: 55.0237 - mean_absolute_error: 55.0237 - mean_squared_error: 21459.7699 - val_loss: 54.7310 - val_mean_absolute_error: 54.7310 - val_mean_squared_error: 21881.5336
+Epoch 18/256
+3776/3777 [============================>.] - ETA: 0s - loss: 54.4423 - mean_absolute_error: 54.4423 - mean_squared_error: 21142.2650Epoch 00017: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-17--54.45-54.15.h5
+3777/3777 [==============================] - 81s - loss: 54.4484 - mean_absolute_error: 54.4484 - mean_squared_error: 21148.6605 - val_loss: 54.1505 - val_mean_absolute_error: 54.1505 - val_mean_squared_error: 21571.2601
+Epoch 19/256
+3776/3777 [============================>.] - ETA: 0s - loss: 53.8059 - mean_absolute_error: 53.8059 - mean_squared_error: 20820.3722Epoch 00018: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-18--53.81-53.53.h5
+3777/3777 [==============================] - 81s - loss: 53.8079 - mean_absolute_error: 53.8079 - mean_squared_error: 20822.4949 - val_loss: 53.5327 - val_mean_absolute_error: 53.5327 - val_mean_squared_error: 21248.4070
+Epoch 20/256
+3776/3777 [============================>.] - ETA: 0s - loss: 53.1326 - mean_absolute_error: 53.1326 - mean_squared_error: 20477.3805Epoch 00019: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-19--53.13-52.88.h5
+3777/3777 [==============================] - 81s - loss: 53.1293 - mean_absolute_error: 53.1293 - mean_squared_error: 20475.0473 - val_loss: 52.8789 - val_mean_absolute_error: 52.8789 - val_mean_squared_error: 20877.2949
+Epoch 21/256
+3776/3777 [============================>.] - ETA: 0s - loss: 52.3998 - mean_absolute_error: 52.3998 - mean_squared_error: 20113.3339Epoch 00020: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-20--52.40-52.16.h5
+3777/3777 [==============================] - 81s - loss: 52.4005 - mean_absolute_error: 52.4005 - mean_squared_error: 20115.8583 - val_loss: 52.1622 - val_mean_absolute_error: 52.1622 - val_mean_squared_error: 20552.5599
+Epoch 22/256
+3776/3777 [============================>.] - ETA: 0s - loss: 51.6861 - mean_absolute_error: 51.6861 - mean_squared_error: 19758.1060Epoch 00021: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-21--51.68-51.57.h5
+3777/3777 [==============================] - 81s - loss: 51.6846 - mean_absolute_error: 51.6846 - mean_squared_error: 19756.7707 - val_loss: 51.5742 - val_mean_absolute_error: 51.5741 - val_mean_squared_error: 20260.7956
+Epoch 23/256
+3776/3777 [============================>.] - ETA: 0s - loss: 50.9212 - mean_absolute_error: 50.9212 - mean_squared_error: 19391.2228Epoch 00022: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-22--50.92-50.80.h5
+3777/3777 [==============================] - 81s - loss: 50.9221 - mean_absolute_error: 50.9221 - mean_squared_error: 19394.3647 - val_loss: 50.7968 - val_mean_absolute_error: 50.7968 - val_mean_squared_error: 19890.3862
+Epoch 24/256
+3776/3777 [============================>.] - ETA: 0s - loss: 50.1685 - mean_absolute_error: 50.1685 - mean_squared_error: 19003.3167Epoch 00023: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-23--50.19-50.21.h5
+3777/3777 [==============================] - 81s - loss: 50.1860 - mean_absolute_error: 50.1860 - mean_squared_error: 19013.7098 - val_loss: 50.2076 - val_mean_absolute_error: 50.2076 - val_mean_squared_error: 19552.9981
+Epoch 25/256
+3776/3777 [============================>.] - ETA: 0s - loss: 49.4980 - mean_absolute_error: 49.4980 - mean_squared_error: 18665.6155Epoch 00024: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-24--49.50-49.61.h5
+3777/3777 [==============================] - 81s - loss: 49.4977 - mean_absolute_error: 49.4977 - mean_squared_error: 18664.6086 - val_loss: 49.6070 - val_mean_absolute_error: 49.6070 - val_mean_squared_error: 19236.3917
+Epoch 26/256
+3776/3777 [============================>.] - ETA: 0s - loss: 48.8032 - mean_absolute_error: 48.8032 - mean_squared_error: 18309.9334Epoch 00025: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-25--48.80-49.17.h5
+3777/3777 [==============================] - 81s - loss: 48.8030 - mean_absolute_error: 48.8030 - mean_squared_error: 18308.8207 - val_loss: 49.1686 - val_mean_absolute_error: 49.1686 - val_mean_squared_error: 19012.6201
+Epoch 27/256
+3776/3777 [============================>.] - ETA: 0s - loss: 48.1900 - mean_absolute_error: 48.1900 - mean_squared_error: 17945.8256Epoch 00026: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-26--48.19-48.48.h5
+3777/3777 [==============================] - 81s - loss: 48.1894 - mean_absolute_error: 48.1894 - mean_squared_error: 17944.9757 - val_loss: 48.4836 - val_mean_absolute_error: 48.4836 - val_mean_squared_error: 18551.8198
+Epoch 28/256
+3776/3777 [============================>.] - ETA: 0s - loss: 47.6805 - mean_absolute_error: 47.6805 - mean_squared_error: 17626.5554Epoch 00027: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-27--47.68-48.20.h5
+3777/3777 [==============================] - 81s - loss: 47.6822 - mean_absolute_error: 47.6822 - mean_squared_error: 17628.6732 - val_loss: 48.1972 - val_mean_absolute_error: 48.1972 - val_mean_squared_error: 18385.9111
+Epoch 29/256
+3776/3777 [============================>.] - ETA: 0s - loss: 47.1533 - mean_absolute_error: 47.1533 - mean_squared_error: 17370.5042Epoch 00028: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-28--47.14-47.61.h5
+3777/3777 [==============================] - 81s - loss: 47.1409 - mean_absolute_error: 47.1409 - mean_squared_error: 17365.9058 - val_loss: 47.6108 - val_mean_absolute_error: 47.6108 - val_mean_squared_error: 18024.4626
+Epoch 30/256
+3776/3777 [============================>.] - ETA: 0s - loss: 46.7713 - mean_absolute_error: 46.7713 - mean_squared_error: 17073.2497Epoch 00029: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-29--46.77-47.62.h5
+3777/3777 [==============================] - 81s - loss: 46.7668 - mean_absolute_error: 46.7668 - mean_squared_error: 17070.2913 - val_loss: 47.6185 - val_mean_absolute_error: 47.6185 - val_mean_squared_error: 18019.7375
+Epoch 31/256
+3776/3777 [============================>.] - ETA: 0s - loss: 46.3551 - mean_absolute_error: 46.3551 - mean_squared_error: 16823.7330Epoch 00030: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-30--46.37-47.36.h5
+3777/3777 [==============================] - 81s - loss: 46.3680 - mean_absolute_error: 46.3680 - mean_squared_error: 16830.7440 - val_loss: 47.3592 - val_mean_absolute_error: 47.3592 - val_mean_squared_error: 17810.1104
+Epoch 32/256
+3776/3777 [============================>.] - ETA: 0s - loss: 45.9975 - mean_absolute_error: 45.9975 - mean_squared_error: 16616.1339Epoch 00031: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-31--46.02-47.51.h5
+3777/3777 [==============================] - 81s - loss: 46.0210 - mean_absolute_error: 46.0210 - mean_squared_error: 16624.7688 - val_loss: 47.5082 - val_mean_absolute_error: 47.5082 - val_mean_squared_error: 17955.2656
+Epoch 33/256
+3776/3777 [============================>.] - ETA: 0s - loss: 45.6601 - mean_absolute_error: 45.6601 - mean_squared_error: 16358.8981Epoch 00032: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-32--45.67-46.42.h5
+3777/3777 [==============================] - 81s - loss: 45.6734 - mean_absolute_error: 45.6734 - mean_squared_error: 16366.8441 - val_loss: 46.4196 - val_mean_absolute_error: 46.4196 - val_mean_squared_error: 17185.6226
+Epoch 34/256
+3776/3777 [============================>.] - ETA: 0s - loss: 45.3302 - mean_absolute_error: 45.3302 - mean_squared_error: 16183.2823Epoch 00033: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-33--45.32-46.02.h5
+3777/3777 [==============================] - 81s - loss: 45.3184 - mean_absolute_error: 45.3184 - mean_squared_error: 16178.9987 - val_loss: 46.0179 - val_mean_absolute_error: 46.0179 - val_mean_squared_error: 16935.8936
+Epoch 35/256
+3776/3777 [============================>.] - ETA: 0s - loss: 45.1131 - mean_absolute_error: 45.1131 - mean_squared_error: 15965.1808Epoch 00034: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-34--45.12-45.71.h5
+3777/3777 [==============================] - 81s - loss: 45.1179 - mean_absolute_error: 45.1179 - mean_squared_error: 15968.1197 - val_loss: 45.7069 - val_mean_absolute_error: 45.7069 - val_mean_squared_error: 16582.2951
+Epoch 36/256
+3776/3777 [============================>.] - ETA: 0s - loss: 44.8873 - mean_absolute_error: 44.8873 - mean_squared_error: 15847.6447Epoch 00035: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-35--44.89-45.48.h5
+3777/3777 [==============================] - 81s - loss: 44.8909 - mean_absolute_error: 44.8909 - mean_squared_error: 15849.0866 - val_loss: 45.4816 - val_mean_absolute_error: 45.4816 - val_mean_squared_error: 16419.9554
+Epoch 37/256
+3776/3777 [============================>.] - ETA: 0s - loss: 44.5001 - mean_absolute_error: 44.5001 - mean_squared_error: 15615.3735Epoch 00036: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-36--44.50-45.30.h5
+3777/3777 [==============================] - 81s - loss: 44.4993 - mean_absolute_error: 44.4993 - mean_squared_error: 15614.4194 - val_loss: 45.2985 - val_mean_absolute_error: 45.2985 - val_mean_squared_error: 16417.9710
+Epoch 38/256
+3776/3777 [============================>.] - ETA: 0s - loss: 44.2435 - mean_absolute_error: 44.2435 - mean_squared_error: 15439.1143Epoch 00037: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-37--44.26-45.35.h5
+3777/3777 [==============================] - 81s - loss: 44.2558 - mean_absolute_error: 44.2557 - mean_squared_error: 15445.2558 - val_loss: 45.3511 - val_mean_absolute_error: 45.3511 - val_mean_squared_error: 16476.1341
+Epoch 39/256
+3776/3777 [============================>.] - ETA: 0s - loss: 44.0313 - mean_absolute_error: 44.0313 - mean_squared_error: 15225.5123Epoch 00038: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-38--44.02-45.55.h5
+3777/3777 [==============================] - 81s - loss: 44.0199 - mean_absolute_error: 44.0199 - mean_squared_error: 15221.4827 - val_loss: 45.5523 - val_mean_absolute_error: 45.5523 - val_mean_squared_error: 16646.5249
+Epoch 40/256
+3776/3777 [============================>.] - ETA: 0s - loss: 43.7619 - mean_absolute_error: 43.7619 - mean_squared_error: 15113.1175Epoch 00039: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-39--43.76-44.82.h5
+3777/3777 [==============================] - 81s - loss: 43.7610 - mean_absolute_error: 43.7610 - mean_squared_error: 15111.9023 - val_loss: 44.8153 - val_mean_absolute_error: 44.8153 - val_mean_squared_error: 16128.4231
+Epoch 41/256
+3776/3777 [============================>.] - ETA: 0s - loss: 43.4322 - mean_absolute_error: 43.4322 - mean_squared_error: 14939.3114Epoch 00040: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-40--43.42-44.13.h5
+3777/3777 [==============================] - 81s - loss: 43.4210 - mean_absolute_error: 43.4210 - mean_squared_error: 14935.3579 - val_loss: 44.1302 - val_mean_absolute_error: 44.1302 - val_mean_squared_error: 15562.9228
+Epoch 42/256
+3776/3777 [============================>.] - ETA: 0s - loss: 43.0171 - mean_absolute_error: 43.0171 - mean_squared_error: 14714.4884Epoch 00041: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-41--43.03-44.00.h5
+3777/3777 [==============================] - 81s - loss: 43.0313 - mean_absolute_error: 43.0313 - mean_squared_error: 14718.5111 - val_loss: 44.0018 - val_mean_absolute_error: 44.0018 - val_mean_squared_error: 15638.6291
+Epoch 43/256
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 11907638 get requests, put_count=11907549 evicted_count=14000 eviction_rate=0.00117572 and unsatisfied allocation rate=0.00119285
+3776/3777 [============================>.] - ETA: 0s - loss: 43.0211 - mean_absolute_error: 43.0211 - mean_squared_error: 14667.3042Epoch 00042: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-42--43.03-43.94.h5
+3777/3777 [==============================] - 81s - loss: 43.0273 - mean_absolute_error: 43.0273 - mean_squared_error: 14672.9333 - val_loss: 43.9369 - val_mean_absolute_error: 43.9369 - val_mean_squared_error: 15543.1048
+Epoch 44/256
+3776/3777 [============================>.] - ETA: 0s - loss: 42.7700 - mean_absolute_error: 42.7700 - mean_squared_error: 14537.3339Epoch 00043: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-43--42.78-45.60.h5
+3777/3777 [==============================] - 81s - loss: 42.7785 - mean_absolute_error: 42.7785 - mean_squared_error: 14543.5554 - val_loss: 45.5962 - val_mean_absolute_error: 45.5962 - val_mean_squared_error: 16949.1899
+Epoch 45/256
+3776/3777 [============================>.] - ETA: 0s - loss: 42.3944 - mean_absolute_error: 42.3944 - mean_squared_error: 14425.8089Epoch 00044: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-44--42.40-42.57.h5
+3777/3777 [==============================] - 81s - loss: 42.3962 - mean_absolute_error: 42.3962 - mean_squared_error: 14427.4676 - val_loss: 42.5734 - val_mean_absolute_error: 42.5734 - val_mean_squared_error: 14896.7274
+Epoch 46/256
+3776/3777 [============================>.] - ETA: 0s - loss: 42.0963 - mean_absolute_error: 42.0963 - mean_squared_error: 14175.8294Epoch 00045: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-45--42.11-42.17.h5
+3777/3777 [==============================] - 81s - loss: 42.1078 - mean_absolute_error: 42.1078 - mean_squared_error: 14180.7753 - val_loss: 42.1728 - val_mean_absolute_error: 42.1728 - val_mean_squared_error: 14713.5706
+Epoch 47/256
+3776/3777 [============================>.] - ETA: 0s - loss: 41.9074 - mean_absolute_error: 41.9074 - mean_squared_error: 14011.0570Epoch 00046: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-46--41.90-42.96.h5
+3777/3777 [==============================] - 81s - loss: 41.9046 - mean_absolute_error: 41.9046 - mean_squared_error: 14009.4494 - val_loss: 42.9628 - val_mean_absolute_error: 42.9628 - val_mean_squared_error: 14890.9112
+Epoch 48/256
+3776/3777 [============================>.] - ETA: 0s - loss: 41.5522 - mean_absolute_error: 41.5522 - mean_squared_error: 13894.2387Epoch 00047: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-47--41.55-41.68.h5
+3777/3777 [==============================] - 81s - loss: 41.5524 - mean_absolute_error: 41.5524 - mean_squared_error: 13893.4402 - val_loss: 41.6836 - val_mean_absolute_error: 41.6836 - val_mean_squared_error: 14301.6302
+Epoch 49/256
+3776/3777 [============================>.] - ETA: 0s - loss: 41.2175 - mean_absolute_error: 41.2175 - mean_squared_error: 13893.4838Epoch 00048: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-48--41.23-40.03.h5
+3777/3777 [==============================] - 81s - loss: 41.2252 - mean_absolute_error: 41.2252 - mean_squared_error: 13898.9656 - val_loss: 40.0284 - val_mean_absolute_error: 40.0284 - val_mean_squared_error: 13290.5706
+Epoch 50/256
+3776/3777 [============================>.] - ETA: 0s - loss: 40.9201 - mean_absolute_error: 40.9201 - mean_squared_error: 13616.6383Epoch 00049: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-49--40.92-39.95.h5
+3777/3777 [==============================] - 81s - loss: 40.9221 - mean_absolute_error: 40.9221 - mean_squared_error: 13616.9616 - val_loss: 39.9547 - val_mean_absolute_error: 39.9547 - val_mean_squared_error: 13479.7465
+Epoch 51/256
+3776/3777 [============================>.] - ETA: 0s - loss: 40.6854 - mean_absolute_error: 40.6854 - mean_squared_error: 13465.7307Epoch 00050: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-50--40.71-39.92.h5
+3777/3777 [==============================] - 82s - loss: 40.7050 - mean_absolute_error: 40.7050 - mean_squared_error: 13476.9249 - val_loss: 39.9239 - val_mean_absolute_error: 39.9239 - val_mean_squared_error: 13495.0400
+Epoch 52/256
+3776/3777 [============================>.] - ETA: 0s - loss: 40.2278 - mean_absolute_error: 40.2278 - mean_squared_error: 13298.6362Epoch 00051: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-51--40.23-40.43.h5
+3777/3777 [==============================] - 81s - loss: 40.2286 - mean_absolute_error: 40.2286 - mean_squared_error: 13298.0794 - val_loss: 40.4309 - val_mean_absolute_error: 40.4309 - val_mean_squared_error: 13909.9874
+Epoch 53/256
+3776/3777 [============================>.] - ETA: 0s - loss: 40.1370 - mean_absolute_error: 40.1370 - mean_squared_error: 13204.2832Epoch 00052: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-52--40.14-41.78.h5
+3777/3777 [==============================] - 80s - loss: 40.1429 - mean_absolute_error: 40.1429 - mean_squared_error: 13210.4833 - val_loss: 41.7816 - val_mean_absolute_error: 41.7815 - val_mean_squared_error: 15049.0791
+Epoch 54/256
+3776/3777 [============================>.] - ETA: 0s - loss: 39.7069 - mean_absolute_error: 39.7069 - mean_squared_error: 13012.1851Epoch 00053: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-53--39.71-39.75.h5
+3777/3777 [==============================] - 80s - loss: 39.7113 - mean_absolute_error: 39.7113 - mean_squared_error: 13017.2113 - val_loss: 39.7512 - val_mean_absolute_error: 39.7512 - val_mean_squared_error: 13389.5832
+Epoch 55/256
+3776/3777 [============================>.] - ETA: 0s - loss: 39.5895 - mean_absolute_error: 39.5895 - mean_squared_error: 13123.8034Epoch 00054: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-54--39.59-40.85.h5
+3777/3777 [==============================] - 80s - loss: 39.5877 - mean_absolute_error: 39.5877 - mean_squared_error: 13122.3716 - val_loss: 40.8461 - val_mean_absolute_error: 40.8461 - val_mean_squared_error: 14309.6409
+Epoch 56/256
+3776/3777 [============================>.] - ETA: 0s - loss: 39.3915 - mean_absolute_error: 39.3915 - mean_squared_error: 13150.4471Epoch 00055: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-55--39.40-39.75.h5
+3777/3777 [==============================] - 80s - loss: 39.4031 - mean_absolute_error: 39.4031 - mean_squared_error: 13153.5886 - val_loss: 39.7465 - val_mean_absolute_error: 39.7465 - val_mean_squared_error: 13916.7983
+Epoch 57/256
+3776/3777 [============================>.] - ETA: 0s - loss: 39.0573 - mean_absolute_error: 39.0573 - mean_squared_error: 12964.9709Epoch 00056: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-56--39.06-37.91.h5
+3777/3777 [==============================] - 80s - loss: 39.0628 - mean_absolute_error: 39.0628 - mean_squared_error: 12968.6041 - val_loss: 37.9084 - val_mean_absolute_error: 37.9084 - val_mean_squared_error: 12446.5328
+Epoch 58/256
+3776/3777 [============================>.] - ETA: 0s - loss: 38.9034 - mean_absolute_error: 38.9034 - mean_squared_error: 12788.9651Epoch 00057: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-57--38.91-40.45.h5
+3777/3777 [==============================] - 80s - loss: 38.9064 - mean_absolute_error: 38.9064 - mean_squared_error: 12792.6089 - val_loss: 40.4513 - val_mean_absolute_error: 40.4513 - val_mean_squared_error: 14108.3008
+Epoch 59/256
+3776/3777 [============================>.] - ETA: 0s - loss: 38.8900 - mean_absolute_error: 38.8900 - mean_squared_error: 12737.9288Epoch 00058: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-58--38.88-42.73.h5
+3777/3777 [==============================] - 80s - loss: 38.8802 - mean_absolute_error: 38.8802 - mean_squared_error: 12734.5613 - val_loss: 42.7340 - val_mean_absolute_error: 42.7340 - val_mean_squared_error: 15284.2432
+Epoch 60/256
+3776/3777 [============================>.] - ETA: 0s - loss: 38.6609 - mean_absolute_error: 38.6609 - mean_squared_error: 12618.1696Epoch 00059: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-59--38.67-39.73.h5
+3777/3777 [==============================] - 80s - loss: 38.6669 - mean_absolute_error: 38.6669 - mean_squared_error: 12620.8303 - val_loss: 39.7335 - val_mean_absolute_error: 39.7335 - val_mean_squared_error: 13626.1163
+Epoch 61/256
+3776/3777 [============================>.] - ETA: 0s - loss: 38.8684 - mean_absolute_error: 38.8684 - mean_squared_error: 12575.4463Epoch 00060: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-60--38.88-43.06.h5
+3777/3777 [==============================] - 80s - loss: 38.8809 - mean_absolute_error: 38.8809 - mean_squared_error: 12579.8145 - val_loss: 43.0560 - val_mean_absolute_error: 43.0560 - val_mean_squared_error: 14363.4061
+Epoch 62/256
+3776/3777 [============================>.] - ETA: 0s - loss: 39.4179 - mean_absolute_error: 39.4179 - mean_squared_error: 12764.4584Epoch 00061: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-61--39.42-44.42.h5
+3777/3777 [==============================] - 80s - loss: 39.4210 - mean_absolute_error: 39.4210 - mean_squared_error: 12767.2949 - val_loss: 44.4239 - val_mean_absolute_error: 44.4239 - val_mean_squared_error: 15973.7354
+Epoch 63/256
+3776/3777 [============================>.] - ETA: 0s - loss: 38.7860 - mean_absolute_error: 38.7860 - mean_squared_error: 12567.2018Epoch 00062: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-62--38.78-38.43.h5
+3777/3777 [==============================] - 80s - loss: 38.7832 - mean_absolute_error: 38.7832 - mean_squared_error: 12565.1306 - val_loss: 38.4334 - val_mean_absolute_error: 38.4334 - val_mean_squared_error: 12750.2689
+Epoch 64/256
+3776/3777 [============================>.] - ETA: 0s - loss: 38.0079 - mean_absolute_error: 38.0079 - mean_squared_error: 12153.0065Epoch 00063: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-63--38.02-41.12.h5
+3777/3777 [==============================] - 80s - loss: 38.0237 - mean_absolute_error: 38.0237 - mean_squared_error: 12155.2346 - val_loss: 41.1211 - val_mean_absolute_error: 41.1211 - val_mean_squared_error: 13835.5675
+Epoch 65/256
+3776/3777 [============================>.] - ETA: 0s - loss: 38.0761 - mean_absolute_error: 38.0761 - mean_squared_error: 12169.0492Epoch 00064: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-64--38.08-37.94.h5
+3777/3777 [==============================] - 81s - loss: 38.0761 - mean_absolute_error: 38.0761 - mean_squared_error: 12168.5002 - val_loss: 37.9360 - val_mean_absolute_error: 37.9360 - val_mean_squared_error: 12900.7581
+Epoch 66/256
+3776/3777 [============================>.] - ETA: 0s - loss: 37.5919 - mean_absolute_error: 37.5919 - mean_squared_error: 12023.5178Epoch 00065: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-65--37.59-37.79.h5
+3777/3777 [==============================] - 81s - loss: 37.5950 - mean_absolute_error: 37.5950 - mean_squared_error: 12026.1759 - val_loss: 37.7942 - val_mean_absolute_error: 37.7942 - val_mean_squared_error: 12564.9058
+Epoch 67/256
+3776/3777 [============================>.] - ETA: 0s - loss: 37.5640 - mean_absolute_error: 37.5640 - mean_squared_error: 11853.2233Epoch 00066: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-66--37.56-37.34.h5
+3777/3777 [==============================] - 81s - loss: 37.5636 - mean_absolute_error: 37.5636 - mean_squared_error: 11852.1517 - val_loss: 37.3390 - val_mean_absolute_error: 37.3390 - val_mean_squared_error: 12137.4769
+Epoch 68/256
+3776/3777 [============================>.] - ETA: 0s - loss: 37.4582 - mean_absolute_error: 37.4582 - mean_squared_error: 11713.8324Epoch 00067: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-67--37.45-38.60.h5
+3777/3777 [==============================] - 81s - loss: 37.4488 - mean_absolute_error: 37.4488 - mean_squared_error: 11710.7382 - val_loss: 38.5990 - val_mean_absolute_error: 38.5990 - val_mean_squared_error: 12598.2606
+Epoch 69/256
+3776/3777 [============================>.] - ETA: 0s - loss: 37.2494 - mean_absolute_error: 37.2494 - mean_squared_error: 11614.8134Epoch 00068: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-68--37.25-40.67.h5
+3777/3777 [==============================] - 81s - loss: 37.2538 - mean_absolute_error: 37.2538 - mean_squared_error: 11617.5790 - val_loss: 40.6745 - val_mean_absolute_error: 40.6745 - val_mean_squared_error: 13509.4368
+Epoch 70/256
+3776/3777 [============================>.] - ETA: 0s - loss: 37.2534 - mean_absolute_error: 37.2534 - mean_squared_error: 11644.2384Epoch 00069: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-69--37.26-38.34.h5
+3777/3777 [==============================] - 81s - loss: 37.2586 - mean_absolute_error: 37.2586 - mean_squared_error: 11647.4866 - val_loss: 38.3444 - val_mean_absolute_error: 38.3444 - val_mean_squared_error: 12715.2999
+Epoch 71/256
+3776/3777 [============================>.] - ETA: 0s - loss: 36.7457 - mean_absolute_error: 36.7457 - mean_squared_error: 11498.4993Epoch 00070: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-70--36.76-39.94.h5
+3777/3777 [==============================] - 81s - loss: 36.7641 - mean_absolute_error: 36.7641 - mean_squared_error: 11511.7068 - val_loss: 39.9421 - val_mean_absolute_error: 39.9421 - val_mean_squared_error: 13226.6375
+Epoch 72/256
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 20335185 get requests, put_count=20335129 evicted_count=24000 eviction_rate=0.00118022 and unsatisfied allocation rate=0.00118863
+3776/3777 [============================>.] - ETA: 0s - loss: 36.7040 - mean_absolute_error: 36.7040 - mean_squared_error: 11466.3403Epoch 00071: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-71--36.71-37.27.h5
+3777/3777 [==============================] - 81s - loss: 36.7129 - mean_absolute_error: 36.7129 - mean_squared_error: 11471.1805 - val_loss: 37.2677 - val_mean_absolute_error: 37.2677 - val_mean_squared_error: 12237.5384
+Epoch 73/256
+3776/3777 [============================>.] - ETA: 0s - loss: 36.6663 - mean_absolute_error: 36.6663 - mean_squared_error: 11424.7184Epoch 00072: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-72--36.67-36.17.h5
+3777/3777 [==============================] - 81s - loss: 36.6675 - mean_absolute_error: 36.6675 - mean_squared_error: 11424.8193 - val_loss: 36.1713 - val_mean_absolute_error: 36.1713 - val_mean_squared_error: 11764.9920
+Epoch 74/256
+3776/3777 [============================>.] - ETA: 0s - loss: 36.3006 - mean_absolute_error: 36.3006 - mean_squared_error: 11286.6436Epoch 00073: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-73--36.31-37.14.h5
+3777/3777 [==============================] - 81s - loss: 36.3064 - mean_absolute_error: 36.3064 - mean_squared_error: 11290.7857 - val_loss: 37.1399 - val_mean_absolute_error: 37.1399 - val_mean_squared_error: 12214.8477
+Epoch 75/256
+3776/3777 [============================>.] - ETA: 0s - loss: 36.4784 - mean_absolute_error: 36.4784 - mean_squared_error: 11364.2698Epoch 00074: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-74--36.47-39.83.h5
+3777/3777 [==============================] - 81s - loss: 36.4694 - mean_absolute_error: 36.4694 - mean_squared_error: 11361.2704 - val_loss: 39.8264 - val_mean_absolute_error: 39.8264 - val_mean_squared_error: 13186.5124
+Epoch 76/256
+3776/3777 [============================>.] - ETA: 0s - loss: 36.6948 - mean_absolute_error: 36.6948 - mean_squared_error: 11325.7245Epoch 00075: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-75--36.70-34.08.h5
+3777/3777 [==============================] - 81s - loss: 36.6955 - mean_absolute_error: 36.6955 - mean_squared_error: 11325.3600 - val_loss: 34.0775 - val_mean_absolute_error: 34.0775 - val_mean_squared_error: 9910.6274
+Epoch 77/256
+3776/3777 [============================>.] - ETA: 0s - loss: 36.7180 - mean_absolute_error: 36.7180 - mean_squared_error: 11412.3959Epoch 00076: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-76--36.72-39.28.h5
+3777/3777 [==============================] - 81s - loss: 36.7202 - mean_absolute_error: 36.7202 - mean_squared_error: 11412.4176 - val_loss: 39.2841 - val_mean_absolute_error: 39.2841 - val_mean_squared_error: 12380.2222
+Epoch 78/256
+3776/3777 [============================>.] - ETA: 0s - loss: 36.2273 - mean_absolute_error: 36.2273 - mean_squared_error: 11143.2224Epoch 00077: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-77--36.23-36.77.h5
+3777/3777 [==============================] - 81s - loss: 36.2330 - mean_absolute_error: 36.2330 - mean_squared_error: 11147.6922 - val_loss: 36.7737 - val_mean_absolute_error: 36.7737 - val_mean_squared_error: 11925.5554
+Epoch 79/256
+3776/3777 [============================>.] - ETA: 0s - loss: 35.9880 - mean_absolute_error: 35.9880 - mean_squared_error: 11047.2448Epoch 00078: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-78--36.00-37.42.h5
+3777/3777 [==============================] - 81s - loss: 35.9954 - mean_absolute_error: 35.9954 - mean_squared_error: 11052.4015 - val_loss: 37.4163 - val_mean_absolute_error: 37.4163 - val_mean_squared_error: 12621.5307
+Epoch 80/256
+3776/3777 [============================>.] - ETA: 0s - loss: 35.9791 - mean_absolute_error: 35.9791 - mean_squared_error: 11024.9371Epoch 00079: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-79--35.97-36.49.h5
+3777/3777 [==============================] - 81s - loss: 35.9702 - mean_absolute_error: 35.9702 - mean_squared_error: 11022.0292 - val_loss: 36.4867 - val_mean_absolute_error: 36.4867 - val_mean_squared_error: 11777.6462
+Epoch 81/256
+3776/3777 [============================>.] - ETA: 0s - loss: 35.7750 - mean_absolute_error: 35.7750 - mean_squared_error: 10923.2459Epoch 00080: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-80--35.78-36.36.h5
+3777/3777 [==============================] - 81s - loss: 35.7786 - mean_absolute_error: 35.7786 - mean_squared_error: 10927.0114 - val_loss: 36.3560 - val_mean_absolute_error: 36.3560 - val_mean_squared_error: 11408.6932
+Epoch 82/256
+3776/3777 [============================>.] - ETA: 0s - loss: 35.6339 - mean_absolute_error: 35.6339 - mean_squared_error: 10724.8009Epoch 00081: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-81--35.66-35.68.h5
+3777/3777 [==============================] - 81s - loss: 35.6560 - mean_absolute_error: 35.6560 - mean_squared_error: 10737.1419 - val_loss: 35.6760 - val_mean_absolute_error: 35.6760 - val_mean_squared_error: 11176.3720
+Epoch 83/256
+3776/3777 [============================>.] - ETA: 0s - loss: 35.1229 - mean_absolute_error: 35.1229 - mean_squared_error: 10560.7022Epoch 00082: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-82--35.13-36.72.h5
+3777/3777 [==============================] - 81s - loss: 35.1292 - mean_absolute_error: 35.1292 - mean_squared_error: 10565.0340 - val_loss: 36.7156 - val_mean_absolute_error: 36.7156 - val_mean_squared_error: 12295.6552
+Epoch 84/256
+3776/3777 [============================>.] - ETA: 0s - loss: 35.4707 - mean_absolute_error: 35.4707 - mean_squared_error: 10669.6287Epoch 00083: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-83--35.52-35.99.h5
+3777/3777 [==============================] - 80s - loss: 35.5169 - mean_absolute_error: 35.5169 - mean_squared_error: 10682.7309 - val_loss: 35.9891 - val_mean_absolute_error: 35.9891 - val_mean_squared_error: 11435.7060
+Epoch 85/256
+3776/3777 [============================>.] - ETA: 0s - loss: 35.6453 - mean_absolute_error: 35.6453 - mean_squared_error: 10750.8250Epoch 00084: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-84--35.65-34.76.h5
+3777/3777 [==============================] - 80s - loss: 35.6480 - mean_absolute_error: 35.6480 - mean_squared_error: 10751.9294 - val_loss: 34.7595 - val_mean_absolute_error: 34.7595 - val_mean_squared_error: 10704.2164
+Epoch 86/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.9353 - mean_absolute_error: 34.9353 - mean_squared_error: 10436.5336Epoch 00085: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-85--34.93-34.81.h5
+3777/3777 [==============================] - 80s - loss: 34.9268 - mean_absolute_error: 34.9268 - mean_squared_error: 10433.7837 - val_loss: 34.8142 - val_mean_absolute_error: 34.8142 - val_mean_squared_error: 10862.9656
+Epoch 87/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.7714 - mean_absolute_error: 34.7714 - mean_squared_error: 10444.8676Epoch 00086: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-86--34.77-34.58.h5
+3777/3777 [==============================] - 81s - loss: 34.7732 - mean_absolute_error: 34.7732 - mean_squared_error: 10445.4355 - val_loss: 34.5763 - val_mean_absolute_error: 34.5763 - val_mean_squared_error: 10891.6656
+Epoch 88/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.6759 - mean_absolute_error: 34.6759 - mean_squared_error: 10495.6438Epoch 00087: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-87--34.70-35.32.h5
+3777/3777 [==============================] - 80s - loss: 34.7046 - mean_absolute_error: 34.7046 - mean_squared_error: 10507.7421 - val_loss: 35.3170 - val_mean_absolute_error: 35.3170 - val_mean_squared_error: 11471.4743
+Epoch 89/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.8132 - mean_absolute_error: 34.8132 - mean_squared_error: 10508.1601Epoch 00088: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-88--34.82-35.58.h5
+3777/3777 [==============================] - 80s - loss: 34.8160 - mean_absolute_error: 34.8160 - mean_squared_error: 10508.7901 - val_loss: 35.5813 - val_mean_absolute_error: 35.5813 - val_mean_squared_error: 11252.9808
+Epoch 90/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.8065 - mean_absolute_error: 34.8065 - mean_squared_error: 10481.7052Epoch 00089: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-89--34.82-34.83.h5
+3777/3777 [==============================] - 80s - loss: 34.8199 - mean_absolute_error: 34.8199 - mean_squared_error: 10486.0257 - val_loss: 34.8278 - val_mean_absolute_error: 34.8278 - val_mean_squared_error: 10794.8906
+Epoch 91/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.4573 - mean_absolute_error: 34.4573 - mean_squared_error: 10338.0202Epoch 00090: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-90--34.46-35.27.h5
+3777/3777 [==============================] - 80s - loss: 34.4622 - mean_absolute_error: 34.4622 - mean_squared_error: 10340.9009 - val_loss: 35.2686 - val_mean_absolute_error: 35.2686 - val_mean_squared_error: 11148.3453
+Epoch 92/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.5305 - mean_absolute_error: 34.5305 - mean_squared_error: 10398.0306Epoch 00091: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-91--34.53-33.44.h5
+3777/3777 [==============================] - 81s - loss: 34.5328 - mean_absolute_error: 34.5328 - mean_squared_error: 10398.3425 - val_loss: 33.4359 - val_mean_absolute_error: 33.4359 - val_mean_squared_error: 10222.7401
+Epoch 93/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.3559 - mean_absolute_error: 34.3559 - mean_squared_error: 10331.7502Epoch 00092: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-92--34.37-35.56.h5
+3777/3777 [==============================] - 80s - loss: 34.3686 - mean_absolute_error: 34.3686 - mean_squared_error: 10340.7866 - val_loss: 35.5556 - val_mean_absolute_error: 35.5556 - val_mean_squared_error: 11698.3594
+Epoch 94/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.2975 - mean_absolute_error: 34.2975 - mean_squared_error: 10281.2166Epoch 00093: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-93--34.30-34.11.h5
+3777/3777 [==============================] - 80s - loss: 34.2983 - mean_absolute_error: 34.2983 - mean_squared_error: 10281.0707 - val_loss: 34.1128 - val_mean_absolute_error: 34.1128 - val_mean_squared_error: 10716.6064
+Epoch 95/256
+3776/3777 [============================>.] - ETA: 0s - loss: 34.0091 - mean_absolute_error: 34.0091 - mean_squared_error: 10197.5807Epoch 00094: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-94--34.00-34.19.h5
+3777/3777 [==============================] - 80s - loss: 34.0008 - mean_absolute_error: 34.0008 - mean_squared_error: 10194.8976 - val_loss: 34.1878 - val_mean_absolute_error: 34.1878 - val_mean_squared_error: 10907.6730
+Epoch 96/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.8605 - mean_absolute_error: 33.8605 - mean_squared_error: 10104.2752Epoch 00095: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-95--33.86-33.27.h5
+3777/3777 [==============================] - 80s - loss: 33.8617 - mean_absolute_error: 33.8617 - mean_squared_error: 10104.1703 - val_loss: 33.2694 - val_mean_absolute_error: 33.2694 - val_mean_squared_error: 10097.0337
+Epoch 97/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.6783 - mean_absolute_error: 33.6783 - mean_squared_error: 10094.7320Epoch 00096: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-96--33.68-35.31.h5
+3777/3777 [==============================] - 80s - loss: 33.6815 - mean_absolute_error: 33.6815 - mean_squared_error: 10095.7424 - val_loss: 35.3146 - val_mean_absolute_error: 35.3146 - val_mean_squared_error: 11251.3035
+Epoch 98/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.4762 - mean_absolute_error: 33.4762 - mean_squared_error: 10014.1284Epoch 00097: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-97--33.50-33.97.h5
+3777/3777 [==============================] - 80s - loss: 33.5028 - mean_absolute_error: 33.5028 - mean_squared_error: 10023.1128 - val_loss: 33.9727 - val_mean_absolute_error: 33.9727 - val_mean_squared_error: 10836.2311
+Epoch 99/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.2083 - mean_absolute_error: 33.2083 - mean_squared_error: 9950.8207Epoch 00098: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-98--33.21-35.37.h5
+3777/3777 [==============================] - 80s - loss: 33.2117 - mean_absolute_error: 33.2117 - mean_squared_error: 9952.0000 - val_loss: 35.3699 - val_mean_absolute_error: 35.3699 - val_mean_squared_error: 11459.1170
+Epoch 100/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.5735 - mean_absolute_error: 33.5735 - mean_squared_error: 10122.3888Epoch 00099: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-99--33.58-35.97.h5
+3777/3777 [==============================] - 80s - loss: 33.5793 - mean_absolute_error: 33.5793 - mean_squared_error: 10126.1951 - val_loss: 35.9748 - val_mean_absolute_error: 35.9748 - val_mean_squared_error: 11535.7748
+Epoch 101/256
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 28762733 get requests, put_count=28762715 evicted_count=34000 eviction_rate=0.00118209 and unsatisfied allocation rate=0.00118671
+3776/3777 [============================>.] - ETA: 0s - loss: 33.3706 - mean_absolute_error: 33.3706 - mean_squared_error: 10050.2708Epoch 00100: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-100--33.36-34.18.h5
+3777/3777 [==============================] - 80s - loss: 33.3626 - mean_absolute_error: 33.3626 - mean_squared_error: 10047.6295 - val_loss: 34.1812 - val_mean_absolute_error: 34.1812 - val_mean_squared_error: 10841.6964
+Epoch 102/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.5503 - mean_absolute_error: 33.5503 - mean_squared_error: 10150.9575Epoch 00101: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-101--33.55-33.41.h5
+3777/3777 [==============================] - 80s - loss: 33.5517 - mean_absolute_error: 33.5517 - mean_squared_error: 10151.2677 - val_loss: 33.4110 - val_mean_absolute_error: 33.4110 - val_mean_squared_error: 10539.7408
+Epoch 103/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.1056 - mean_absolute_error: 33.1056 - mean_squared_error: 9996.8908 Epoch 00102: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-102--33.11-33.86.h5
+3777/3777 [==============================] - 80s - loss: 33.1091 - mean_absolute_error: 33.1091 - mean_squared_error: 9997.6501 - val_loss: 33.8571 - val_mean_absolute_error: 33.8571 - val_mean_squared_error: 10994.5274
+Epoch 104/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.0789 - mean_absolute_error: 33.0789 - mean_squared_error: 9940.5085Epoch 00103: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-103--33.09-35.41.h5
+3777/3777 [==============================] - 80s - loss: 33.0927 - mean_absolute_error: 33.0927 - mean_squared_error: 9944.9562 - val_loss: 35.4100 - val_mean_absolute_error: 35.4100 - val_mean_squared_error: 11434.7983
+Epoch 105/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.0623 - mean_absolute_error: 33.0623 - mean_squared_error: 9938.7338Epoch 00104: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-104--33.10-36.09.h5
+3777/3777 [==============================] - 80s - loss: 33.0957 - mean_absolute_error: 33.0957 - mean_squared_error: 9949.5412 - val_loss: 36.0921 - val_mean_absolute_error: 36.0921 - val_mean_squared_error: 12011.8913
+Epoch 106/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.1866 - mean_absolute_error: 33.1866 - mean_squared_error: 10055.4983Epoch 00105: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-105--33.19-35.33.h5
+3777/3777 [==============================] - 80s - loss: 33.1860 - mean_absolute_error: 33.1860 - mean_squared_error: 10054.6766 - val_loss: 35.3252 - val_mean_absolute_error: 35.3252 - val_mean_squared_error: 11864.9594
+Epoch 107/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.9304 - mean_absolute_error: 32.9304 - mean_squared_error: 10003.6636Epoch 00106: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-106--32.95-32.46.h5
+3777/3777 [==============================] - 80s - loss: 32.9507 - mean_absolute_error: 32.9507 - mean_squared_error: 10009.3859 - val_loss: 32.4591 - val_mean_absolute_error: 32.4591 - val_mean_squared_error: 9981.0873
+Epoch 108/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.8526 - mean_absolute_error: 32.8526 - mean_squared_error: 10052.8422Epoch 00107: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-107--32.85-39.16.h5
+3777/3777 [==============================] - 80s - loss: 32.8524 - mean_absolute_error: 32.8524 - mean_squared_error: 10052.1868 - val_loss: 39.1622 - val_mean_absolute_error: 39.1622 - val_mean_squared_error: 13094.8519
+Epoch 109/256
+3776/3777 [============================>.] - ETA: 0s - loss: 33.8672 - mean_absolute_error: 33.8672 - mean_squared_error: 10166.8173Epoch 00108: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-108--33.87-32.59.h5
+3777/3777 [==============================] - 80s - loss: 33.8672 - mean_absolute_error: 33.8672 - mean_squared_error: 10165.8459 - val_loss: 32.5874 - val_mean_absolute_error: 32.5874 - val_mean_squared_error: 9651.9539
+Epoch 110/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.7044 - mean_absolute_error: 32.7044 - mean_squared_error: 9685.0205Epoch 00109: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-109--32.70-33.07.h5
+3777/3777 [==============================] - 80s - loss: 32.6967 - mean_absolute_error: 32.6967 - mean_squared_error: 9682.4807 - val_loss: 33.0657 - val_mean_absolute_error: 33.0657 - val_mean_squared_error: 10273.7361
+Epoch 111/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.5329 - mean_absolute_error: 32.5329 - mean_squared_error: 9826.9076Epoch 00110: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-110--32.54-32.84.h5
+3777/3777 [==============================] - 80s - loss: 32.5412 - mean_absolute_error: 32.5412 - mean_squared_error: 9831.3443 - val_loss: 32.8423 - val_mean_absolute_error: 32.8423 - val_mean_squared_error: 10192.7995
+Epoch 112/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.3472 - mean_absolute_error: 32.3472 - mean_squared_error: 9613.8568Epoch 00111: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-111--32.37-34.17.h5
+3777/3777 [==============================] - 80s - loss: 32.3670 - mean_absolute_error: 32.3670 - mean_squared_error: 9624.0974 - val_loss: 34.1694 - val_mean_absolute_error: 34.1694 - val_mean_squared_error: 10538.2833
+Epoch 113/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.1736 - mean_absolute_error: 32.1736 - mean_squared_error: 9613.8803Epoch 00112: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-112--32.18-33.13.h5
+3777/3777 [==============================] - 80s - loss: 32.1753 - mean_absolute_error: 32.1753 - mean_squared_error: 9613.9721 - val_loss: 33.1291 - val_mean_absolute_error: 33.1291 - val_mean_squared_error: 10559.8108
+Epoch 114/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.1910 - mean_absolute_error: 32.1910 - mean_squared_error: 9665.4934Epoch 00113: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-113--32.20-34.18.h5
+3777/3777 [==============================] - 81s - loss: 32.1976 - mean_absolute_error: 32.1976 - mean_squared_error: 9668.8787 - val_loss: 34.1826 - val_mean_absolute_error: 34.1826 - val_mean_squared_error: 10633.5013
+Epoch 115/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.1317 - mean_absolute_error: 32.1317 - mean_squared_error: 9577.0295Epoch 00114: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-114--32.13-32.24.h5
+3777/3777 [==============================] - 80s - loss: 32.1341 - mean_absolute_error: 32.1341 - mean_squared_error: 9577.3709 - val_loss: 32.2408 - val_mean_absolute_error: 32.2408 - val_mean_squared_error: 9926.2312
+Epoch 116/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.0409 - mean_absolute_error: 32.0409 - mean_squared_error: 9454.4721Epoch 00115: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-115--32.03-35.53.h5
+3777/3777 [==============================] - 80s - loss: 32.0335 - mean_absolute_error: 32.0335 - mean_squared_error: 9451.9971 - val_loss: 35.5322 - val_mean_absolute_error: 35.5322 - val_mean_squared_error: 11351.5821
+Epoch 117/256
+3776/3777 [============================>.] - ETA: 0s - loss: 32.0622 - mean_absolute_error: 32.0622 - mean_squared_error: 9555.0447Epoch 00116: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-116--32.05-34.12.h5
+3777/3777 [==============================] - 80s - loss: 32.0548 - mean_absolute_error: 32.0548 - mean_squared_error: 9552.5437 - val_loss: 34.1187 - val_mean_absolute_error: 34.1187 - val_mean_squared_error: 11066.1492
+Epoch 118/256
+3776/3777 [============================>.] - ETA: 0s - loss: 31.8686 - mean_absolute_error: 31.8686 - mean_squared_error: 9393.8802Epoch 00117: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-117--31.88-32.39.h5
+3777/3777 [==============================] - 80s - loss: 31.8759 - mean_absolute_error: 31.8759 - mean_squared_error: 9397.8044 - val_loss: 32.3897 - val_mean_absolute_error: 32.3897 - val_mean_squared_error: 10035.6135
+Epoch 119/256
+3776/3777 [============================>.] - ETA: 0s - loss: 31.7840 - mean_absolute_error: 31.7840 - mean_squared_error: 9389.0947Epoch 00118: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-118--31.80-32.43.h5
+3777/3777 [==============================] - 80s - loss: 31.8041 - mean_absolute_error: 31.8041 - mean_squared_error: 9400.6890 - val_loss: 32.4302 - val_mean_absolute_error: 32.4302 - val_mean_squared_error: 9915.0433
+Epoch 120/256
+3776/3777 [============================>.] - ETA: 0s - loss: 31.5896 - mean_absolute_error: 31.5896 - mean_squared_error: 9470.1902Epoch 00119: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-119--31.59-33.32.h5
+3777/3777 [==============================] - 80s - loss: 31.5923 - mean_absolute_error: 31.5923 - mean_squared_error: 9471.0758 - val_loss: 33.3210 - val_mean_absolute_error: 33.3210 - val_mean_squared_error: 10762.1374
+Epoch 121/256
+3776/3777 [============================>.] - ETA: 0s - loss: 31.3780 - mean_absolute_error: 31.3780 - mean_squared_error: 9323.0162Epoch 00120: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-120--31.39-32.34.h5
+3777/3777 [==============================] - 80s - loss: 31.3852 - mean_absolute_error: 31.3852 - mean_squared_error: 9330.2894 - val_loss: 32.3369 - val_mean_absolute_error: 32.3369 - val_mean_squared_error: 10104.1788
+Epoch 122/256
+3776/3777 [============================>.] - ETA: 0s - loss: 31.2337 - mean_absolute_error: 31.2337 - mean_squared_error: 9371.3481Epoch 00121: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-121--31.24-32.85.h5
+3777/3777 [==============================] - 80s - loss: 31.2440 - mean_absolute_error: 31.2440 - mean_squared_error: 9377.5657 - val_loss: 32.8482 - val_mean_absolute_error: 32.8482 - val_mean_squared_error: 10325.9014
+Epoch 123/256
+3776/3777 [============================>.] - ETA: 0s - loss: 31.3605 - mean_absolute_error: 31.3605 - mean_squared_error: 9344.2571Epoch 00122: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-122--31.37-32.16.h5
+3777/3777 [==============================] - 80s - loss: 31.3666 - mean_absolute_error: 31.3666 - mean_squared_error: 9349.0721 - val_loss: 32.1562 - val_mean_absolute_error: 32.1562 - val_mean_squared_error: 9968.8984
+Epoch 124/256
+3776/3777 [============================>.] - ETA: 0s - loss: 31.1743 - mean_absolute_error: 31.1743 - mean_squared_error: 9351.0886Epoch 00123: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-123--31.17-32.33.h5
+3777/3777 [==============================] - 80s - loss: 31.1722 - mean_absolute_error: 31.1722 - mean_squared_error: 9349.4579 - val_loss: 32.3305 - val_mean_absolute_error: 32.3305 - val_mean_squared_error: 10144.0559
+Epoch 125/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.9199 - mean_absolute_error: 30.9199 - mean_squared_error: 9321.3960Epoch 00124: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-124--30.92-31.68.h5
+3777/3777 [==============================] - 80s - loss: 30.9237 - mean_absolute_error: 30.9237 - mean_squared_error: 9323.2717 - val_loss: 31.6777 - val_mean_absolute_error: 31.6777 - val_mean_squared_error: 9953.8339
+Epoch 126/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.9485 - mean_absolute_error: 30.9485 - mean_squared_error: 9346.3014Epoch 00125: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-125--30.95-31.96.h5
+3777/3777 [==============================] - 80s - loss: 30.9502 - mean_absolute_error: 30.9502 - mean_squared_error: 9346.1820 - val_loss: 31.9567 - val_mean_absolute_error: 31.9567 - val_mean_squared_error: 10067.8662
+Epoch 127/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.7776 - mean_absolute_error: 30.7776 - mean_squared_error: 9174.7849Epoch 00126: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-126--30.78-31.77.h5
+3777/3777 [==============================] - 80s - loss: 30.7821 - mean_absolute_error: 30.7821 - mean_squared_error: 9176.2770 - val_loss: 31.7722 - val_mean_absolute_error: 31.7722 - val_mean_squared_error: 9567.9886
+Epoch 128/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.6840 - mean_absolute_error: 30.6840 - mean_squared_error: 9032.1887Epoch 00127: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-127--30.69-31.99.h5
+3777/3777 [==============================] - 80s - loss: 30.6888 - mean_absolute_error: 30.6888 - mean_squared_error: 9036.1926 - val_loss: 31.9877 - val_mean_absolute_error: 31.9877 - val_mean_squared_error: 9724.4289
+Epoch 129/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.5020 - mean_absolute_error: 30.5020 - mean_squared_error: 8965.4751Epoch 00128: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-128--30.50-32.03.h5
+3777/3777 [==============================] - 80s - loss: 30.4950 - mean_absolute_error: 30.4950 - mean_squared_error: 8963.1385 - val_loss: 32.0275 - val_mean_absolute_error: 32.0275 - val_mean_squared_error: 10010.6560
+Epoch 130/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.4920 - mean_absolute_error: 30.4920 - mean_squared_error: 8967.3491I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 37472411 get requests, put_count=37472273 evicted_count=44000 eviction_rate=0.0011742 and unsatisfied allocation rate=0.00118095
+Epoch 00129: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-129--30.52-31.10.h5
+3777/3777 [==============================] - 80s - loss: 30.5156 - mean_absolute_error: 30.5156 - mean_squared_error: 8972.6577 - val_loss: 31.0996 - val_mean_absolute_error: 31.0996 - val_mean_squared_error: 9379.3775
+Epoch 131/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.6000 - mean_absolute_error: 30.6000 - mean_squared_error: 9044.4016Epoch 00130: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-130--30.60-32.03.h5
+3777/3777 [==============================] - 80s - loss: 30.6029 - mean_absolute_error: 30.6029 - mean_squared_error: 9044.9037 - val_loss: 32.0257 - val_mean_absolute_error: 32.0257 - val_mean_squared_error: 9915.0369
+Epoch 132/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.5588 - mean_absolute_error: 30.5588 - mean_squared_error: 9064.2377Epoch 00131: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-131--30.56-31.57.h5
+3777/3777 [==============================] - 80s - loss: 30.5638 - mean_absolute_error: 30.5638 - mean_squared_error: 9069.1886 - val_loss: 31.5720 - val_mean_absolute_error: 31.5720 - val_mean_squared_error: 9669.2726
+Epoch 133/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.4507 - mean_absolute_error: 30.4507 - mean_squared_error: 9032.4449Epoch 00132: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-132--30.46-31.10.h5
+3777/3777 [==============================] - 80s - loss: 30.4562 - mean_absolute_error: 30.4562 - mean_squared_error: 9034.9141 - val_loss: 31.1026 - val_mean_absolute_error: 31.1026 - val_mean_squared_error: 9507.3507
+Epoch 134/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.3236 - mean_absolute_error: 30.3236 - mean_squared_error: 8973.9014Epoch 00133: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-133--30.33-30.94.h5
+3777/3777 [==============================] - 80s - loss: 30.3266 - mean_absolute_error: 30.3266 - mean_squared_error: 8974.4711 - val_loss: 30.9352 - val_mean_absolute_error: 30.9352 - val_mean_squared_error: 9398.2957
+Epoch 135/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.1948 - mean_absolute_error: 30.1948 - mean_squared_error: 9005.8588Epoch 00134: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-134--30.19-31.83.h5
+3777/3777 [==============================] - 80s - loss: 30.1880 - mean_absolute_error: 30.1880 - mean_squared_error: 9003.5159 - val_loss: 31.8327 - val_mean_absolute_error: 31.8327 - val_mean_squared_error: 10071.1797
+Epoch 136/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.2312 - mean_absolute_error: 30.2312 - mean_squared_error: 9049.1415Epoch 00135: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-135--30.24-31.58.h5
+3777/3777 [==============================] - 80s - loss: 30.2370 - mean_absolute_error: 30.2370 - mean_squared_error: 9053.1754 - val_loss: 31.5845 - val_mean_absolute_error: 31.5845 - val_mean_squared_error: 9981.8489
+Epoch 137/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.9987 - mean_absolute_error: 29.9987 - mean_squared_error: 8893.1984Epoch 00136: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-136--30.02-30.99.h5
+3777/3777 [==============================] - 80s - loss: 30.0194 - mean_absolute_error: 30.0194 - mean_squared_error: 8904.3053 - val_loss: 30.9873 - val_mean_absolute_error: 30.9873 - val_mean_squared_error: 9428.1185
+Epoch 138/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.9931 - mean_absolute_error: 29.9931 - mean_squared_error: 8890.7562Epoch 00137: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-137--29.99-31.06.h5
+3777/3777 [==============================] - 80s - loss: 29.9943 - mean_absolute_error: 29.9943 - mean_squared_error: 8890.3373 - val_loss: 31.0590 - val_mean_absolute_error: 31.0590 - val_mean_squared_error: 9612.7632
+Epoch 139/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.8864 - mean_absolute_error: 29.8864 - mean_squared_error: 8781.6107Epoch 00138: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-138--29.92-31.31.h5
+3777/3777 [==============================] - 80s - loss: 29.9210 - mean_absolute_error: 29.9210 - mean_squared_error: 8801.1764 - val_loss: 31.3147 - val_mean_absolute_error: 31.3147 - val_mean_squared_error: 9531.9513
+Epoch 140/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.9038 - mean_absolute_error: 29.9038 - mean_squared_error: 8810.1246Epoch 00139: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-139--29.90-30.56.h5
+3777/3777 [==============================] - 80s - loss: 29.8971 - mean_absolute_error: 29.8971 - mean_squared_error: 8807.8371 - val_loss: 30.5553 - val_mean_absolute_error: 30.5553 - val_mean_squared_error: 9102.0964
+Epoch 141/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.8611 - mean_absolute_error: 29.8611 - mean_squared_error: 8755.8230Epoch 00140: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-140--29.89-30.41.h5
+3777/3777 [==============================] - 80s - loss: 29.8861 - mean_absolute_error: 29.8861 - mean_squared_error: 8765.1226 - val_loss: 30.4116 - val_mean_absolute_error: 30.4116 - val_mean_squared_error: 9188.4623
+Epoch 142/256
+3776/3777 [============================>.] - ETA: 0s - loss: 30.0150 - mean_absolute_error: 30.0150 - mean_squared_error: 8874.6541Epoch 00141: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-141--30.06-30.92.h5
+3777/3777 [==============================] - 80s - loss: 30.0603 - mean_absolute_error: 30.0603 - mean_squared_error: 8893.4416 - val_loss: 30.9172 - val_mean_absolute_error: 30.9172 - val_mean_squared_error: 9309.3845
+Epoch 143/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.7181 - mean_absolute_error: 29.7181 - mean_squared_error: 8689.3728Epoch 00142: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-142--29.72-30.80.h5
+3777/3777 [==============================] - 80s - loss: 29.7197 - mean_absolute_error: 29.7197 - mean_squared_error: 8690.2022 - val_loss: 30.8043 - val_mean_absolute_error: 30.8043 - val_mean_squared_error: 9504.6840
+Epoch 144/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.6148 - mean_absolute_error: 29.6148 - mean_squared_error: 8685.9890Epoch 00143: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-143--29.64-30.88.h5
+3777/3777 [==============================] - 80s - loss: 29.6427 - mean_absolute_error: 29.6427 - mean_squared_error: 8700.3909 - val_loss: 30.8846 - val_mean_absolute_error: 30.8846 - val_mean_squared_error: 9319.6504
+Epoch 145/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.5579 - mean_absolute_error: 29.5579 - mean_squared_error: 8722.9162Epoch 00144: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-144--29.55-31.41.h5
+3777/3777 [==============================] - 80s - loss: 29.5514 - mean_absolute_error: 29.5514 - mean_squared_error: 8720.6556 - val_loss: 31.4121 - val_mean_absolute_error: 31.4121 - val_mean_squared_error: 9846.4329
+Epoch 146/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.6554 - mean_absolute_error: 29.6554 - mean_squared_error: 8704.0488Epoch 00145: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-145--29.66-30.63.h5
+3777/3777 [==============================] - 80s - loss: 29.6581 - mean_absolute_error: 29.6581 - mean_squared_error: 8704.3537 - val_loss: 30.6324 - val_mean_absolute_error: 30.6324 - val_mean_squared_error: 9201.8808
+Epoch 147/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.1527 - mean_absolute_error: 29.1527 - mean_squared_error: 8508.8030Epoch 00146: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-146--29.16-30.39.h5
+3777/3777 [==============================] - 80s - loss: 29.1587 - mean_absolute_error: 29.1587 - mean_squared_error: 8511.0488 - val_loss: 30.3915 - val_mean_absolute_error: 30.3915 - val_mean_squared_error: 9086.1654
+Epoch 148/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.5544 - mean_absolute_error: 29.5544 - mean_squared_error: 8622.8393Epoch 00147: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-147--29.57-30.90.h5
+3777/3777 [==============================] - 80s - loss: 29.5655 - mean_absolute_error: 29.5655 - mean_squared_error: 8629.4098 - val_loss: 30.9019 - val_mean_absolute_error: 30.9019 - val_mean_squared_error: 9327.7974
+Epoch 149/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.2541 - mean_absolute_error: 29.2541 - mean_squared_error: 8516.2397Epoch 00148: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-148--29.26-30.49.h5
+3777/3777 [==============================] - 80s - loss: 29.2580 - mean_absolute_error: 29.2580 - mean_squared_error: 8517.0532 - val_loss: 30.4888 - val_mean_absolute_error: 30.4888 - val_mean_squared_error: 9138.0054
+Epoch 150/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.1950 - mean_absolute_error: 29.1950 - mean_squared_error: 8506.0637Epoch 00149: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-149--29.22-30.20.h5
+3777/3777 [==============================] - 80s - loss: 29.2166 - mean_absolute_error: 29.2166 - mean_squared_error: 8517.6855 - val_loss: 30.1982 - val_mean_absolute_error: 30.1982 - val_mean_squared_error: 9007.3811
+Epoch 151/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.2723 - mean_absolute_error: 29.2723 - mean_squared_error: 8540.4101Epoch 00150: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-150--29.27-30.75.h5
+3777/3777 [==============================] - 80s - loss: 29.2749 - mean_absolute_error: 29.2749 - mean_squared_error: 8540.8803 - val_loss: 30.7524 - val_mean_absolute_error: 30.7524 - val_mean_squared_error: 9321.2628
+Epoch 152/256
+3776/3777 [============================>.] - ETA: 0s - loss: 29.1173 - mean_absolute_error: 29.1173 - mean_squared_error: 8492.1472Epoch 00151: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-151--29.13-30.37.h5
+3777/3777 [==============================] - 81s - loss: 29.1314 - mean_absolute_error: 29.1314 - mean_squared_error: 8497.0466 - val_loss: 30.3657 - val_mean_absolute_error: 30.3657 - val_mean_squared_error: 9135.4110
+Epoch 153/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.9024 - mean_absolute_error: 28.9024 - mean_squared_error: 8440.3839Epoch 00152: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-152--28.91-30.90.h5
+3777/3777 [==============================] - 80s - loss: 28.9129 - mean_absolute_error: 28.9129 - mean_squared_error: 8446.4661 - val_loss: 30.9036 - val_mean_absolute_error: 30.9036 - val_mean_squared_error: 9378.3224
+Epoch 154/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.8536 - mean_absolute_error: 28.8536 - mean_squared_error: 8395.7843Epoch 00153: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-153--28.86-29.99.h5
+3777/3777 [==============================] - 80s - loss: 28.8631 - mean_absolute_error: 28.8631 - mean_squared_error: 8401.7248 - val_loss: 29.9851 - val_mean_absolute_error: 29.9851 - val_mean_squared_error: 8775.6162
+Epoch 155/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.8553 - mean_absolute_error: 28.8553 - mean_squared_error: 8446.9851Epoch 00154: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-154--28.86-30.40.h5
+3777/3777 [==============================] - 80s - loss: 28.8588 - mean_absolute_error: 28.8588 - mean_squared_error: 8448.4713 - val_loss: 30.3952 - val_mean_absolute_error: 30.3952 - val_mean_squared_error: 9115.3690
+Epoch 156/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.7670 - mean_absolute_error: 28.7670 - mean_squared_error: 8392.6068Epoch 00155: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-155--28.77-30.74.h5
+3777/3777 [==============================] - 80s - loss: 28.7695 - mean_absolute_error: 28.7695 - mean_squared_error: 8392.9805 - val_loss: 30.7369 - val_mean_absolute_error: 30.7369 - val_mean_squared_error: 9318.5414
+Epoch 157/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.5557 - mean_absolute_error: 28.5557 - mean_squared_error: 8304.3183Epoch 00156: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-156--28.57-30.92.h5
+3777/3777 [==============================] - 80s - loss: 28.5654 - mean_absolute_error: 28.5654 - mean_squared_error: 8308.6998 - val_loss: 30.9157 - val_mean_absolute_error: 30.9157 - val_mean_squared_error: 9426.7181
+Epoch 158/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.6822 - mean_absolute_error: 28.6822 - mean_squared_error: 8313.3583Epoch 00157: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-157--28.69-30.40.h5
+3777/3777 [==============================] - 80s - loss: 28.6868 - mean_absolute_error: 28.6868 - mean_squared_error: 8317.2018 - val_loss: 30.4021 - val_mean_absolute_error: 30.4021 - val_mean_squared_error: 9242.6414
+Epoch 159/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.4077 - mean_absolute_error: 28.4077 - mean_squared_error: 8256.3054I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 45899956 get requests, put_count=45899865 evicted_count=54000 eviction_rate=0.00117647 and unsatisfied allocation rate=0.00118096
+Epoch 00158: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-158--28.41-30.29.h5
+3777/3777 [==============================] - 80s - loss: 28.4113 - mean_absolute_error: 28.4113 - mean_squared_error: 8257.9302 - val_loss: 30.2875 - val_mean_absolute_error: 30.2875 - val_mean_squared_error: 9256.4300
+Epoch 160/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.3452 - mean_absolute_error: 28.3452 - mean_squared_error: 8262.0082Epoch 00159: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-159--28.35-29.99.h5
+3777/3777 [==============================] - 80s - loss: 28.3549 - mean_absolute_error: 28.3549 - mean_squared_error: 8264.1052 - val_loss: 29.9858 - val_mean_absolute_error: 29.9858 - val_mean_squared_error: 9050.1736
+Epoch 161/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.2057 - mean_absolute_error: 28.2057 - mean_squared_error: 8188.0104Epoch 00160: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-160--28.21-29.72.h5
+3777/3777 [==============================] - 80s - loss: 28.2084 - mean_absolute_error: 28.2084 - mean_squared_error: 8188.5817 - val_loss: 29.7232 - val_mean_absolute_error: 29.7232 - val_mean_squared_error: 9018.1456
+Epoch 162/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.1753 - mean_absolute_error: 28.1753 - mean_squared_error: 8237.2751Epoch 00161: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-161--28.19-29.54.h5
+3777/3777 [==============================] - 80s - loss: 28.1921 - mean_absolute_error: 28.1921 - mean_squared_error: 8242.2362 - val_loss: 29.5437 - val_mean_absolute_error: 29.5437 - val_mean_squared_error: 8939.8598
+Epoch 163/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.1819 - mean_absolute_error: 28.1819 - mean_squared_error: 8207.2896Epoch 00162: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-162--28.18-30.09.h5
+3777/3777 [==============================] - 80s - loss: 28.1760 - mean_absolute_error: 28.1760 - mean_squared_error: 8205.1814 - val_loss: 30.0933 - val_mean_absolute_error: 30.0933 - val_mean_squared_error: 9224.8221
+Epoch 164/256
+3776/3777 [============================>.] - ETA: 0s - loss: 28.0273 - mean_absolute_error: 28.0273 - mean_squared_error: 8154.5013Epoch 00163: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-163--28.03-29.38.h5
+3777/3777 [==============================] - 80s - loss: 28.0349 - mean_absolute_error: 28.0349 - mean_squared_error: 8155.4085 - val_loss: 29.3811 - val_mean_absolute_error: 29.3811 - val_mean_squared_error: 8823.4655
+Epoch 165/256
+3776/3777 [============================>.] - ETA: 0s - loss: 27.6936 - mean_absolute_error: 27.6936 - mean_squared_error: 8054.0459Epoch 00164: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-164--27.70-29.21.h5
+3777/3777 [==============================] - 80s - loss: 27.7007 - mean_absolute_error: 27.7007 - mean_squared_error: 8061.7395 - val_loss: 29.2073 - val_mean_absolute_error: 29.2073 - val_mean_squared_error: 8752.6187
+Epoch 166/256
+3776/3777 [============================>.] - ETA: 0s - loss: 27.5602 - mean_absolute_error: 27.5602 - mean_squared_error: 8070.1597Epoch 00165: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-165--27.57-28.88.h5
+3777/3777 [==============================] - 80s - loss: 27.5719 - mean_absolute_error: 27.5719 - mean_squared_error: 8072.5281 - val_loss: 28.8761 - val_mean_absolute_error: 28.8761 - val_mean_squared_error: 8719.7564
+Epoch 167/256
+3776/3777 [============================>.] - ETA: 0s - loss: 27.4483 - mean_absolute_error: 27.4483 - mean_squared_error: 8020.1427Epoch 00166: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-166--27.47-28.64.h5
+3777/3777 [==============================] - 80s - loss: 27.4692 - mean_absolute_error: 27.4692 - mean_squared_error: 8029.0235 - val_loss: 28.6412 - val_mean_absolute_error: 28.6412 - val_mean_squared_error: 8549.3156
+Epoch 168/256
+3776/3777 [============================>.] - ETA: 0s - loss: 27.3296 - mean_absolute_error: 27.3296 - mean_squared_error: 7997.1115Epoch 00167: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-167--27.34-28.49.h5
+3777/3777 [==============================] - 80s - loss: 27.3403 - mean_absolute_error: 27.3403 - mean_squared_error: 8002.3618 - val_loss: 28.4915 - val_mean_absolute_error: 28.4915 - val_mean_squared_error: 8526.2999
+Epoch 169/256
+3776/3777 [============================>.] - ETA: 0s - loss: 27.4133 - mean_absolute_error: 27.4133 - mean_squared_error: 8076.3623Epoch 00168: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-168--27.42-28.41.h5
+3777/3777 [==============================] - 80s - loss: 27.4174 - mean_absolute_error: 27.4174 - mean_squared_error: 8077.5414 - val_loss: 28.4068 - val_mean_absolute_error: 28.4068 - val_mean_squared_error: 8627.9534
+Epoch 170/256
+3776/3777 [============================>.] - ETA: 0s - loss: 27.1252 - mean_absolute_error: 27.1252 - mean_squared_error: 8021.1075Epoch 00169: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-169--27.13-28.79.h5
+3777/3777 [==============================] - 80s - loss: 27.1255 - mean_absolute_error: 27.1255 - mean_squared_error: 8020.6038 - val_loss: 28.7935 - val_mean_absolute_error: 28.7935 - val_mean_squared_error: 8641.5541
+Epoch 171/256
+3776/3777 [============================>.] - ETA: 0s - loss: 26.8595 - mean_absolute_error: 26.8595 - mean_squared_error: 7944.6492Epoch 00170: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-170--26.87-28.10.h5
+3777/3777 [==============================] - 80s - loss: 26.8668 - mean_absolute_error: 26.8668 - mean_squared_error: 7948.9919 - val_loss: 28.1014 - val_mean_absolute_error: 28.1014 - val_mean_squared_error: 8464.0834
+Epoch 172/256
+3776/3777 [============================>.] - ETA: 0s - loss: 26.7330 - mean_absolute_error: 26.7330 - mean_squared_error: 7912.0731Epoch 00171: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-171--26.74-28.71.h5
+3777/3777 [==============================] - 80s - loss: 26.7375 - mean_absolute_error: 26.7375 - mean_squared_error: 7913.1151 - val_loss: 28.7117 - val_mean_absolute_error: 28.7117 - val_mean_squared_error: 8642.3131
+Epoch 173/256
+3776/3777 [============================>.] - ETA: 0s - loss: 26.3585 - mean_absolute_error: 26.3585 - mean_squared_error: 7792.4005Epoch 00172: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-172--26.37-28.89.h5
+3777/3777 [==============================] - 80s - loss: 26.3656 - mean_absolute_error: 26.3656 - mean_squared_error: 7796.9116 - val_loss: 28.8913 - val_mean_absolute_error: 28.8913 - val_mean_squared_error: 8789.7713
+Epoch 174/256
+3776/3777 [============================>.] - ETA: 0s - loss: 26.3272 - mean_absolute_error: 26.3272 - mean_squared_error: 7826.7455Epoch 00173: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-173--26.34-28.72.h5
+3777/3777 [==============================] - 80s - loss: 26.3387 - mean_absolute_error: 26.3387 - mean_squared_error: 7832.8993 - val_loss: 28.7237 - val_mean_absolute_error: 28.7237 - val_mean_squared_error: 8833.1912
+Epoch 175/256
+3776/3777 [============================>.] - ETA: 0s - loss: 26.2650 - mean_absolute_error: 26.2650 - mean_squared_error: 7837.1340Epoch 00174: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-174--26.27-33.95.h5
+3777/3777 [==============================] - 80s - loss: 26.2726 - mean_absolute_error: 26.2726 - mean_squared_error: 7841.3328 - val_loss: 33.9471 - val_mean_absolute_error: 33.9471 - val_mean_squared_error: 11998.9466
+Epoch 176/256
+3776/3777 [============================>.] - ETA: 0s - loss: 26.3285 - mean_absolute_error: 26.3285 - mean_squared_error: 7938.9135Epoch 00175: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-175--26.34-32.73.h5
+3777/3777 [==============================] - 80s - loss: 26.3360 - mean_absolute_error: 26.3360 - mean_squared_error: 7941.6975 - val_loss: 32.7319 - val_mean_absolute_error: 32.7319 - val_mean_squared_error: 11299.6386
+Epoch 177/256
+3776/3777 [============================>.] - ETA: 0s - loss: 26.2865 - mean_absolute_error: 26.2865 - mean_squared_error: 8015.5808Epoch 00176: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-176--26.29-28.11.h5
+3777/3777 [==============================] - 80s - loss: 26.2895 - mean_absolute_error: 26.2895 - mean_squared_error: 8015.5647 - val_loss: 28.1111 - val_mean_absolute_error: 28.1111 - val_mean_squared_error: 8772.7425
+Epoch 178/256
+3776/3777 [============================>.] - ETA: 0s - loss: 25.9696 - mean_absolute_error: 25.9696 - mean_squared_error: 7815.1421Epoch 00177: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-177--25.98-27.72.h5
+3777/3777 [==============================] - 80s - loss: 25.9804 - mean_absolute_error: 25.9804 - mean_squared_error: 7822.8557 - val_loss: 27.7181 - val_mean_absolute_error: 27.7181 - val_mean_squared_error: 8754.8317
+Epoch 179/256
+3776/3777 [============================>.] - ETA: 0s - loss: 25.7808 - mean_absolute_error: 25.7808 - mean_squared_error: 7758.3111Epoch 00178: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-178--25.78-27.43.h5
+3777/3777 [==============================] - 80s - loss: 25.7833 - mean_absolute_error: 25.7833 - mean_squared_error: 7758.9124 - val_loss: 27.4323 - val_mean_absolute_error: 27.4323 - val_mean_squared_error: 8646.7345
+Epoch 180/256
+3776/3777 [============================>.] - ETA: 0s - loss: 25.6015 - mean_absolute_error: 25.6015 - mean_squared_error: 7805.3709Epoch 00179: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-179--25.61-27.22.h5
+3777/3777 [==============================] - 81s - loss: 25.6085 - mean_absolute_error: 25.6085 - mean_squared_error: 7809.2216 - val_loss: 27.2246 - val_mean_absolute_error: 27.2246 - val_mean_squared_error: 8508.0612
+Epoch 181/256
+3776/3777 [============================>.] - ETA: 0s - loss: 25.3636 - mean_absolute_error: 25.3636 - mean_squared_error: 7666.1681Epoch 00180: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-180--25.37-26.85.h5
+3777/3777 [==============================] - 81s - loss: 25.3699 - mean_absolute_error: 25.3699 - mean_squared_error: 7669.6609 - val_loss: 26.8537 - val_mean_absolute_error: 26.8537 - val_mean_squared_error: 8429.7331
+Epoch 182/256
+3776/3777 [============================>.] - ETA: 0s - loss: 25.1925 - mean_absolute_error: 25.1925 - mean_squared_error: 7632.7301Epoch 00181: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-181--25.20-27.13.h5
+3777/3777 [==============================] - 80s - loss: 25.1989 - mean_absolute_error: 25.1989 - mean_squared_error: 7638.0137 - val_loss: 27.1323 - val_mean_absolute_error: 27.1323 - val_mean_squared_error: 8541.5598
+Epoch 183/256
+3776/3777 [============================>.] - ETA: 0s - loss: 24.9949 - mean_absolute_error: 24.9949 - mean_squared_error: 7529.0536Epoch 00182: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-182--25.00-26.62.h5
+3777/3777 [==============================] - 81s - loss: 25.0002 - mean_absolute_error: 25.0002 - mean_squared_error: 7533.5706 - val_loss: 26.6211 - val_mean_absolute_error: 26.6211 - val_mean_squared_error: 8366.4828
+Epoch 184/256
+3776/3777 [============================>.] - ETA: 0s - loss: 24.8074 - mean_absolute_error: 24.8074 - mean_squared_error: 7488.4891Epoch 00183: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-183--24.82-26.51.h5
+3777/3777 [==============================] - 81s - loss: 24.8150 - mean_absolute_error: 24.8150 - mean_squared_error: 7491.1014 - val_loss: 26.5143 - val_mean_absolute_error: 26.5143 - val_mean_squared_error: 8182.9105
+Epoch 185/256
+3776/3777 [============================>.] - ETA: 0s - loss: 24.5780 - mean_absolute_error: 24.5780 - mean_squared_error: 7382.6720Epoch 00184: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-184--24.59-25.90.h5
+3777/3777 [==============================] - 81s - loss: 24.5897 - mean_absolute_error: 24.5897 - mean_squared_error: 7386.0229 - val_loss: 25.9000 - val_mean_absolute_error: 25.9000 - val_mean_squared_error: 7967.8266
+Epoch 186/256
+3776/3777 [============================>.] - ETA: 0s - loss: 24.3990 - mean_absolute_error: 24.3990 - mean_squared_error: 7365.0969Epoch 00185: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-185--24.40-26.37.h5
+3777/3777 [==============================] - 81s - loss: 24.4016 - mean_absolute_error: 24.4016 - mean_squared_error: 7365.3791 - val_loss: 26.3699 - val_mean_absolute_error: 26.3699 - val_mean_squared_error: 8233.4156
+Epoch 187/256
+3776/3777 [============================>.] - ETA: 0s - loss: 24.2395 - mean_absolute_error: 24.2395 - mean_squared_error: 7318.2295Epoch 00186: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-186--24.24-26.66.h5
+3777/3777 [==============================] - 81s - loss: 24.2415 - mean_absolute_error: 24.2415 - mean_squared_error: 7317.7322 - val_loss: 26.6603 - val_mean_absolute_error: 26.6603 - val_mean_squared_error: 8471.6244
+Epoch 188/256
+3776/3777 [============================>.] - ETA: 0s - loss: 24.0838 - mean_absolute_error: 24.0838 - mean_squared_error: 7247.2857I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 54327505 get requests, put_count=54327463 evicted_count=64000 eviction_rate=0.00117804 and unsatisfied allocation rate=0.00118093
+Epoch 00187: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-187--24.09-26.07.h5
+3777/3777 [==============================] - 80s - loss: 24.0883 - mean_absolute_error: 24.0883 - mean_squared_error: 7248.7732 - val_loss: 26.0663 - val_mean_absolute_error: 26.0663 - val_mean_squared_error: 8137.0269
+Epoch 189/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.9120 - mean_absolute_error: 23.9120 - mean_squared_error: 7234.1509Epoch 00188: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-188--23.91-26.05.h5
+3777/3777 [==============================] - 80s - loss: 23.9077 - mean_absolute_error: 23.9077 - mean_squared_error: 7232.3369 - val_loss: 26.0530 - val_mean_absolute_error: 26.0530 - val_mean_squared_error: 8127.0700
+Epoch 190/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.8764 - mean_absolute_error: 23.8764 - mean_squared_error: 7222.6264Epoch 00189: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-189--23.88-25.70.h5
+3777/3777 [==============================] - 81s - loss: 23.8806 - mean_absolute_error: 23.8805 - mean_squared_error: 7224.4430 - val_loss: 25.6974 - val_mean_absolute_error: 25.6974 - val_mean_squared_error: 8068.7405
+Epoch 191/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.6503 - mean_absolute_error: 23.6503 - mean_squared_error: 7188.9682Epoch 00190: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-190--23.65-25.96.h5
+3777/3777 [==============================] - 81s - loss: 23.6548 - mean_absolute_error: 23.6548 - mean_squared_error: 7190.2263 - val_loss: 25.9591 - val_mean_absolute_error: 25.9591 - val_mean_squared_error: 8133.3198
+Epoch 192/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.4220 - mean_absolute_error: 23.4220 - mean_squared_error: 7142.9342Epoch 00191: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-191--23.43-25.63.h5
+3777/3777 [==============================] - 81s - loss: 23.4258 - mean_absolute_error: 23.4258 - mean_squared_error: 7143.9493 - val_loss: 25.6280 - val_mean_absolute_error: 25.6280 - val_mean_squared_error: 8077.6602
+Epoch 193/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.4635 - mean_absolute_error: 23.4635 - mean_squared_error: 7196.1398Epoch 00192: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-192--23.48-25.07.h5
+3777/3777 [==============================] - 81s - loss: 23.4773 - mean_absolute_error: 23.4773 - mean_squared_error: 7199.8536 - val_loss: 25.0684 - val_mean_absolute_error: 25.0684 - val_mean_squared_error: 7944.9250
+Epoch 194/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.1916 - mean_absolute_error: 23.1916 - mean_squared_error: 7154.2979Epoch 00193: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-193--23.20-25.31.h5
+3777/3777 [==============================] - 80s - loss: 23.1966 - mean_absolute_error: 23.1966 - mean_squared_error: 7155.6419 - val_loss: 25.3086 - val_mean_absolute_error: 25.3086 - val_mean_squared_error: 8089.5062
+Epoch 195/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.1593 - mean_absolute_error: 23.1593 - mean_squared_error: 7209.6020Epoch 00194: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-194--23.16-25.27.h5
+3777/3777 [==============================] - 80s - loss: 23.1582 - mean_absolute_error: 23.1582 - mean_squared_error: 7208.3136 - val_loss: 25.2725 - val_mean_absolute_error: 25.2725 - val_mean_squared_error: 7968.5346
+Epoch 196/256
+3776/3777 [============================>.] - ETA: 0s - loss: 23.4028 - mean_absolute_error: 23.4028 - mean_squared_error: 7114.9911Epoch 00195: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-195--23.41-24.71.h5
+3777/3777 [==============================] - 80s - loss: 23.4088 - mean_absolute_error: 23.4088 - mean_squared_error: 7119.8795 - val_loss: 24.7125 - val_mean_absolute_error: 24.7125 - val_mean_squared_error: 7754.4244
+Epoch 197/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.8642 - mean_absolute_error: 22.8642 - mean_squared_error: 6968.7352Epoch 00196: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-196--22.87-25.16.h5
+3777/3777 [==============================] - 80s - loss: 22.8662 - mean_absolute_error: 22.8662 - mean_squared_error: 6968.5067 - val_loss: 25.1643 - val_mean_absolute_error: 25.1643 - val_mean_squared_error: 7942.5715
+Epoch 198/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.7716 - mean_absolute_error: 22.7716 - mean_squared_error: 6931.7917Epoch 00197: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-197--22.78-24.58.h5
+3777/3777 [==============================] - 80s - loss: 22.7764 - mean_absolute_error: 22.7764 - mean_squared_error: 6932.6571 - val_loss: 24.5752 - val_mean_absolute_error: 24.5752 - val_mean_squared_error: 7700.8012
+Epoch 199/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.2788 - mean_absolute_error: 22.2788 - mean_squared_error: 6916.5888Epoch 00198: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-198--22.28-25.19.h5
+3777/3777 [==============================] - 80s - loss: 22.2833 - mean_absolute_error: 22.2833 - mean_squared_error: 6917.3353 - val_loss: 25.1905 - val_mean_absolute_error: 25.1905 - val_mean_squared_error: 8196.3720
+Epoch 200/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.2518 - mean_absolute_error: 22.2518 - mean_squared_error: 6877.5553Epoch 00199: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-199--22.26-24.19.h5
+3777/3777 [==============================] - 80s - loss: 22.2555 - mean_absolute_error: 22.2555 - mean_squared_error: 6878.1999 - val_loss: 24.1948 - val_mean_absolute_error: 24.1948 - val_mean_squared_error: 7523.2901
+Epoch 201/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.4114 - mean_absolute_error: 22.4114 - mean_squared_error: 6928.3518Epoch 00200: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-200--22.42-24.96.h5
+3777/3777 [==============================] - 81s - loss: 22.4199 - mean_absolute_error: 22.4199 - mean_squared_error: 6931.3554 - val_loss: 24.9642 - val_mean_absolute_error: 24.9642 - val_mean_squared_error: 8054.1123
+Epoch 202/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.3332 - mean_absolute_error: 22.3332 - mean_squared_error: 7023.4507Epoch 00201: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-201--22.35-25.19.h5
+3777/3777 [==============================] - 81s - loss: 22.3452 - mean_absolute_error: 22.3452 - mean_squared_error: 7029.8027 - val_loss: 25.1944 - val_mean_absolute_error: 25.1944 - val_mean_squared_error: 8180.7819
+Epoch 203/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.2646 - mean_absolute_error: 22.2646 - mean_squared_error: 6960.9205Epoch 00202: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-202--22.27-25.49.h5
+3777/3777 [==============================] - 81s - loss: 22.2706 - mean_absolute_error: 22.2706 - mean_squared_error: 6965.5241 - val_loss: 25.4936 - val_mean_absolute_error: 25.4936 - val_mean_squared_error: 8246.2884
+Epoch 204/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.2250 - mean_absolute_error: 22.2250 - mean_squared_error: 6979.0627Epoch 00203: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-203--22.23-24.61.h5
+3777/3777 [==============================] - 80s - loss: 22.2285 - mean_absolute_error: 22.2285 - mean_squared_error: 6979.4851 - val_loss: 24.6078 - val_mean_absolute_error: 24.6078 - val_mean_squared_error: 7971.9819
+Epoch 205/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.0339 - mean_absolute_error: 22.0339 - mean_squared_error: 7024.2110Epoch 00204: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-204--22.05-24.83.h5
+3777/3777 [==============================] - 80s - loss: 22.0481 - mean_absolute_error: 22.0481 - mean_squared_error: 7027.9447 - val_loss: 24.8301 - val_mean_absolute_error: 24.8301 - val_mean_squared_error: 7921.3384
+Epoch 206/256
+3776/3777 [============================>.] - ETA: 0s - loss: 22.0365 - mean_absolute_error: 22.0365 - mean_squared_error: 6965.1288Epoch 00205: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-205--22.03-24.92.h5
+3777/3777 [==============================] - 80s - loss: 22.0330 - mean_absolute_error: 22.0330 - mean_squared_error: 6963.4191 - val_loss: 24.9225 - val_mean_absolute_error: 24.9225 - val_mean_squared_error: 7925.3476
+Epoch 207/256
+3776/3777 [============================>.] - ETA: 0s - loss: 21.7630 - mean_absolute_error: 21.7630 - mean_squared_error: 6900.4056Epoch 00206: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-206--21.77-24.42.h5
+3777/3777 [==============================] - 82s - loss: 21.7659 - mean_absolute_error: 21.7659 - mean_squared_error: 6900.6578 - val_loss: 24.4216 - val_mean_absolute_error: 24.4216 - val_mean_squared_error: 7694.5246
+Epoch 208/256
+3776/3777 [============================>.] - ETA: 0s - loss: 21.3744 - mean_absolute_error: 21.3744 - mean_squared_error: 6712.6830Epoch 00207: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-207--21.38-24.05.h5
+3777/3777 [==============================] - 82s - loss: 21.3819 - mean_absolute_error: 21.3819 - mean_squared_error: 6714.9797 - val_loss: 24.0476 - val_mean_absolute_error: 24.0476 - val_mean_squared_error: 7614.4378
+Epoch 209/256
+3776/3777 [============================>.] - ETA: 0s - loss: 21.4950 - mean_absolute_error: 21.4950 - mean_squared_error: 6745.8749Epoch 00208: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-208--21.49-23.67.h5
+3777/3777 [==============================] - 81s - loss: 21.4917 - mean_absolute_error: 21.4917 - mean_squared_error: 6744.2288 - val_loss: 23.6750 - val_mean_absolute_error: 23.6750 - val_mean_squared_error: 7551.1644
+Epoch 210/256
+3776/3777 [============================>.] - ETA: 0s - loss: 21.5140 - mean_absolute_error: 21.5140 - mean_squared_error: 6675.7682Epoch 00209: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-209--21.52-23.59.h5
+3777/3777 [==============================] - 83s - loss: 21.5220 - mean_absolute_error: 21.5220 - mean_squared_error: 6683.3755 - val_loss: 23.5932 - val_mean_absolute_error: 23.5932 - val_mean_squared_error: 7443.7545
+Epoch 211/256
+3776/3777 [============================>.] - ETA: 0s - loss: 21.0888 - mean_absolute_error: 21.0888 - mean_squared_error: 6655.6463Epoch 00210: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-210--21.09-23.74.h5
+3777/3777 [==============================] - 80s - loss: 21.0914 - mean_absolute_error: 21.0914 - mean_squared_error: 6655.7441 - val_loss: 23.7420 - val_mean_absolute_error: 23.7420 - val_mean_squared_error: 7720.4994
+Epoch 212/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.9742 - mean_absolute_error: 20.9742 - mean_squared_error: 6589.5324Epoch 00211: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-211--20.99-23.80.h5
+3777/3777 [==============================] - 80s - loss: 20.9911 - mean_absolute_error: 20.9911 - mean_squared_error: 6596.3222 - val_loss: 23.7953 - val_mean_absolute_error: 23.7953 - val_mean_squared_error: 7578.8609
+Epoch 213/256
+3776/3777 [============================>.] - ETA: 0s - loss: 21.1218 - mean_absolute_error: 21.1218 - mean_squared_error: 6657.3649Epoch 00212: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-212--21.12-24.41.h5
+3777/3777 [==============================] - 80s - loss: 21.1187 - mean_absolute_error: 21.1187 - mean_squared_error: 6655.7513 - val_loss: 24.4062 - val_mean_absolute_error: 24.4062 - val_mean_squared_error: 7853.3375
+Epoch 214/256
+3776/3777 [============================>.] - ETA: 0s - loss: 21.0198 - mean_absolute_error: 21.0198 - mean_squared_error: 6589.5067Epoch 00213: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-213--21.03-23.94.h5
+3777/3777 [==============================] - 80s - loss: 21.0271 - mean_absolute_error: 21.0271 - mean_squared_error: 6592.3334 - val_loss: 23.9406 - val_mean_absolute_error: 23.9406 - val_mean_squared_error: 7666.9206
+Epoch 215/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.7983 - mean_absolute_error: 20.7983 - mean_squared_error: 6489.6056Epoch 00214: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-214--20.80-23.21.h5
+3777/3777 [==============================] - 80s - loss: 20.8048 - mean_absolute_error: 20.8048 - mean_squared_error: 6494.1802 - val_loss: 23.2089 - val_mean_absolute_error: 23.2089 - val_mean_squared_error: 7290.0961
+Epoch 216/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.9227 - mean_absolute_error: 20.9227 - mean_squared_error: 6600.1082Epoch 00215: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-215--20.94-23.58.h5
+3777/3777 [==============================] - 80s - loss: 20.9381 - mean_absolute_error: 20.9381 - mean_squared_error: 6604.6203 - val_loss: 23.5792 - val_mean_absolute_error: 23.5792 - val_mean_squared_error: 7574.1072
+Epoch 217/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.7093 - mean_absolute_error: 20.7093 - mean_squared_error: 6525.4058I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 62755053 get requests, put_count=62755059 evicted_count=74000 eviction_rate=0.00117919 and unsatisfied allocation rate=0.00118092
+Epoch 00216: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-216--20.71-23.58.h5
+3777/3777 [==============================] - 80s - loss: 20.7127 - mean_absolute_error: 20.7127 - mean_squared_error: 6525.9142 - val_loss: 23.5817 - val_mean_absolute_error: 23.5817 - val_mean_squared_error: 7253.9701
+Epoch 218/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.7327 - mean_absolute_error: 20.7327 - mean_squared_error: 6514.1514Epoch 00217: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-217--20.74-23.19.h5
+3777/3777 [==============================] - 80s - loss: 20.7390 - mean_absolute_error: 20.7390 - mean_squared_error: 6516.3378 - val_loss: 23.1887 - val_mean_absolute_error: 23.1887 - val_mean_squared_error: 7464.5941
+Epoch 219/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.3356 - mean_absolute_error: 20.3356 - mean_squared_error: 6428.4819Epoch 00218: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-218--20.34-22.97.h5
+3777/3777 [==============================] - 80s - loss: 20.3412 - mean_absolute_error: 20.3412 - mean_squared_error: 6430.6979 - val_loss: 22.9725 - val_mean_absolute_error: 22.9725 - val_mean_squared_error: 7328.0101
+Epoch 220/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.4391 - mean_absolute_error: 20.4391 - mean_squared_error: 6347.8737Epoch 00219: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-219--20.44-23.06.h5
+3777/3777 [==============================] - 80s - loss: 20.4421 - mean_absolute_error: 20.4421 - mean_squared_error: 6347.9928 - val_loss: 23.0558 - val_mean_absolute_error: 23.0558 - val_mean_squared_error: 7289.8158
+Epoch 221/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.2783 - mean_absolute_error: 20.2783 - mean_squared_error: 6327.8273Epoch 00220: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-220--20.29-23.59.h5
+3777/3777 [==============================] - 80s - loss: 20.2887 - mean_absolute_error: 20.2887 - mean_squared_error: 6331.6948 - val_loss: 23.5909 - val_mean_absolute_error: 23.5909 - val_mean_squared_error: 7565.2567
+Epoch 222/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.1848 - mean_absolute_error: 20.1848 - mean_squared_error: 6312.9083Epoch 00221: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-221--20.21-23.47.h5
+3777/3777 [==============================] - 80s - loss: 20.2061 - mean_absolute_error: 20.2061 - mean_squared_error: 6322.8009 - val_loss: 23.4704 - val_mean_absolute_error: 23.4704 - val_mean_squared_error: 7491.7424
+Epoch 223/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.9473 - mean_absolute_error: 19.9473 - mean_squared_error: 6279.2805Epoch 00222: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-222--19.95-23.32.h5
+3777/3777 [==============================] - 80s - loss: 19.9544 - mean_absolute_error: 19.9544 - mean_squared_error: 6283.9443 - val_loss: 23.3157 - val_mean_absolute_error: 23.3157 - val_mean_squared_error: 7480.6543
+Epoch 224/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.1323 - mean_absolute_error: 20.1323 - mean_squared_error: 6309.9203Epoch 00223: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-223--20.15-23.28.h5
+3777/3777 [==============================] - 80s - loss: 20.1547 - mean_absolute_error: 20.1547 - mean_squared_error: 6319.0691 - val_loss: 23.2832 - val_mean_absolute_error: 23.2832 - val_mean_squared_error: 7360.2181
+Epoch 225/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.0297 - mean_absolute_error: 20.0297 - mean_squared_error: 6274.5802Epoch 00224: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-224--20.04-23.46.h5
+3777/3777 [==============================] - 81s - loss: 20.0377 - mean_absolute_error: 20.0377 - mean_squared_error: 6278.5063 - val_loss: 23.4607 - val_mean_absolute_error: 23.4607 - val_mean_squared_error: 7545.7300
+Epoch 226/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.0212 - mean_absolute_error: 20.0212 - mean_squared_error: 6267.8665Epoch 00225: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-225--20.02-23.07.h5
+3777/3777 [==============================] - 80s - loss: 20.0204 - mean_absolute_error: 20.0204 - mean_squared_error: 6266.7601 - val_loss: 23.0670 - val_mean_absolute_error: 23.0670 - val_mean_squared_error: 7436.3480
+Epoch 227/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.0619 - mean_absolute_error: 20.0619 - mean_squared_error: 6313.7734Epoch 00226: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-226--20.07-24.02.h5
+3777/3777 [==============================] - 80s - loss: 20.0670 - mean_absolute_error: 20.0670 - mean_squared_error: 6317.9855 - val_loss: 24.0207 - val_mean_absolute_error: 24.0207 - val_mean_squared_error: 7822.4052
+Epoch 228/256
+3776/3777 [============================>.] - ETA: 0s - loss: 20.1917 - mean_absolute_error: 20.1917 - mean_squared_error: 6350.8590Epoch 00227: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-227--20.20-24.20.h5
+3777/3777 [==============================] - 80s - loss: 20.2037 - mean_absolute_error: 20.2037 - mean_squared_error: 6356.9629 - val_loss: 24.2004 - val_mean_absolute_error: 24.2004 - val_mean_squared_error: 7926.3245
+Epoch 229/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.9650 - mean_absolute_error: 19.9650 - mean_squared_error: 6298.4526Epoch 00228: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-228--19.97-23.51.h5
+3777/3777 [==============================] - 80s - loss: 19.9697 - mean_absolute_error: 19.9697 - mean_squared_error: 6299.9017 - val_loss: 23.5073 - val_mean_absolute_error: 23.5073 - val_mean_squared_error: 7543.1585
+Epoch 230/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.9771 - mean_absolute_error: 19.9771 - mean_squared_error: 6237.8177Epoch 00229: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-229--19.98-24.14.h5
+3777/3777 [==============================] - 80s - loss: 19.9815 - mean_absolute_error: 19.9815 - mean_squared_error: 6238.5403 - val_loss: 24.1371 - val_mean_absolute_error: 24.1371 - val_mean_squared_error: 7573.9975
+Epoch 231/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.7118 - mean_absolute_error: 19.7118 - mean_squared_error: 6143.6114Epoch 00230: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-230--19.72-23.56.h5
+3777/3777 [==============================] - 80s - loss: 19.7209 - mean_absolute_error: 19.7209 - mean_squared_error: 6147.1503 - val_loss: 23.5562 - val_mean_absolute_error: 23.5562 - val_mean_squared_error: 7534.0876
+Epoch 232/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.7334 - mean_absolute_error: 19.7334 - mean_squared_error: 6206.4023Epoch 00231: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-231--19.74-23.35.h5
+3777/3777 [==============================] - 80s - loss: 19.7374 - mean_absolute_error: 19.7374 - mean_squared_error: 6207.2966 - val_loss: 23.3510 - val_mean_absolute_error: 23.3510 - val_mean_squared_error: 7370.1504
+Epoch 233/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.6693 - mean_absolute_error: 19.6692 - mean_squared_error: 6181.6799Epoch 00232: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-232--19.68-22.79.h5
+3777/3777 [==============================] - 80s - loss: 19.6757 - mean_absolute_error: 19.6757 - mean_squared_error: 6185.3895 - val_loss: 22.7854 - val_mean_absolute_error: 22.7854 - val_mean_squared_error: 7314.1307
+Epoch 234/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.6171 - mean_absolute_error: 19.6171 - mean_squared_error: 6191.2710Epoch 00233: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-233--19.63-22.75.h5
+3777/3777 [==============================] - 80s - loss: 19.6279 - mean_absolute_error: 19.6279 - mean_squared_error: 6199.3345 - val_loss: 22.7535 - val_mean_absolute_error: 22.7535 - val_mean_squared_error: 7127.4382
+Epoch 235/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.5620 - mean_absolute_error: 19.5620 - mean_squared_error: 6165.3708Epoch 00234: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-234--19.56-23.51.h5
+3777/3777 [==============================] - 80s - loss: 19.5597 - mean_absolute_error: 19.5597 - mean_squared_error: 6163.9406 - val_loss: 23.5052 - val_mean_absolute_error: 23.5052 - val_mean_squared_error: 7452.8598
+Epoch 236/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.3878 - mean_absolute_error: 19.3878 - mean_squared_error: 6187.6810Epoch 00235: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-235--19.41-23.31.h5
+3777/3777 [==============================] - 80s - loss: 19.4089 - mean_absolute_error: 19.4089 - mean_squared_error: 6197.3526 - val_loss: 23.3105 - val_mean_absolute_error: 23.3105 - val_mean_squared_error: 7414.1955
+Epoch 237/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.4365 - mean_absolute_error: 19.4365 - mean_squared_error: 6141.9416Epoch 00236: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-236--19.43-22.86.h5
+3777/3777 [==============================] - 80s - loss: 19.4342 - mean_absolute_error: 19.4342 - mean_squared_error: 6140.5217 - val_loss: 22.8568 - val_mean_absolute_error: 22.8568 - val_mean_squared_error: 7269.6639
+Epoch 238/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.2789 - mean_absolute_error: 19.2789 - mean_squared_error: 6056.4595Epoch 00237: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-237--19.28-22.89.h5
+3777/3777 [==============================] - 80s - loss: 19.2815 - mean_absolute_error: 19.2815 - mean_squared_error: 6056.5869 - val_loss: 22.8870 - val_mean_absolute_error: 22.8870 - val_mean_squared_error: 7182.4268
+Epoch 239/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.2317 - mean_absolute_error: 19.2317 - mean_squared_error: 6038.3231Epoch 00238: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-238--19.23-23.04.h5
+3777/3777 [==============================] - 80s - loss: 19.2295 - mean_absolute_error: 19.2295 - mean_squared_error: 6036.9349 - val_loss: 23.0391 - val_mean_absolute_error: 23.0391 - val_mean_squared_error: 7350.1850
+Epoch 240/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.0958 - mean_absolute_error: 19.0957 - mean_squared_error: 6113.6561Epoch 00239: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-239--19.10-23.01.h5
+3777/3777 [==============================] - 80s - loss: 19.1004 - mean_absolute_error: 19.1004 - mean_squared_error: 6114.8319 - val_loss: 23.0107 - val_mean_absolute_error: 23.0107 - val_mean_squared_error: 7456.2252
+Epoch 241/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.2041 - mean_absolute_error: 19.2041 - mean_squared_error: 6111.0531Epoch 00240: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-240--19.21-22.46.h5
+3777/3777 [==============================] - 80s - loss: 19.2121 - mean_absolute_error: 19.2121 - mean_squared_error: 6114.0809 - val_loss: 22.4625 - val_mean_absolute_error: 22.4625 - val_mean_squared_error: 7168.2184
+Epoch 242/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.9031 - mean_absolute_error: 18.9031 - mean_squared_error: 5965.0751Epoch 00241: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-241--18.91-22.74.h5
+3777/3777 [==============================] - 80s - loss: 18.9077 - mean_absolute_error: 18.9077 - mean_squared_error: 5967.2201 - val_loss: 22.7429 - val_mean_absolute_error: 22.7429 - val_mean_squared_error: 7361.7354
+Epoch 243/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.9887 - mean_absolute_error: 18.9887 - mean_squared_error: 6026.1692Epoch 00242: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-242--18.99-22.19.h5
+3777/3777 [==============================] - 80s - loss: 18.9867 - mean_absolute_error: 18.9867 - mean_squared_error: 6024.7938 - val_loss: 22.1873 - val_mean_absolute_error: 22.1873 - val_mean_squared_error: 6989.3314
+Epoch 244/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.9602 - mean_absolute_error: 18.9602 - mean_squared_error: 6028.0559Epoch 00243: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-243--18.97-22.24.h5
+3777/3777 [==============================] - 80s - loss: 18.9710 - mean_absolute_error: 18.9710 - mean_squared_error: 6030.9049 - val_loss: 22.2443 - val_mean_absolute_error: 22.2443 - val_mean_squared_error: 7118.1780
+Epoch 245/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.8067 - mean_absolute_error: 18.8067 - mean_squared_error: 5995.3600Epoch 00244: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-244--18.81-22.30.h5
+3777/3777 [==============================] - 80s - loss: 18.8135 - mean_absolute_error: 18.8135 - mean_squared_error: 5997.1938 - val_loss: 22.2982 - val_mean_absolute_error: 22.2982 - val_mean_squared_error: 6846.9321
+Epoch 246/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.9853 - mean_absolute_error: 18.9853 - mean_squared_error: 5959.1210Epoch 00245: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-245--18.99-22.17.h5
+3777/3777 [==============================] - 80s - loss: 18.9922 - mean_absolute_error: 18.9922 - mean_squared_error: 5962.5281 - val_loss: 22.1684 - val_mean_absolute_error: 22.1684 - val_mean_squared_error: 6834.4565
+Epoch 247/256
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 71191054 get requests, put_count=71190935 evicted_count=84000 eviction_rate=0.00117993 and unsatisfied allocation rate=0.00118321
+3776/3777 [============================>.] - ETA: 0s - loss: 18.7561 - mean_absolute_error: 18.7560 - mean_squared_error: 5940.4126Epoch 00246: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-246--18.77-22.27.h5
+3777/3777 [==============================] - 80s - loss: 18.7683 - mean_absolute_error: 18.7683 - mean_squared_error: 5946.2997 - val_loss: 22.2719 - val_mean_absolute_error: 22.2719 - val_mean_squared_error: 6943.2708
+Epoch 248/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.8584 - mean_absolute_error: 18.8584 - mean_squared_error: 5985.3864Epoch 00247: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-247--18.86-22.34.h5
+3777/3777 [==============================] - 80s - loss: 18.8565 - mean_absolute_error: 18.8565 - mean_squared_error: 5984.0335 - val_loss: 22.3417 - val_mean_absolute_error: 22.3417 - val_mean_squared_error: 7198.2115
+Epoch 249/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.9590 - mean_absolute_error: 18.9590 - mean_squared_error: 5982.9961Epoch 00248: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-248--18.96-22.30.h5
+3777/3777 [==============================] - 80s - loss: 18.9570 - mean_absolute_error: 18.9570 - mean_squared_error: 5981.6461 - val_loss: 22.3042 - val_mean_absolute_error: 22.3042 - val_mean_squared_error: 7039.6444
+Epoch 250/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.8884 - mean_absolute_error: 18.8884 - mean_squared_error: 5962.6665Epoch 00249: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-249--18.89-22.70.h5
+3777/3777 [==============================] - 81s - loss: 18.8932 - mean_absolute_error: 18.8932 - mean_squared_error: 5964.2367 - val_loss: 22.6992 - val_mean_absolute_error: 22.6992 - val_mean_squared_error: 7038.4759
+Epoch 251/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.7719 - mean_absolute_error: 18.7719 - mean_squared_error: 5902.0698Epoch 00250: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-250--18.77-23.30.h5
+3777/3777 [==============================] - 80s - loss: 18.7743 - mean_absolute_error: 18.7743 - mean_squared_error: 5901.6042 - val_loss: 23.3005 - val_mean_absolute_error: 23.3005 - val_mean_squared_error: 7409.0814
+Epoch 252/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.8142 - mean_absolute_error: 18.8142 - mean_squared_error: 5971.4555Epoch 00251: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-251--18.85-22.51.h5
+3777/3777 [==============================] - 80s - loss: 18.8483 - mean_absolute_error: 18.8483 - mean_squared_error: 5983.6878 - val_loss: 22.5136 - val_mean_absolute_error: 22.5136 - val_mean_squared_error: 7194.1522
+Epoch 253/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.9334 - mean_absolute_error: 18.9334 - mean_squared_error: 6009.8807Epoch 00252: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-252--18.93-22.25.h5
+3777/3777 [==============================] - 80s - loss: 18.9328 - mean_absolute_error: 18.9328 - mean_squared_error: 6008.7214 - val_loss: 22.2482 - val_mean_absolute_error: 22.2482 - val_mean_squared_error: 6843.4468
+Epoch 254/256
+3776/3777 [============================>.] - ETA: 0s - loss: 19.0054 - mean_absolute_error: 19.0054 - mean_squared_error: 6026.5318Epoch 00253: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-253--19.01-22.38.h5
+3777/3777 [==============================] - 80s - loss: 19.0133 - mean_absolute_error: 19.0133 - mean_squared_error: 6029.7946 - val_loss: 22.3837 - val_mean_absolute_error: 22.3837 - val_mean_squared_error: 7156.5054
+Epoch 255/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.6264 - mean_absolute_error: 18.6264 - mean_squared_error: 5944.4048Epoch 00254: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-254--18.63-22.00.h5
+3777/3777 [==============================] - 80s - loss: 18.6261 - mean_absolute_error: 18.6261 - mean_squared_error: 5943.3048 - val_loss: 21.9999 - val_mean_absolute_error: 21.9999 - val_mean_squared_error: 6872.5182
+Epoch 256/256
+3776/3777 [============================>.] - ETA: 0s - loss: 18.7574 - mean_absolute_error: 18.7573 - mean_squared_error: 5942.6537Epoch 00255: saving model to /home/liuweijie/workspace/NFCM_Classification/region_detect/ipv3_bbox_regressor_weights/ipv3_bbox_regressor_nb_5-255--18.76-22.52.h5
+3777/3777 [==============================] - 80s - loss: 18.7612 - mean_absolute_error: 18.7612 - mean_squared_error: 5943.0935 - val_loss: 22.5227 - val_mean_absolute_error: 22.5227 - val_mean_squared_error: 7146.6860

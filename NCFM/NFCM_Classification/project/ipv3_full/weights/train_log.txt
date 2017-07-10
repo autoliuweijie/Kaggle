@@ -1,0 +1,603 @@
+Start Training.
+    Training with validation
+Epoch 1/64
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2393 get requests, put_count=2325 evicted_count=1000 eviction_rate=0.430108 and unsatisfied allocation rate=0.48809
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 100 to 110
+ 352/3019 [==>...........................] - ETA: 298s - loss: 6.1193 - acc: 0.0881I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2409 get requests, put_count=2520 evicted_count=1000 eviction_rate=0.396825 and unsatisfied allocation rate=0.37858
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 256 to 281
+ 800/3019 [======>.......................] - ETA: 172s - loss: 5.5643 - acc: 0.1212I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 4799 get requests, put_count=4832 evicted_count=1000 eviction_rate=0.206954 and unsatisfied allocation rate=0.213795
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 655 to 720
+3008/3019 [============================>.] - ETA: 0s - loss: 5.0356 - acc: 0.1695Epoch 00000: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-00--2.21--0.17.h5
+3019/3019 [==============================] - 219s - loss: 5.0304 - acc: 0.1696 - val_loss: 2.2076 - val_acc: 0.1675
+Epoch 2/64
+3008/3019 [============================>.] - ETA: 0s - loss: 3.8410 - acc: 0.2623Epoch 00001: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-01--1.85--0.31.h5
+3019/3019 [==============================] - 169s - loss: 3.8436 - acc: 0.2617 - val_loss: 1.8463 - val_acc: 0.3061
+Epoch 3/64
+3008/3019 [============================>.] - ETA: 0s - loss: 3.0858 - acc: 0.3574Epoch 00002: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-02--1.62--0.41.h5
+3019/3019 [==============================] - 167s - loss: 3.0843 - acc: 0.3574 - val_loss: 1.6171 - val_acc: 0.4077
+Epoch 4/64
+3008/3019 [============================>.] - ETA: 0s - loss: 2.5710 - acc: 0.4312Epoch 00003: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-03--1.49--0.46.h5
+3019/3019 [==============================] - 168s - loss: 2.5798 - acc: 0.4309 - val_loss: 1.4945 - val_acc: 0.4617
+Epoch 5/64
+3008/3019 [============================>.] - ETA: 0s - loss: 2.2223 - acc: 0.4987Epoch 00004: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-04--1.31--0.55.h5
+3019/3019 [==============================] - 167s - loss: 2.2248 - acc: 0.4992 - val_loss: 1.3123 - val_acc: 0.5488
+Epoch 6/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.8920 - acc: 0.5645Epoch 00005: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-05--1.25--0.57.h5
+3019/3019 [==============================] - 167s - loss: 1.8916 - acc: 0.5638 - val_loss: 1.2491 - val_acc: 0.5686
+Epoch 7/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.6601 - acc: 0.6280Epoch 00006: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-06--1.13--0.64.h5
+3019/3019 [==============================] - 168s - loss: 1.6598 - acc: 0.6270 - val_loss: 1.1274 - val_acc: 0.6359
+Epoch 8/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.3904 - acc: 0.6848Epoch 00007: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-07--0.93--0.70.h5
+3019/3019 [==============================] - 168s - loss: 1.3923 - acc: 0.6837 - val_loss: 0.9255 - val_acc: 0.6953
+Epoch 9/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.3089 - acc: 0.7011Epoch 00008: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-08--0.89--0.71.h5
+3019/3019 [==============================] - 168s - loss: 1.3087 - acc: 0.7012 - val_loss: 0.8870 - val_acc: 0.7071
+Epoch 10/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.2825 - acc: 0.7088Epoch 00009: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-09--0.94--0.70.h5
+3019/3019 [==============================] - 168s - loss: 1.2846 - acc: 0.7079 - val_loss: 0.9389 - val_acc: 0.7018
+Epoch 11/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.1152 - acc: 0.7490Epoch 00010: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-10--0.83--0.74.h5
+3019/3019 [==============================] - 168s - loss: 1.1159 - acc: 0.7489 - val_loss: 0.8311 - val_acc: 0.7414
+Epoch 12/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.9558 - acc: 0.7869Epoch 00011: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-11--0.75--0.76.h5
+3019/3019 [==============================] - 168s - loss: 0.9546 - acc: 0.7873 - val_loss: 0.7542 - val_acc: 0.7586
+Epoch 13/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.8560 - acc: 0.8032Epoch 00012: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-12--0.66--0.79.h5
+3019/3019 [==============================] - 168s - loss: 0.8593 - acc: 0.8029 - val_loss: 0.6629 - val_acc: 0.7929
+Epoch 14/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.7914 - acc: 0.8145Epoch 00013: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-13--0.67--0.79.h5
+3019/3019 [==============================] - 167s - loss: 0.7903 - acc: 0.8152 - val_loss: 0.6687 - val_acc: 0.7863
+Epoch 15/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.7047 - acc: 0.8404Epoch 00014: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-14--0.65--0.79.h5
+3019/3019 [==============================] - 168s - loss: 0.7033 - acc: 0.8410 - val_loss: 0.6468 - val_acc: 0.7916
+Epoch 16/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.6127 - acc: 0.8524Epoch 00015: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-15--0.60--0.81.h5
+3019/3019 [==============================] - 168s - loss: 0.6130 - acc: 0.8523 - val_loss: 0.5970 - val_acc: 0.8100
+Epoch 17/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5917 - acc: 0.8614Epoch 00016: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-16--0.60--0.82.h5
+3019/3019 [==============================] - 167s - loss: 0.5912 - acc: 0.8612 - val_loss: 0.5995 - val_acc: 0.8193
+Epoch 18/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5127 - acc: 0.8797Epoch 00017: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-17--0.51--0.83.h5
+3019/3019 [==============================] - 168s - loss: 0.5134 - acc: 0.8794 - val_loss: 0.5139 - val_acc: 0.8325
+Epoch 19/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5081 - acc: 0.8790Epoch 00018: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-18--0.47--0.86.h5
+3019/3019 [==============================] - 168s - loss: 0.5075 - acc: 0.8791 - val_loss: 0.4665 - val_acc: 0.8602
+Epoch 20/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4527 - acc: 0.8930Epoch 00019: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-19--0.50--0.84.h5
+3019/3019 [==============================] - 168s - loss: 0.4533 - acc: 0.8930 - val_loss: 0.5009 - val_acc: 0.8364
+Epoch 21/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4056 - acc: 0.9036Epoch 00020: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-20--0.48--0.85.h5
+3019/3019 [==============================] - 168s - loss: 0.4054 - acc: 0.9033 - val_loss: 0.4750 - val_acc: 0.8522
+Epoch 22/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4078 - acc: 0.9132Epoch 00021: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-21--0.47--0.86.h5
+3019/3019 [==============================] - 168s - loss: 0.4106 - acc: 0.9132 - val_loss: 0.4719 - val_acc: 0.8562
+Epoch 23/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3870 - acc: 0.9009Epoch 00022: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-22--0.47--0.85.h5
+3019/3019 [==============================] - 168s - loss: 0.3876 - acc: 0.9006 - val_loss: 0.4720 - val_acc: 0.8509
+Epoch 24/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3533 - acc: 0.9076Epoch 00023: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-23--0.43--0.87.h5
+3019/3019 [==============================] - 167s - loss: 0.3606 - acc: 0.9073 - val_loss: 0.4272 - val_acc: 0.8734
+Epoch 25/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3144 - acc: 0.9225Epoch 00024: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-24--0.36--0.89.h5
+3019/3019 [==============================] - 168s - loss: 0.3152 - acc: 0.9228 - val_loss: 0.3612 - val_acc: 0.8918
+Epoch 26/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3326 - acc: 0.9162Epoch 00025: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-25--0.36--0.90.h5
+3019/3019 [==============================] - 168s - loss: 0.3356 - acc: 0.9162 - val_loss: 0.3584 - val_acc: 0.8971
+Epoch 27/64
+2944/3019 [============================>.] - ETA: 3s - loss: 0.3176 - acc: 0.9252976/3019 [============================>.] - ETA: 2s - loss: 0.3161 - acc: 0.9253008/3019 [============================>.] - ETA: 0s - loss: 0.3165 - acc: 0.9255Epoch 00026: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-26--0.36--0.90.h5
+3019/3019 [==============================] - 167s - loss: 0.3221 - acc: 0.9248 - val_loss: 0.3637 - val_acc: 0.8997
+Epoch 28/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2916 - acc: 0.9249Epoch 00027: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-27--0.35--0.91.h5
+3019/3019 [==============================] - 167s - loss: 0.2914 - acc: 0.9251 - val_loss: 0.3531 - val_acc: 0.9063
+Epoch 29/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2674 - acc: 0.9299Epoch 00028: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-28--0.34--0.90.h5
+3019/3019 [==============================] - 167s - loss: 0.2701 - acc: 0.9298 - val_loss: 0.3380 - val_acc: 0.9037
+Epoch 30/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2442 - acc: 0.9378Epoch 00029: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-29--0.34--0.91.h5
+3019/3019 [==============================] - 167s - loss: 0.2458 - acc: 0.9377 - val_loss: 0.3364 - val_acc: 0.9050
+Epoch 31/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2423 - acc: 0.9435Epoch 00030: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-30--0.34--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2542 - acc: 0.9430 - val_loss: 0.3390 - val_acc: 0.9063
+Epoch 32/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2451 - acc: 0.9392Epoch 00031: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-31--0.31--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.2586 - acc: 0.9384 - val_loss: 0.3105 - val_acc: 0.9156
+Epoch 33/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2675 - acc: 0.9285Epoch 00032: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-32--0.30--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2676 - acc: 0.9285 - val_loss: 0.2971 - val_acc: 0.9129
+Epoch 34/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2125 - acc: 0.9485Epoch 00033: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-33--0.29--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.2130 - acc: 0.9483 - val_loss: 0.2893 - val_acc: 0.9182
+Epoch 35/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2001 - acc: 0.9518Epoch 00034: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-34--0.30--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2022 - acc: 0.9506 - val_loss: 0.3017 - val_acc: 0.9142
+Epoch 36/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1880 - acc: 0.9495Epoch 00035: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-35--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1880 - acc: 0.9497 - val_loss: 0.2809 - val_acc: 0.9208
+Epoch 37/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1784 - acc: 0.9581Epoch 00036: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-36--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1811 - acc: 0.9579 - val_loss: 0.2588 - val_acc: 0.9314
+Epoch 38/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1736 - acc: 0.9574Epoch 00037: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-37--0.28--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1734 - acc: 0.9576 - val_loss: 0.2760 - val_acc: 0.9274
+Epoch 39/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1720 - acc: 0.9594Epoch 00038: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-38--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1728 - acc: 0.9589 - val_loss: 0.2830 - val_acc: 0.9195
+Epoch 40/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1711 - acc: 0.9588Epoch 00039: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-39--0.29--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1763 - acc: 0.9583 - val_loss: 0.2864 - val_acc: 0.9235
+Epoch 41/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1420 - acc: 0.9674Epoch 00040: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-40--0.33--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.1438 - acc: 0.9669 - val_loss: 0.3264 - val_acc: 0.9103
+Epoch 42/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1557 - acc: 0.9644Epoch 00041: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-41--0.30--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1569 - acc: 0.9642 - val_loss: 0.3032 - val_acc: 0.9195
+Epoch 43/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1427 - acc: 0.9644Epoch 00042: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-42--0.27--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1437 - acc: 0.9642 - val_loss: 0.2677 - val_acc: 0.9208
+Epoch 44/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1327 - acc: 0.9634Epoch 00043: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-43--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1323 - acc: 0.9636 - val_loss: 0.2629 - val_acc: 0.9314
+Epoch 45/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1419 - acc: 0.9674Epoch 00044: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-44--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1421 - acc: 0.9675 - val_loss: 0.2573 - val_acc: 0.9314
+Epoch 46/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1226 - acc: 0.9688Epoch 00045: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-45--0.27--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1223 - acc: 0.9689 - val_loss: 0.2692 - val_acc: 0.9327
+Epoch 47/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1254 - acc: 0.9681Epoch 00046: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-46--0.26--0.93.h5
+3019/3019 [==============================] - 169s - loss: 0.1262 - acc: 0.9679 - val_loss: 0.2597 - val_acc: 0.9288
+Epoch 48/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1237 - acc: 0.9691Epoch 00047: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-47--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1240 - acc: 0.9692 - val_loss: 0.2773 - val_acc: 0.9222
+Epoch 49/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1165 - acc: 0.9717Epoch 00048: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-48--0.25--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1179 - acc: 0.9718 - val_loss: 0.2548 - val_acc: 0.9314
+Epoch 50/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1195 - acc: 0.9737Epoch 00049: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-49--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1193 - acc: 0.9738 - val_loss: 0.2644 - val_acc: 0.9314
+Epoch 51/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1079 - acc: 0.9731Epoch 00050: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-50--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1088 - acc: 0.9732 - val_loss: 0.2408 - val_acc: 0.9327
+Epoch 52/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1107 - acc: 0.9724Epoch 00051: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-51--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1121 - acc: 0.9718 - val_loss: 0.2382 - val_acc: 0.9340
+Epoch 53/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1085 - acc: 0.9734Epoch 00052: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-52--0.25--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1083 - acc: 0.9735 - val_loss: 0.2458 - val_acc: 0.9314
+Epoch 54/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1046 - acc: 0.9757Epoch 00053: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-53--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.1048 - acc: 0.9755 - val_loss: 0.2231 - val_acc: 0.9354
+Epoch 55/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0919 - acc: 0.9767Epoch 00054: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-54--0.21--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0918 - acc: 0.9768 - val_loss: 0.2062 - val_acc: 0.9393
+Epoch 56/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0952 - acc: 0.9754Epoch 00055: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-55--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0955 - acc: 0.9752 - val_loss: 0.2255 - val_acc: 0.9380
+Epoch 57/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0875 - acc: 0.9817Epoch 00056: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-56--0.22--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.0879 - acc: 0.9815 - val_loss: 0.2196 - val_acc: 0.9340
+Epoch 58/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0949 - acc: 0.9771Epoch 00057: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-57--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0946 - acc: 0.9771 - val_loss: 0.2298 - val_acc: 0.9367
+Epoch 59/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0868 - acc: 0.9787Epoch 00058: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-58--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0870 - acc: 0.9788 - val_loss: 0.2243 - val_acc: 0.9433
+Epoch 60/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0659 - acc: 0.9857Epoch 00059: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-59--0.22--0.94.h5
+3019/3019 [==============================] - 169s - loss: 0.0658 - acc: 0.9858 - val_loss: 0.2238 - val_acc: 0.9367
+Epoch 61/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0780 - acc: 0.9814Epoch 00060: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-60--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.0795 - acc: 0.9808 - val_loss: 0.2387 - val_acc: 0.9340
+Epoch 62/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0744 - acc: 0.9867Epoch 00061: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-61--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0745 - acc: 0.9868 - val_loss: 0.2238 - val_acc: 0.9380
+Epoch 63/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0767 - acc: 0.9824Epoch 00062: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-62--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0768 - acc: 0.9824 - val_loss: 0.2327 - val_acc: 0.9380
+Epoch 64/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0618 - acc: 0.9850Epoch 00063: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-63--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0624 - acc: 0.9851 - val_loss: 0.2317 - val_acc: 0.9380
+Finsh Training!
+Start Training.
+    Training with validation
+Epoch 1/64
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2393 get requests, put_count=2325 evicted_count=1000 eviction_rate=0.430108 and unsatisfied allocation rate=0.48809
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 100 to 110
+ 352/3019 [==>...........................] - ETA: 298s - loss: 6.1193 - acc: 0.0881I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2409 get requests, put_count=2520 evicted_count=1000 eviction_rate=0.396825 and unsatisfied allocation rate=0.37858
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 256 to 281
+ 800/3019 [======>.......................] - ETA: 172s - loss: 5.5643 - acc: 0.1212I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 4799 get requests, put_count=4832 evicted_count=1000 eviction_rate=0.206954 and unsatisfied allocation rate=0.213795
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 655 to 720
+3008/3019 [============================>.] - ETA: 0s - loss: 5.0356 - acc: 0.1695Epoch 00000: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-00--2.21--0.17.h5
+3019/3019 [==============================] - 219s - loss: 5.0304 - acc: 0.1696 - val_loss: 2.2076 - val_acc: 0.1675
+Epoch 2/64
+3008/3019 [============================>.] - ETA: 0s - loss: 3.8410 - acc: 0.2623Epoch 00001: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-01--1.85--0.31.h5
+3019/3019 [==============================] - 169s - loss: 3.8436 - acc: 0.2617 - val_loss: 1.8463 - val_acc: 0.3061
+Epoch 3/64
+3008/3019 [============================>.] - ETA: 0s - loss: 3.0858 - acc: 0.3574Epoch 00002: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-02--1.62--0.41.h5
+3019/3019 [==============================] - 167s - loss: 3.0843 - acc: 0.3574 - val_loss: 1.6171 - val_acc: 0.4077
+Epoch 4/64
+3008/3019 [============================>.] - ETA: 0s - loss: 2.5710 - acc: 0.4312Epoch 00003: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-03--1.49--0.46.h5
+3019/3019 [==============================] - 168s - loss: 2.5798 - acc: 0.4309 - val_loss: 1.4945 - val_acc: 0.4617
+Epoch 5/64
+3008/3019 [============================>.] - ETA: 0s - loss: 2.2223 - acc: 0.4987Epoch 00004: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-04--1.31--0.55.h5
+3019/3019 [==============================] - 167s - loss: 2.2248 - acc: 0.4992 - val_loss: 1.3123 - val_acc: 0.5488
+Epoch 6/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.8920 - acc: 0.5645Epoch 00005: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-05--1.25--0.57.h5
+3019/3019 [==============================] - 167s - loss: 1.8916 - acc: 0.5638 - val_loss: 1.2491 - val_acc: 0.5686
+Epoch 7/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.6601 - acc: 0.6280Epoch 00006: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-06--1.13--0.64.h5
+3019/3019 [==============================] - 168s - loss: 1.6598 - acc: 0.6270 - val_loss: 1.1274 - val_acc: 0.6359
+Epoch 8/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.3904 - acc: 0.6848Epoch 00007: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-07--0.93--0.70.h5
+3019/3019 [==============================] - 168s - loss: 1.3923 - acc: 0.6837 - val_loss: 0.9255 - val_acc: 0.6953
+Epoch 9/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.3089 - acc: 0.7011Epoch 00008: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-08--0.89--0.71.h5
+3019/3019 [==============================] - 168s - loss: 1.3087 - acc: 0.7012 - val_loss: 0.8870 - val_acc: 0.7071
+Epoch 10/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.2825 - acc: 0.7088Epoch 00009: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-09--0.94--0.70.h5
+3019/3019 [==============================] - 168s - loss: 1.2846 - acc: 0.7079 - val_loss: 0.9389 - val_acc: 0.7018
+Epoch 11/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.1152 - acc: 0.7490Epoch 00010: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-10--0.83--0.74.h5
+3019/3019 [==============================] - 168s - loss: 1.1159 - acc: 0.7489 - val_loss: 0.8311 - val_acc: 0.7414
+Epoch 12/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.9558 - acc: 0.7869Epoch 00011: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-11--0.75--0.76.h5
+3019/3019 [==============================] - 168s - loss: 0.9546 - acc: 0.7873 - val_loss: 0.7542 - val_acc: 0.7586
+Epoch 13/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.8560 - acc: 0.8032Epoch 00012: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-12--0.66--0.79.h5
+3019/3019 [==============================] - 168s - loss: 0.8593 - acc: 0.8029 - val_loss: 0.6629 - val_acc: 0.7929
+Epoch 14/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.7914 - acc: 0.8145Epoch 00013: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-13--0.67--0.79.h5
+3019/3019 [==============================] - 167s - loss: 0.7903 - acc: 0.8152 - val_loss: 0.6687 - val_acc: 0.7863
+Epoch 15/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.7047 - acc: 0.8404Epoch 00014: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-14--0.65--0.79.h5
+3019/3019 [==============================] - 168s - loss: 0.7033 - acc: 0.8410 - val_loss: 0.6468 - val_acc: 0.7916
+Epoch 16/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.6127 - acc: 0.8524Epoch 00015: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-15--0.60--0.81.h5
+3019/3019 [==============================] - 168s - loss: 0.6130 - acc: 0.8523 - val_loss: 0.5970 - val_acc: 0.8100
+Epoch 17/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5917 - acc: 0.8614Epoch 00016: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-16--0.60--0.82.h5
+3019/3019 [==============================] - 167s - loss: 0.5912 - acc: 0.8612 - val_loss: 0.5995 - val_acc: 0.8193
+Epoch 18/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5127 - acc: 0.8797Epoch 00017: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-17--0.51--0.83.h5
+3019/3019 [==============================] - 168s - loss: 0.5134 - acc: 0.8794 - val_loss: 0.5139 - val_acc: 0.8325
+Epoch 19/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5081 - acc: 0.8790Epoch 00018: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-18--0.47--0.86.h5
+3019/3019 [==============================] - 168s - loss: 0.5075 - acc: 0.8791 - val_loss: 0.4665 - val_acc: 0.8602
+Epoch 20/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4527 - acc: 0.8930Epoch 00019: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-19--0.50--0.84.h5
+3019/3019 [==============================] - 168s - loss: 0.4533 - acc: 0.8930 - val_loss: 0.5009 - val_acc: 0.8364
+Epoch 21/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4056 - acc: 0.9036Epoch 00020: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-20--0.48--0.85.h5
+3019/3019 [==============================] - 168s - loss: 0.4054 - acc: 0.9033 - val_loss: 0.4750 - val_acc: 0.8522
+Epoch 22/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4078 - acc: 0.9132Epoch 00021: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-21--0.47--0.86.h5
+3019/3019 [==============================] - 168s - loss: 0.4106 - acc: 0.9132 - val_loss: 0.4719 - val_acc: 0.8562
+Epoch 23/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3870 - acc: 0.9009Epoch 00022: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-22--0.47--0.85.h5
+3019/3019 [==============================] - 168s - loss: 0.3876 - acc: 0.9006 - val_loss: 0.4720 - val_acc: 0.8509
+Epoch 24/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3533 - acc: 0.9076Epoch 00023: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-23--0.43--0.87.h5
+3019/3019 [==============================] - 167s - loss: 0.3606 - acc: 0.9073 - val_loss: 0.4272 - val_acc: 0.8734
+Epoch 25/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3144 - acc: 0.9225Epoch 00024: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-24--0.36--0.89.h5
+3019/3019 [==============================] - 168s - loss: 0.3152 - acc: 0.9228 - val_loss: 0.3612 - val_acc: 0.8918
+Epoch 26/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3326 - acc: 0.9162Epoch 00025: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-25--0.36--0.90.h5
+3019/3019 [==============================] - 168s - loss: 0.3356 - acc: 0.9162 - val_loss: 0.3584 - val_acc: 0.8971
+Epoch 27/64
+2944/3019 [============================>.] - ETA: 3s - loss: 0.3176 - acc: 0.9252976/3019 [============================>.] - ETA: 2s - loss: 0.3161 - acc: 0.9253008/3019 [============================>.] - ETA: 0s - loss: 0.3165 - acc: 0.9255Epoch 00026: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-26--0.36--0.90.h5
+3019/3019 [==============================] - 167s - loss: 0.3221 - acc: 0.9248 - val_loss: 0.3637 - val_acc: 0.8997
+Epoch 28/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2916 - acc: 0.9249Epoch 00027: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-27--0.35--0.91.h5
+3019/3019 [==============================] - 167s - loss: 0.2914 - acc: 0.9251 - val_loss: 0.3531 - val_acc: 0.9063
+Epoch 29/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2674 - acc: 0.9299Epoch 00028: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-28--0.34--0.90.h5
+3019/3019 [==============================] - 167s - loss: 0.2701 - acc: 0.9298 - val_loss: 0.3380 - val_acc: 0.9037
+Epoch 30/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2442 - acc: 0.9378Epoch 00029: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-29--0.34--0.91.h5
+3019/3019 [==============================] - 167s - loss: 0.2458 - acc: 0.9377 - val_loss: 0.3364 - val_acc: 0.9050
+Epoch 31/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2423 - acc: 0.9435Epoch 00030: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-30--0.34--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2542 - acc: 0.9430 - val_loss: 0.3390 - val_acc: 0.9063
+Epoch 32/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2451 - acc: 0.9392Epoch 00031: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-31--0.31--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.2586 - acc: 0.9384 - val_loss: 0.3105 - val_acc: 0.9156
+Epoch 33/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2675 - acc: 0.9285Epoch 00032: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-32--0.30--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2676 - acc: 0.9285 - val_loss: 0.2971 - val_acc: 0.9129
+Epoch 34/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2125 - acc: 0.9485Epoch 00033: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-33--0.29--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.2130 - acc: 0.9483 - val_loss: 0.2893 - val_acc: 0.9182
+Epoch 35/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2001 - acc: 0.9518Epoch 00034: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-34--0.30--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2022 - acc: 0.9506 - val_loss: 0.3017 - val_acc: 0.9142
+Epoch 36/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1880 - acc: 0.9495Epoch 00035: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-35--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1880 - acc: 0.9497 - val_loss: 0.2809 - val_acc: 0.9208
+Epoch 37/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1784 - acc: 0.9581Epoch 00036: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-36--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1811 - acc: 0.9579 - val_loss: 0.2588 - val_acc: 0.9314
+Epoch 38/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1736 - acc: 0.9574Epoch 00037: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-37--0.28--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1734 - acc: 0.9576 - val_loss: 0.2760 - val_acc: 0.9274
+Epoch 39/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1720 - acc: 0.9594Epoch 00038: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-38--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1728 - acc: 0.9589 - val_loss: 0.2830 - val_acc: 0.9195
+Epoch 40/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1711 - acc: 0.9588Epoch 00039: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-39--0.29--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1763 - acc: 0.9583 - val_loss: 0.2864 - val_acc: 0.9235
+Epoch 41/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1420 - acc: 0.9674Epoch 00040: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-40--0.33--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.1438 - acc: 0.9669 - val_loss: 0.3264 - val_acc: 0.9103
+Epoch 42/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1557 - acc: 0.9644Epoch 00041: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-41--0.30--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1569 - acc: 0.9642 - val_loss: 0.3032 - val_acc: 0.9195
+Epoch 43/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1427 - acc: 0.9644Epoch 00042: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-42--0.27--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1437 - acc: 0.9642 - val_loss: 0.2677 - val_acc: 0.9208
+Epoch 44/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1327 - acc: 0.9634Epoch 00043: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-43--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1323 - acc: 0.9636 - val_loss: 0.2629 - val_acc: 0.9314
+Epoch 45/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1419 - acc: 0.9674Epoch 00044: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-44--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1421 - acc: 0.9675 - val_loss: 0.2573 - val_acc: 0.9314
+Epoch 46/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1226 - acc: 0.9688Epoch 00045: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-45--0.27--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1223 - acc: 0.9689 - val_loss: 0.2692 - val_acc: 0.9327
+Epoch 47/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1254 - acc: 0.9681Epoch 00046: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-46--0.26--0.93.h5
+3019/3019 [==============================] - 169s - loss: 0.1262 - acc: 0.9679 - val_loss: 0.2597 - val_acc: 0.9288
+Epoch 48/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1237 - acc: 0.9691Epoch 00047: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-47--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1240 - acc: 0.9692 - val_loss: 0.2773 - val_acc: 0.9222
+Epoch 49/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1165 - acc: 0.9717Epoch 00048: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-48--0.25--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1179 - acc: 0.9718 - val_loss: 0.2548 - val_acc: 0.9314
+Epoch 50/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1195 - acc: 0.9737Epoch 00049: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-49--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1193 - acc: 0.9738 - val_loss: 0.2644 - val_acc: 0.9314
+Epoch 51/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1079 - acc: 0.9731Epoch 00050: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-50--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1088 - acc: 0.9732 - val_loss: 0.2408 - val_acc: 0.9327
+Epoch 52/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1107 - acc: 0.9724Epoch 00051: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-51--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1121 - acc: 0.9718 - val_loss: 0.2382 - val_acc: 0.9340
+Epoch 53/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1085 - acc: 0.9734Epoch 00052: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-52--0.25--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1083 - acc: 0.9735 - val_loss: 0.2458 - val_acc: 0.9314
+Epoch 54/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1046 - acc: 0.9757Epoch 00053: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-53--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.1048 - acc: 0.9755 - val_loss: 0.2231 - val_acc: 0.9354
+Epoch 55/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0919 - acc: 0.9767Epoch 00054: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-54--0.21--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0918 - acc: 0.9768 - val_loss: 0.2062 - val_acc: 0.9393
+Epoch 56/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0952 - acc: 0.9754Epoch 00055: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-55--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0955 - acc: 0.9752 - val_loss: 0.2255 - val_acc: 0.9380
+Epoch 57/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0875 - acc: 0.9817Epoch 00056: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-56--0.22--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.0879 - acc: 0.9815 - val_loss: 0.2196 - val_acc: 0.9340
+Epoch 58/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0949 - acc: 0.9771Epoch 00057: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-57--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0946 - acc: 0.9771 - val_loss: 0.2298 - val_acc: 0.9367
+Epoch 59/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0868 - acc: 0.9787Epoch 00058: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-58--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0870 - acc: 0.9788 - val_loss: 0.2243 - val_acc: 0.9433
+Epoch 60/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0659 - acc: 0.9857Epoch 00059: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-59--0.22--0.94.h5
+3019/3019 [==============================] - 169s - loss: 0.0658 - acc: 0.9858 - val_loss: 0.2238 - val_acc: 0.9367
+Epoch 61/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0780 - acc: 0.9814Epoch 00060: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-60--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.0795 - acc: 0.9808 - val_loss: 0.2387 - val_acc: 0.9340
+Epoch 62/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0744 - acc: 0.9867Epoch 00061: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-61--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0745 - acc: 0.9868 - val_loss: 0.2238 - val_acc: 0.9380
+Epoch 63/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0767 - acc: 0.9824Epoch 00062: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-62--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0768 - acc: 0.9824 - val_loss: 0.2327 - val_acc: 0.9380
+Epoch 64/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0618 - acc: 0.9850Epoch 00063: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-63--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0624 - acc: 0.9851 - val_loss: 0.2317 - val_acc: 0.9380
+Finsh Training!
+Start Training.
+    Training with validation
+Epoch 1/64
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2393 get requests, put_count=2325 evicted_count=1000 eviction_rate=0.430108 and unsatisfied allocation rate=0.48809
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 100 to 110
+ 352/3019 [==>...........................] - ETA: 298s - loss: 6.1193 - acc: 0.0881I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 2409 get requests, put_count=2520 evicted_count=1000 eviction_rate=0.396825 and unsatisfied allocation rate=0.37858
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 256 to 281
+ 800/3019 [======>.......................] - ETA: 172s - loss: 5.5643 - acc: 0.1212I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 4799 get requests, put_count=4832 evicted_count=1000 eviction_rate=0.206954 and unsatisfied allocation rate=0.213795
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 655 to 720
+3008/3019 [============================>.] - ETA: 0s - loss: 5.0356 - acc: 0.1695Epoch 00000: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-00--2.21--0.17.h5
+3019/3019 [==============================] - 219s - loss: 5.0304 - acc: 0.1696 - val_loss: 2.2076 - val_acc: 0.1675
+Epoch 2/64
+3008/3019 [============================>.] - ETA: 0s - loss: 3.8410 - acc: 0.2623Epoch 00001: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-01--1.85--0.31.h5
+3019/3019 [==============================] - 169s - loss: 3.8436 - acc: 0.2617 - val_loss: 1.8463 - val_acc: 0.3061
+Epoch 3/64
+3008/3019 [============================>.] - ETA: 0s - loss: 3.0858 - acc: 0.3574Epoch 00002: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-02--1.62--0.41.h5
+3019/3019 [==============================] - 167s - loss: 3.0843 - acc: 0.3574 - val_loss: 1.6171 - val_acc: 0.4077
+Epoch 4/64
+3008/3019 [============================>.] - ETA: 0s - loss: 2.5710 - acc: 0.4312Epoch 00003: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-03--1.49--0.46.h5
+3019/3019 [==============================] - 168s - loss: 2.5798 - acc: 0.4309 - val_loss: 1.4945 - val_acc: 0.4617
+Epoch 5/64
+3008/3019 [============================>.] - ETA: 0s - loss: 2.2223 - acc: 0.4987Epoch 00004: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-04--1.31--0.55.h5
+3019/3019 [==============================] - 167s - loss: 2.2248 - acc: 0.4992 - val_loss: 1.3123 - val_acc: 0.5488
+Epoch 6/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.8920 - acc: 0.5645Epoch 00005: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-05--1.25--0.57.h5
+3019/3019 [==============================] - 167s - loss: 1.8916 - acc: 0.5638 - val_loss: 1.2491 - val_acc: 0.5686
+Epoch 7/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.6601 - acc: 0.6280Epoch 00006: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-06--1.13--0.64.h5
+3019/3019 [==============================] - 168s - loss: 1.6598 - acc: 0.6270 - val_loss: 1.1274 - val_acc: 0.6359
+Epoch 8/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.3904 - acc: 0.6848Epoch 00007: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-07--0.93--0.70.h5
+3019/3019 [==============================] - 168s - loss: 1.3923 - acc: 0.6837 - val_loss: 0.9255 - val_acc: 0.6953
+Epoch 9/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.3089 - acc: 0.7011Epoch 00008: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-08--0.89--0.71.h5
+3019/3019 [==============================] - 168s - loss: 1.3087 - acc: 0.7012 - val_loss: 0.8870 - val_acc: 0.7071
+Epoch 10/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.2825 - acc: 0.7088Epoch 00009: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-09--0.94--0.70.h5
+3019/3019 [==============================] - 168s - loss: 1.2846 - acc: 0.7079 - val_loss: 0.9389 - val_acc: 0.7018
+Epoch 11/64
+3008/3019 [============================>.] - ETA: 0s - loss: 1.1152 - acc: 0.7490Epoch 00010: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-10--0.83--0.74.h5
+3019/3019 [==============================] - 168s - loss: 1.1159 - acc: 0.7489 - val_loss: 0.8311 - val_acc: 0.7414
+Epoch 12/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.9558 - acc: 0.7869Epoch 00011: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-11--0.75--0.76.h5
+3019/3019 [==============================] - 168s - loss: 0.9546 - acc: 0.7873 - val_loss: 0.7542 - val_acc: 0.7586
+Epoch 13/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.8560 - acc: 0.8032Epoch 00012: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-12--0.66--0.79.h5
+3019/3019 [==============================] - 168s - loss: 0.8593 - acc: 0.8029 - val_loss: 0.6629 - val_acc: 0.7929
+Epoch 14/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.7914 - acc: 0.8145Epoch 00013: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-13--0.67--0.79.h5
+3019/3019 [==============================] - 167s - loss: 0.7903 - acc: 0.8152 - val_loss: 0.6687 - val_acc: 0.7863
+Epoch 15/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.7047 - acc: 0.8404Epoch 00014: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-14--0.65--0.79.h5
+3019/3019 [==============================] - 168s - loss: 0.7033 - acc: 0.8410 - val_loss: 0.6468 - val_acc: 0.7916
+Epoch 16/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.6127 - acc: 0.8524Epoch 00015: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-15--0.60--0.81.h5
+3019/3019 [==============================] - 168s - loss: 0.6130 - acc: 0.8523 - val_loss: 0.5970 - val_acc: 0.8100
+Epoch 17/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5917 - acc: 0.8614Epoch 00016: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-16--0.60--0.82.h5
+3019/3019 [==============================] - 167s - loss: 0.5912 - acc: 0.8612 - val_loss: 0.5995 - val_acc: 0.8193
+Epoch 18/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5127 - acc: 0.8797Epoch 00017: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-17--0.51--0.83.h5
+3019/3019 [==============================] - 168s - loss: 0.5134 - acc: 0.8794 - val_loss: 0.5139 - val_acc: 0.8325
+Epoch 19/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.5081 - acc: 0.8790Epoch 00018: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-18--0.47--0.86.h5
+3019/3019 [==============================] - 168s - loss: 0.5075 - acc: 0.8791 - val_loss: 0.4665 - val_acc: 0.8602
+Epoch 20/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4527 - acc: 0.8930Epoch 00019: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-19--0.50--0.84.h5
+3019/3019 [==============================] - 168s - loss: 0.4533 - acc: 0.8930 - val_loss: 0.5009 - val_acc: 0.8364
+Epoch 21/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4056 - acc: 0.9036Epoch 00020: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-20--0.48--0.85.h5
+3019/3019 [==============================] - 168s - loss: 0.4054 - acc: 0.9033 - val_loss: 0.4750 - val_acc: 0.8522
+Epoch 22/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.4078 - acc: 0.9132Epoch 00021: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-21--0.47--0.86.h5
+3019/3019 [==============================] - 168s - loss: 0.4106 - acc: 0.9132 - val_loss: 0.4719 - val_acc: 0.8562
+Epoch 23/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3870 - acc: 0.9009Epoch 00022: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-22--0.47--0.85.h5
+3019/3019 [==============================] - 168s - loss: 0.3876 - acc: 0.9006 - val_loss: 0.4720 - val_acc: 0.8509
+Epoch 24/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3533 - acc: 0.9076Epoch 00023: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-23--0.43--0.87.h5
+3019/3019 [==============================] - 167s - loss: 0.3606 - acc: 0.9073 - val_loss: 0.4272 - val_acc: 0.8734
+Epoch 25/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3144 - acc: 0.9225Epoch 00024: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-24--0.36--0.89.h5
+3019/3019 [==============================] - 168s - loss: 0.3152 - acc: 0.9228 - val_loss: 0.3612 - val_acc: 0.8918
+Epoch 26/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.3326 - acc: 0.9162Epoch 00025: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-25--0.36--0.90.h5
+3019/3019 [==============================] - 168s - loss: 0.3356 - acc: 0.9162 - val_loss: 0.3584 - val_acc: 0.8971
+Epoch 27/64
+2944/3019 [============================>.] - ETA: 3s - loss: 0.3176 - acc: 0.9252976/3019 [============================>.] - ETA: 2s - loss: 0.3161 - acc: 0.9253008/3019 [============================>.] - ETA: 0s - loss: 0.3165 - acc: 0.9255Epoch 00026: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-26--0.36--0.90.h5
+3019/3019 [==============================] - 167s - loss: 0.3221 - acc: 0.9248 - val_loss: 0.3637 - val_acc: 0.8997
+Epoch 28/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2916 - acc: 0.9249Epoch 00027: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-27--0.35--0.91.h5
+3019/3019 [==============================] - 167s - loss: 0.2914 - acc: 0.9251 - val_loss: 0.3531 - val_acc: 0.9063
+Epoch 29/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2674 - acc: 0.9299Epoch 00028: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-28--0.34--0.90.h5
+3019/3019 [==============================] - 167s - loss: 0.2701 - acc: 0.9298 - val_loss: 0.3380 - val_acc: 0.9037
+Epoch 30/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2442 - acc: 0.9378Epoch 00029: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-29--0.34--0.91.h5
+3019/3019 [==============================] - 167s - loss: 0.2458 - acc: 0.9377 - val_loss: 0.3364 - val_acc: 0.9050
+Epoch 31/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2423 - acc: 0.9435Epoch 00030: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-30--0.34--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2542 - acc: 0.9430 - val_loss: 0.3390 - val_acc: 0.9063
+Epoch 32/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2451 - acc: 0.9392Epoch 00031: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-31--0.31--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.2586 - acc: 0.9384 - val_loss: 0.3105 - val_acc: 0.9156
+Epoch 33/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2675 - acc: 0.9285Epoch 00032: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-32--0.30--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2676 - acc: 0.9285 - val_loss: 0.2971 - val_acc: 0.9129
+Epoch 34/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2125 - acc: 0.9485Epoch 00033: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-33--0.29--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.2130 - acc: 0.9483 - val_loss: 0.2893 - val_acc: 0.9182
+Epoch 35/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.2001 - acc: 0.9518Epoch 00034: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-34--0.30--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.2022 - acc: 0.9506 - val_loss: 0.3017 - val_acc: 0.9142
+Epoch 36/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1880 - acc: 0.9495Epoch 00035: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-35--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1880 - acc: 0.9497 - val_loss: 0.2809 - val_acc: 0.9208
+Epoch 37/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1784 - acc: 0.9581Epoch 00036: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-36--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1811 - acc: 0.9579 - val_loss: 0.2588 - val_acc: 0.9314
+Epoch 38/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1736 - acc: 0.9574Epoch 00037: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-37--0.28--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1734 - acc: 0.9576 - val_loss: 0.2760 - val_acc: 0.9274
+Epoch 39/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1720 - acc: 0.9594Epoch 00038: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-38--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1728 - acc: 0.9589 - val_loss: 0.2830 - val_acc: 0.9195
+Epoch 40/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1711 - acc: 0.9588Epoch 00039: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-39--0.29--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1763 - acc: 0.9583 - val_loss: 0.2864 - val_acc: 0.9235
+Epoch 41/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1420 - acc: 0.9674Epoch 00040: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-40--0.33--0.91.h5
+3019/3019 [==============================] - 168s - loss: 0.1438 - acc: 0.9669 - val_loss: 0.3264 - val_acc: 0.9103
+Epoch 42/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1557 - acc: 0.9644Epoch 00041: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-41--0.30--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1569 - acc: 0.9642 - val_loss: 0.3032 - val_acc: 0.9195
+Epoch 43/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1427 - acc: 0.9644Epoch 00042: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-42--0.27--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1437 - acc: 0.9642 - val_loss: 0.2677 - val_acc: 0.9208
+Epoch 44/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1327 - acc: 0.9634Epoch 00043: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-43--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1323 - acc: 0.9636 - val_loss: 0.2629 - val_acc: 0.9314
+Epoch 45/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1419 - acc: 0.9674Epoch 00044: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-44--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1421 - acc: 0.9675 - val_loss: 0.2573 - val_acc: 0.9314
+Epoch 46/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1226 - acc: 0.9688Epoch 00045: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-45--0.27--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1223 - acc: 0.9689 - val_loss: 0.2692 - val_acc: 0.9327
+Epoch 47/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1254 - acc: 0.9681Epoch 00046: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-46--0.26--0.93.h5
+3019/3019 [==============================] - 169s - loss: 0.1262 - acc: 0.9679 - val_loss: 0.2597 - val_acc: 0.9288
+Epoch 48/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1237 - acc: 0.9691Epoch 00047: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-47--0.28--0.92.h5
+3019/3019 [==============================] - 168s - loss: 0.1240 - acc: 0.9692 - val_loss: 0.2773 - val_acc: 0.9222
+Epoch 49/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1165 - acc: 0.9717Epoch 00048: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-48--0.25--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1179 - acc: 0.9718 - val_loss: 0.2548 - val_acc: 0.9314
+Epoch 50/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1195 - acc: 0.9737Epoch 00049: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-49--0.26--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1193 - acc: 0.9738 - val_loss: 0.2644 - val_acc: 0.9314
+Epoch 51/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1079 - acc: 0.9731Epoch 00050: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-50--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1088 - acc: 0.9732 - val_loss: 0.2408 - val_acc: 0.9327
+Epoch 52/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1107 - acc: 0.9724Epoch 00051: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-51--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1121 - acc: 0.9718 - val_loss: 0.2382 - val_acc: 0.9340
+Epoch 53/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1085 - acc: 0.9734Epoch 00052: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-52--0.25--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.1083 - acc: 0.9735 - val_loss: 0.2458 - val_acc: 0.9314
+Epoch 54/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.1046 - acc: 0.9757Epoch 00053: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-53--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.1048 - acc: 0.9755 - val_loss: 0.2231 - val_acc: 0.9354
+Epoch 55/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0919 - acc: 0.9767Epoch 00054: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-54--0.21--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0918 - acc: 0.9768 - val_loss: 0.2062 - val_acc: 0.9393
+Epoch 56/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0952 - acc: 0.9754Epoch 00055: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-55--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0955 - acc: 0.9752 - val_loss: 0.2255 - val_acc: 0.9380
+Epoch 57/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0875 - acc: 0.9817Epoch 00056: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-56--0.22--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.0879 - acc: 0.9815 - val_loss: 0.2196 - val_acc: 0.9340
+Epoch 58/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0949 - acc: 0.9771Epoch 00057: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-57--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0946 - acc: 0.9771 - val_loss: 0.2298 - val_acc: 0.9367
+Epoch 59/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0868 - acc: 0.9787Epoch 00058: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-58--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0870 - acc: 0.9788 - val_loss: 0.2243 - val_acc: 0.9433
+Epoch 60/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0659 - acc: 0.9857Epoch 00059: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-59--0.22--0.94.h5
+3019/3019 [==============================] - 169s - loss: 0.0658 - acc: 0.9858 - val_loss: 0.2238 - val_acc: 0.9367
+Epoch 61/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0780 - acc: 0.9814Epoch 00060: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-60--0.24--0.93.h5
+3019/3019 [==============================] - 168s - loss: 0.0795 - acc: 0.9808 - val_loss: 0.2387 - val_acc: 0.9340
+Epoch 62/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0744 - acc: 0.9867Epoch 00061: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-61--0.22--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0745 - acc: 0.9868 - val_loss: 0.2238 - val_acc: 0.9380
+Epoch 63/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0767 - acc: 0.9824Epoch 00062: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-62--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0768 - acc: 0.9824 - val_loss: 0.2327 - val_acc: 0.9380
+Epoch 64/64
+3008/3019 [============================>.] - ETA: 0s - loss: 0.0618 - acc: 0.9850Epoch 00063: saving model to /home/jagger/workspace/NFCM_Classification/project/ipv3_full/weights/ipv3_full_image-63--0.23--0.94.h5
+3019/3019 [==============================] - 168s - loss: 0.0624 - acc: 0.9851 - val_loss: 0.2317 - val_acc: 0.9380
+Finsh Training
